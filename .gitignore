@@ -62,3 +62,22 @@ Thumbs.db
 !outputs/**/*.pdf
 !outputs/**/*.png
 !outputs/**/*.svg
+
+# Roary intermediates (large, regenerables)
+input_data/pangenome/roary_3mexicanas/pan_genome_reference.fa
+input_data/pangenome/roary_3mexicanas/core_gene_alignment.aln
+input_data/pangenome/roary_3mexicanas/*.dot
+input_data/pangenome/roary_3mexicanas/*.embl
+input_data/pangenome/roary_3mexicanas/clustered_proteins
+input_data/pangenome/roary_3mexicanas/gene_presence_absence.Rtab
+input_data/pangenome/roary_3mexicanas/accessory_binary_genes.fa
+input_data/pangenome/roary_3mexicanas/accessory.header.embl
+input_data/pangenome/roary_3mexicanas/accessory.tab
+input_data/pangenome/roary_3mexicanas/core_accessory.header.embl
+input_data/pangenome/roary_3mexicanas/core_accessory.tab
+input_data/pangenome/roary_3mexicanas/core_accessory_graph.dot
+input_data/pangenome/roary_3mexicanas/core_alignment_header.embl
+input_data/pangenome/roary_3mexicanas/*.fna
+input_data/pangenome/roary_3mexicanas/*.png
+input_data/pangenome/roary_3mexicanas/*.svg
+input_data/pangenome/roary_3mexicanas/temp_blast/

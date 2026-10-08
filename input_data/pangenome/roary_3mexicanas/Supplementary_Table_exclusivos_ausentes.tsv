@@ -1,0 +1,1096 @@
+Set	gene	annotation_roary	Description	Preferred_name	COG_category	GOs	EC	KEGG_ko	PFAMs	seed_ortholog	evalue	score
+Exclusive_15	group_1045	hypothetical protein	Sulfatase-modifying factor enzyme 1	ppkA	KLT	-	2.7.11.1	ko:K11912	FGE-sulfatase,PEGA,Pkinase	1279017.AQYJ01000025_gene752	2.67e-11	70.9
+Exclusive_15	group_1046	hypothetical protein	-	-	-	-	-	-	-	270374.MELB17_03627	0.0519	38.9
+Exclusive_15	Nuclear transport factor 2 family protein	Nuclear transport factor 2 family protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1048	Transcriptional regulator	HxlR-like helix-turn-helix	-	K	-	-	-	HxlR	1280001.BAOA01000075_gene3239	2.19e-73	220.0
+Exclusive_15	putative acetyltransferase	putative acetyltransferase	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1050	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	transcriptional regulator, MerR family	VV0135	K	-	-	-	MerR_1,Methyltransf_11,Methyltransf_25	323850.Shew_0250	1.14e-275	754.0
+Exclusive_15	group_1051	Major coat protein	-	-	-	-	-	-	-	1177181.T9A_00232	2.31e-08	52.4
+Exclusive_15	Single-stranded DNA-binding protein	Single-stranded DNA-binding protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1053	hypothetical protein	-	-	-	-	-	-	-	195103.CPF_0265	0.677	35.4
+Exclusive_15	group_1054	anaerobic ribonucleoside-triphosphate reductase-activating protein	Activation of anaerobic ribonucleoside-triphosphate reductase under anaerobic conditions by generation of an organic free radical, using S-adenosylmethionine and reduced flavodoxin as cosubstrates to produce 5'-deoxy-adenosine	nrdG	O	GO:0003674,GO:0003824,GO:0006139,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0008998,GO:0009058,GO:0009117,GO:0009165,GO:0009262,GO:0009263,GO:0009265,GO:0009394,GO:0009987,GO:0016491,GO:0016725,GO:0016728,GO:0018130,GO:0019438,GO:0019637,GO:0019692,GO:0034641,GO:0034654,GO:0044237,GO:0044238,GO:0044249,GO:0044271,GO:0044281,GO:0046385,GO:0046483,GO:0055086,GO:0055114,GO:0071704,GO:0090407,GO:1901135,GO:1901137,GO:1901293,GO:1901360,GO:1901362,GO:1901576	1.97.1.4	ko:K04068	Fer4_12	1116375.VEJY3_19701	4.25e-74	226.0
+Exclusive_15	group_1055	ATPase	-	-	-	-	-	-	-	1202962.KB907171_gene2615	5.5e-23	96.7
+Exclusive_15	group_1056	N-acetyltransferase domain-containing protein	-	-	-	-	-	-	-	485916.Dtox_2725	0.15	40.8
+Exclusive_15	S-2TMBeta domain-containing protein	S-2TMBeta domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	diadenylate cyclase	diadenylate cyclase	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	NTP-transf-2 domain-containing protein	NTP-transf-2 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	pancortin-3	pancortin-3	-	-	-	-	-	-	-	1217713.F993_00069	2.91e-90	270.0
+Exclusive_15	AAA-13 domain-containing protein	AAA-13 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1062	hypothetical protein	-	-	-	-	-	-	-	223926.28809624	4.32e-132	402.0
+Exclusive_15	group_1063	hypothetical protein	-	-	-	-	-	-	-	1191299.AJYX01000052_gene1488	0.0032	44.3
+Exclusive_15	group_1064	hypothetical protein	viral genome integration into host DNA	-	L	-	-	-	Phage_integrase	1201293.AKXQ01000001_gene2111	1.77e-159	484.0
+Exclusive_15	group_1065	hypothetical protein	-	-	-	-	-	-	-	1201293.AKXQ01000001_gene2110	7.73e-116	372.0
+Exclusive_15	site-specific integrase	site-specific integrase	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1067	hypothetical protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1068	Bacterioferritin-associated ferredoxin	Belongs to the prokaryotic molybdopterin-containing oxidoreductase family	nasA	C	-	-	ko:K00372	Fer2_BFD,Molybdop_Fe4S4,Molybdopterin,Molydop_binding	1280001.BAOA01000070_gene2875	0.0	1675.0
+Exclusive_15	group_1069	Lipoprotein	-	-	-	-	-	-	-	223926.28809378	8.73e-262	720.0
+Exclusive_15	group_1070	hypothetical protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1071	Enoyl-CoA hydratase/carnithine racemase	COG1024 Enoyl-CoA hydratase carnithine racemase	-	I	-	4.2.1.18	ko:K13766	ECH_1	1219076.N646_4048	1.18e-181	506.0
+Exclusive_15	group_1072	DUF2474 domain-containing protein	Protein of unknown function (DUF2474)	-	S	-	-	-	DUF2474	634500.EbC_12230	9.65e-07	47.0
+Exclusive_15	2-oxoacid:ferredoxin oxidoreductase subunit beta	2-oxoacid:ferredoxin oxidoreductase subunit beta	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1074	hypothetical protein	Pyruvate:ferredoxin oxidoreductase core domain II	-	C	-	-	-	PFOR_II,POR,POR_N	314292.VAS14_03213	8.22e-264	743.0
+Exclusive_15	group_1075	LysR family transcriptional regulator	LysR substrate binding domain	-	K	-	-	-	HTH_1,LysR_substrate	675814.VIC_001179	4.9e-84	263.0
+Exclusive_15	Thiopurine S-methyltransferase	Thiopurine S-methyltransferase	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1077	Electron transfer flavoprotein-ubiquinone oxidoreductase	Electron transfer flavoprotein-ubiquinone oxidoreductase	-	C	-	1.5.5.1	ko:K00311	ETF_QO,FAD_binding_2,NAD_binding_8	223926.28809523	0.0	1119.0
+Exclusive_15	group_1078	Electron transfer flavoprotein, alpha and beta subunits	COG2086 Electron transfer flavoprotein, beta subunit	-	C	-	-	ko:K03521	ETF	223926.28809524	1.31e-164	462.0
+Exclusive_15	group_1079	Conserved domain protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	NERD domain-containing protein	NERD domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1081	Porin family protein	Outer membrane protein beta-barrel domain	PP1185	M	-	-	-	OMP_b-brl	1116375.VEJY3_22681	8.15e-109	314.0
+Exclusive_15	group_1082	Mechanosensitive ion channel protein MscS	Mechanosensitive ion channel inner membrane domain 1	-	M	-	-	ko:K22051	MS_channel,MscS_TM,MscS_porin	1116375.VEJY3_22646	0.0	1297.0
+Exclusive_15	ABC-trans-aux domain-containing protein	ABC-trans-aux domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	MCE family protein	MCE family protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1085	ATPase subunit MlaF of the ABC-type intermembrane phospholipid transporter Mla	ATPases associated with a variety of cellular activities	-	Q	-	-	ko:K02065	ABC_tran	223926.28806351	1.69e-169	476.0
+Exclusive_15	group_1086	Intermembrane phospholipid transport system permease protein MlaE	Permease MlaE	-	Q	-	-	ko:K02066	MlaE,STAS_2	223926.28806350	6.26e-217	603.0
+Exclusive_15	group_1087	Regulator	-	VP1339	-	-	-	-	-	223926.28806327	3.75e-103	298.0
+Exclusive_15	group_1088	Glutaredoxin	COG0695 Glutaredoxin and related proteins	-	O	-	-	-	Glutaredoxin	223926.28806305	2.83e-48	154.0
+Exclusive_15	group_1089	DksA/TraR family C4-type zinc finger protein	Prokaryotic dksA/traR C4-type zinc finger	-	T	-	-	-	zf-dskA_traR	1280001.BAOA01000027_gene4819	6.37e-55	171.0
+Exclusive_15	group_1090	Adhesin	-	-	-	-	-	-	-	318167.Sfri_2349	1.5e-12	68.2
+Exclusive_15	group_1091	ATPase	-	-	-	-	-	-	-	1280001.BAOA01000027_gene4821	4.86e-103	303.0
+Exclusive_15	group_1092	Biopolymer transport protein ExbD	TolR membrane protein	tolR	U	-	-	ko:K03560	ExbD	1116375.VEJY3_04925	1.12e-94	276.0
+Exclusive_15	group_1093	Transposase	-	-	-	-	-	-	-	1116375.VEJY3_04180	9.33e-25	93.6
+Exclusive_15	Ubiquinone biosynthesis O-methyltransferase	Ubiquinone biosynthesis O-methyltransferase	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	RNA-directed DNA polymerase	RNA-directed DNA polymerase	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1096	hypothetical protein	-	-	-	-	-	-	-	4533.OB0097G10050.1	2.98	34.3
+Exclusive_15	group_1097	Recombinase family protein	Resolvase, N terminal domain	-	L	-	-	-	HTH_7,Resolvase	205914.HS_0445	1.3e-49	166.0
+Exclusive_15	Winged helix-turn-helix domain-containing protein	Winged helix-turn-helix domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1099	Ovule protein	-	-	-	-	-	-	-	1535287.JP74_11725	1890.0	26.6
+Exclusive_15	group_11	hypothetical protein	adenylate kinase	-	F	-	-	-	AAA_33,SKI	223926.28809321	6.54e-38	130.0
+Exclusive_15	group_1100	hypothetical protein	-	-	-	-	-	-	-	868864.Dester_0088	271.0	30.0
+Exclusive_15	group_1101	Integrase	DNA integration	-	L	-	-	-	Phage_int_SAM_3,Phage_integrase	1116375.VEJY3_08130	7.81e-108	321.0
+Exclusive_15	group_1102	VOC family protein	protein conserved in bacteria	-	S	-	-	ko:K09907	YecM	1280001.BAOA01000047_gene1743	4.21e-138	390.0
+Exclusive_15	pilA	Type IV pilin PilA	Belongs to the N-Me-Phe pilin family	pilA	NU	-	-	ko:K02650	N_methyl,Pilin	1219076.N646_1616	8.19e-48	158.0
+Exclusive_15	Lipid A biosynthesis lauroyl acyltransferase	Lipid A biosynthesis lauroyl acyltransferase	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1105	DNA-binding transcriptional regulator, LacI/PurR family	Bacterial regulatory proteins, lacI family	-	K	-	-	ko:K02529	LacI,Peripla_BP_3	223926.28807394	4.84e-233	642.0
+Exclusive_15	Endo-1,4-beta-mannosidase	Endo-1,4-beta-mannosidase	Cellulase (glycosyl hydrolase family 5)	-	G	-	-	-	Cellulase	223926.28807393	1.13e-275	751.0
+Exclusive_15	melB	Na+/melibiose symporter or related transporter	MFS/sugar transport protein	-	G	-	-	-	MFS_2	223926.28807392	0.0	887.0
+Exclusive_15	gamma-glutamylcyclotransferase	gamma-glutamylcyclotransferase	Gamma-glutamyl cyclotransferase, AIG2-like	VV2631	P	-	-	-	GGACT	223926.28807389	3.44e-131	372.0
+Exclusive_15	group_1109	hypothetical protein	COG2199 FOG GGDEF domain	-	T	-	-	-	GGDEF	223926.28807364	9.21e-163	462.0
+Exclusive_15	group_1110	Outer membrane protein OmpK	Nucleoside-specific channel-forming protein, Tsx	ompK	M	-	-	ko:K05517	Channel_Tsx	1116375.VEJY3_12285	7.71e-184	511.0
+Exclusive_15	2-dehydropantoate 2-reductase	2-dehydropantoate 2-reductase	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1112	CheW-like domain-containing protein	Two component signalling adaptor domain	VP2226	NT	-	-	ko:K03408	CheW	223926.28807219	2.9e-192	540.0
+Exclusive_15	group_1113	Type IV pilus assembly protein FimV	COG3170 Tfp pilus assembly protein FimV	-	NU	-	-	ko:K08086	-	223926.28807184	0.0	1707.0
+Exclusive_15	group_1114	hypothetical protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	yafU	Inner membrane protein yafU	-	-	-	-	-	-	-	223926.28805456	3.74e-174	487.0
+Exclusive_15	group_1116	ABC transporter permease	-	-	-	-	-	-	-	600809.BPLAN_021	14.4	33.9
+Exclusive_15	group_1117	OmpA family protein	-	-	-	-	-	-	-	675814.VIC_003444	3.4e-11	61.2
+Exclusive_15	dhaR	dihydroxyacetone kinase operon transcriptional regulator DhaR	PAS domain	-	K	-	-	ko:K05880	HTH_8,PAS,Sigma54_activat	674977.VMC_03060	0.0	1251.0
+Exclusive_15	group_1119	Phosphoenolpyruvate-protein phosphotransferase	PTS system fructose IIA component	-	G	-	2.7.1.202,2.7.3.9	ko:K02768,ko:K08483,ko:K11183,ko:K11189	EIIA-man,PEP-utilisers_N,PEP-utilizers,PEP-utilizers_C,PTS-HPr	674977.VMC_03070	0.0	1485.0
+Exclusive_15	dhaL	dihydroxyacetone kinase subunit DhaL	With DhaK and DhaM catalyzes the phosphorylation of dihydroxyacetone	-	S	-	2.7.1.121	ko:K05879	Dak2	1219076.N646_2550	1.51e-146	413.0
+Exclusive_15	dhaK	dihydroxyacetone kinase subunit DhaK	dihydroxyacetone kinase	-	G	-	2.7.1.121	ko:K05878	Dak1	674977.VMC_03090	1.45e-260	713.0
+Exclusive_15	gldA	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	Glycerol dehydrogenase	gldA	C	-	1.1.1.6	ko:K00005	Fe-ADH	674977.VMC_03100	2.29e-252	693.0
+Exclusive_15	ySH1	RNA processing exonuclease, beta-lactamase fold, Cft2 family	exonuclease of the beta-lactamase fold involved in RNA processing	-	J	-	-	ko:K07576	Beta-Casp,Lactamase_B,RMMBL	223926.28805220	0.0	884.0
+Exclusive_15	group_1124	UDP-glucose 6-dehydrogenase	Belongs to the UDP-glucose GDP-mannose dehydrogenase family	ugd	C	-	1.1.1.22	ko:K00012	UDPG_MGDP_dh,UDPG_MGDP_dh_C,UDPG_MGDP_dh_N	223926.28805218	1.02e-260	716.0
+Exclusive_15	wecA	UDP-N-acetylglucosamine--undecaprenyl-phosphate N-acetylglucosaminephosphotransferase	Catalyzes the transfer of the GlcNAc-1-phosphate moiety from UDP-GlcNAc onto the carrier lipid undecaprenyl phosphate (C55-P), yielding GlcNAc-pyrophosphoryl-undecaprenyl (GlcNAc-PP- C55)	wecA	M	-	2.7.8.33,2.7.8.35	ko:K02851	Glycos_transf_4	1219077.VAZ01S_021_00020	1.11e-193	544.0
+Exclusive_15	group_1126	Glycosyl transferase	COG0463 Glycosyltransferases involved in cell wall biogenesis	-	M	-	-	ko:K13002	Glycos_transf_2	1565314.OA34_08160	9.64e-79	244.0
+Exclusive_15	group_1127	mannose-6-phosphate isomerase, class I	Belongs to the mannose-6-phosphate isomerase type 1 family	-	G	-	5.3.1.8	ko:K01809	PMI_typeI	1116375.VEJY3_01055	6.97e-140	411.0
+Exclusive_15	Phosphoglucosamine mutase	Phosphoglucosamine mutase	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1129	mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase	Belongs to the mannose-6-phosphate isomerase type 2 family	rfbA	M	GO:0000271,GO:0003674,GO:0003824,GO:0005975,GO:0005976,GO:0008150,GO:0008152,GO:0008905,GO:0008928,GO:0009058,GO:0009059,GO:0016051,GO:0016740,GO:0016757,GO:0016772,GO:0016779,GO:0043170,GO:0044238,GO:0070568,GO:0071704,GO:1901576	2.7.7.13	ko:K00971	MannoseP_isomer,NTP_transferase	1517681.HW45_27255	6.09e-311	851.0
+Exclusive_15	GDP-mannose mannosyl hydrolase	GDP-mannose mannosyl hydrolase	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	GDP-L-fucose synthase	GDP-L-fucose synthase	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	gmd	GDP-mannose 4,6-dehydratase	Catalyzes the conversion of GDP-D-mannose to GDP-4- dehydro-6-deoxy-D-mannose	gmd	M	GO:0000271,GO:0003674,GO:0003824,GO:0005975,GO:0005976,GO:0006629,GO:0008150,GO:0008152,GO:0008446,GO:0008610,GO:0008653,GO:0009058,GO:0009059,GO:0009103,GO:0009987,GO:0016051,GO:0016829,GO:0016835,GO:0016836,GO:0033692,GO:0034637,GO:0034645,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044260,GO:0044262,GO:0044264,GO:0071704,GO:1901135,GO:1901137,GO:1901576,GO:1903509	4.2.1.47	ko:K01711	GDP_Man_Dehyd	1517681.HW45_04670	8.93e-250	687.0
+Exclusive_15	D-inositol-3-phosphate glycosyltransferase	D-inositol-3-phosphate glycosyltransferase	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1134	glycosyltransferase	Glycosyl transferase family 2	-	S	-	-	-	Glycos_transf_2	1137281.D778_00226	7.93e-18	88.2
+Exclusive_15	glycosyltransferase	glycosyltransferase	Glycosyltransferase like family 2	-	S	-	-	-	Glycos_transf_2	1408813.AYMG01000011_gene787	3.06e-52	181.0
+Exclusive_15	alpha-1,2-fucosyltransferase	alpha-1,2-fucosyltransferase	Glycosyl transferase, family 11	-	S	-	2.4.1.308	ko:K21367	Glyco_transf_11	1547445.LO80_02610	4.53e-41	150.0
+Exclusive_15	group_1137	hypothetical protein	-	-	-	-	-	-	-	7719.XP_002131434.1	2.39	37.7
+Exclusive_15	group_1138	ParB N-terminal domain-containing protein	-	-	-	-	-	-	-	1078083.HMPREF1208_01593	0.00144	47.8
+Exclusive_15	group_1139	hypothetical protein	-	-	-	-	-	-	-	10090.ENSMUSP00000082777	8.99	37.4
+Exclusive_15	oligosaccharide flippase family protein	oligosaccharide flippase family protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Wzz/FepE/Etk N-terminal domain-containing protein	Wzz/FepE/Etk N-terminal domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	gfcC	capsule biosynthesis GfcC family protein	Capsule biosynthesis GfcC	-	S	-	-	-	Caps_synth_GfcC	223926.28805198	5.27e-161	453.0
+Exclusive_15	group_1143	GGDEF domain-containing protein	COG3307 Lipid A core - O-antigen ligase and related enzymes	waaL	M	-	-	ko:K02847	Wzy_C	870967.VIS19158_09837	2.3e-31	130.0
+Exclusive_15	Glycosyltransferase family 25 (LPS biosynthesis protein)	Glycosyltransferase family 25 (LPS biosynthesis protein)	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1145	lauroyl-Kdo(2)-lipid IV(A) myristoyltransferase	Catalyzes the transfer of myristate from myristoyl-acyl carrier protein (ACP) to Kdo(2)-(lauroyl)-lipid IV(A) to form Kdo(2)-lipid A	lpxM	M	-	2.3.1.243	ko:K02560	Lip_A_acyltrans	674977.VMC_14510	5.31e-240	659.0
+Exclusive_15	group_1146	hypothetical protein	-	-	-	-	-	-	-	1408416.JNJT01000012_gene842	68.6	29.6
+Exclusive_15	group_1147	Acid phosphatase	COG2931, RTX toxins and related Ca2 -binding proteins	-	Q	-	-	-	-	223926.28805035	0.0	1489.0
+Exclusive_15	DUF951 domain-containing protein	DUF951 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1149	Outer membrane porin OmpC/OmpF/PhoE	COG3203 Outer membrane protein (porin)	-	M	-	-	-	Porin_1,Porin_4	674977.VMC_10750	5.15e-226	624.0
+Exclusive_15	Type IX secretion system membrane protein PorP/SprF	Type IX secretion system membrane protein PorP/SprF	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	phosphoribosyltransferase	phosphoribosyltransferase	-	-	-	-	-	-	-	313598.MED152_12114	0.252	42.0
+Exclusive_15	radical SAM protein	radical SAM protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Competence protein CoiA-like family, contains a putative nuclease domain	Competence protein CoiA-like family, contains a putative nuclease domain	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1154	hypothetical protein	protein conserved in cyanobacteria	-	D	-	-	-	PhdYeFM_antitox,Uma2	1219080.VEZ01S_20_00930	2.96e-15	75.1
+Exclusive_15	PIN7 domain-containing protein	PIN7 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1156	OsmC family protein	redox protein, regulator of disulfide bond formation	yhfA	O	-	-	ko:K07397	OsmC	223926.28808346	7.53e-72	218.0
+Exclusive_15	group_1157	phosphonoacetaldehyde hydrolase	Belongs to the HAD-like hydrolase superfamily. PhnX family	phnX	S	GO:0003674,GO:0003824	3.11.1.1	ko:K05306	HAD_2	223926.28808371	4.33e-194	538.0
+Exclusive_15	group_1158	hypothetical protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Glycoside hydrolase family 92 protein	Glycoside hydrolase family 92 protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1160	Alpha-mannosidase	Glycosyl hydrolase family 92	-	G	-	-	-	Glyco_hydro_92	1280001.BAOA01000126_gene1090	0.0	1651.0
+Exclusive_15	Alpha-1,2-mannosidase	Alpha-1,2-mannosidase	Glycosyl hydrolase family 92	-	G	-	-	-	Glyco_hydro_92	1280001.BAOA01000126_gene1089	0.0	1856.0
+Exclusive_15	group_1162	Alpha-mannosidase	Glycosyl hydrolase family 92	-	G	-	-	-	Glyco_hydro_92	1280001.BAOA01000126_gene1088	0.0	1662.0
+Exclusive_15	Alpha-mannosidase	Alpha-mannosidase	Glycosyl hydrolase family 92	-	G	-	-	-	Glyco_hydro_92	1280001.BAOA01000126_gene1087	0.0	1962.0
+Exclusive_15	group_1164	Transposase	-	-	-	-	-	-	-	223926.28808513	2.19e-292	800.0
+Exclusive_15	Arrestin-N domain-containing protein	Arrestin-N domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1166	Phosphoserine phosphatase	COG0560 Phosphoserine phosphatase	-	E	-	-	-	HAD	223926.28808515	7.75e-153	429.0
+Exclusive_15	TackOD1 domain-containing protein	TackOD1 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1168	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	Glycosyl transferase family group 2	-	M	-	-	ko:K11936	Glyco_tranf_2_3	223926.28808559	1.37e-307	839.0
+Exclusive_15	group_1169	Multidrug resistance efflux pump EmrA	HlyD family secretion protein	-	V	-	-	-	HlyD_3	223926.28808560	5.66e-234	645.0
+Exclusive_15	group_1170	Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase	AAA domain	-	L	-	-	-	AAA_11,AAA_12,PLDc_2,Toprim	1219077.VAZ01S_039_00670	0.0	2199.0
+Exclusive_15	group_1171	DNA-binding ferritin-like protein (oxidative damage protectant)	Ferritin-like domain	-	P	-	-	ko:K04047	Ferritin	223926.28808620	4.85e-107	308.0
+Exclusive_15	group_1172	hypothetical protein	-	-	-	-	-	-	-	391603.FBALC1_01452	0.245	35.8
+Exclusive_15	group_1173	hypothetical protein	-	-	-	-	-	-	-	38654.XP_006034401.1	0.724	33.5
+Exclusive_15	group_1174	DUF3820 domain-containing protein	protein conserved in bacteria	STM2426	S	-	-	ko:K09954	QSregVF_b	1191299.AJYX01000127_gene1076	5.24e-44	143.0
+Exclusive_15	group_1175	recombinase family protein	COG1961 Site-specific recombinases, DNA invertase Pin homologs	-	L	-	-	-	Recombinase,Resolvase,Zn_ribbon_recom	1191299.AJYX01000127_gene1075	1.79e-267	756.0
+Exclusive_15	group_1176	hypothetical protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1177	Rep-3 domain-containing protein	Initiator Replication protein	-	L	-	-	ko:K07498	DDE_Tnp_IS240,L_lactis_RepB_C,Rep_3	1408423.JHYA01000003_gene2137	0.000532	51.2
+Exclusive_15	group_1178	hypothetical protein	-	-	-	-	-	-	-	1151292.QEW_2965	3.56	33.9
+Exclusive_15	group_1179	hypothetical protein	-	-	-	-	-	-	-	7237.FBpp0300485	7.1	36.2
+Exclusive_15	group_1180	hypothetical protein	A helicase nuclease that prepares dsDNA breaks (DSB) for recombinational DNA repair. Binds to DSBs and unwinds DNA via a highly rapid and processive ATP-dependent bidirectional helicase activity. Unwinds dsDNA until it encounters a Chi (crossover hotspot instigator) sequence from the 3' direction. Cuts ssDNA a few nucleotides 3' to the Chi site. The properties and activities of the enzyme are changed at Chi. The Chi-altered holoenzyme produces a long 3'-ssDNA overhang and facilitates RecA-binding to the ssDNA for homologous DNA recombination and repair. Holoenzyme degrades any linearized DNA that is unable to undergo homologous recombination. In the holoenzyme this subunit has ssDNA-dependent ATPase and 5'-3' helicase activity. When added to pre-assembled RecBC greatly stimulates nuclease activity and augments holoenzyme processivity. Negatively regulates the RecA-loading ability of RecBCD	-	U	-	-	-	-	312309.VF_B0050	1.77e-13	83.2
+Exclusive_15	group_1181	hypothetical protein	-	-	-	-	-	-	-	5762.XP_002672416.1	2050.0	25.0
+Exclusive_15	Type I restriction enzyme endonuclease subunit	Type I restriction enzyme endonuclease subunit	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	hrgA	HrgA protein	Protein conserved in bacteria	-	S	-	-	-	-	870967.VIS19158_04266	7.49e-194	541.0
+Exclusive_15	group_1184	Restriction endonuclease subunit S	Type I restriction modification DNA specificity domain	-	V	-	3.1.21.3	ko:K01154	Methylase_S	202955.BBND01000005_gene278	7.85e-102	318.0
+Exclusive_15	group_1185	site-specific DNA-methyltransferase (adenine-specific)	COG0286 Type I restriction-modification system methyltransferase subunit	-	V	-	2.1.1.72	ko:K03427	HsdM_N,N6_Mtase	1116375.VEJY3_11790	0.0	1123.0
+Exclusive_15	Integrase family protein	Integrase family protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1187	AAA family ATPase	AAA ATPase domain	-	S	-	-	-	AAA_21	319224.Sputcn32_0155	5.98e-231	654.0
+Exclusive_15	group_1188	hypothetical protein	-	-	-	-	-	-	-	1454202.PPBDW_120463___1	0.422	32.3
+Exclusive_15	group_1189	Phage portal protein	-	-	-	-	-	-	-	1056512.D515_00622	2.74e-244	673.0
+Exclusive_15	Dolichol-phosphate mannosyltransferase subunit 3	Dolichol-phosphate mannosyltransferase subunit 3	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	PRC domain-containing protein	PRC domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1192	hypothetical protein	-	-	-	-	-	-	-	1437605.BACT_0369	3.22	34.7
+Exclusive_15	Lactate permease	Lactate permease	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1194	hypothetical protein	-	-	-	-	-	-	-	929558.SMGD1_0270	0.00261	45.4
+Exclusive_15	DUF3644 domain-containing protein	DUF3644 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	DUF968 domain-containing protein	DUF968 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1197	YopX domain-containing protein	-	-	-	-	-	-	-	925409.KI911562_gene2482	49.6	31.2
+Exclusive_15	FrhB-FdhB-C domain-containing protein	FrhB-FdhB-C domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Robl-LC7 domain-containing protein	Robl-LC7 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Ig-like domain-containing protein	Ig-like domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Helix-turn-helix domain protein	Helix-turn-helix domain protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	DUF4468 domain-containing protein	DUF4468 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1203	CopG family transcriptional regulator	-	-	-	-	-	-	-	715226.ABI_21900	37.6	31.6
+Exclusive_15	group_1204	Phage protein	-	-	-	-	-	-	-	123899.JPQP01000022_gene3511	7.87	33.1
+Exclusive_15	group_1205	hypothetical protein	COG1961 Site-specific recombinases, DNA invertase Pin homologs	-	L	-	-	-	HTH_23,HTH_38,HTH_7,Resolvase	644801.Psest_3156	4.94e-71	219.0
+Exclusive_15	group_1206	AAA family ATPase	COG2256 ATPase related to the helicase subunit of the Holliday junction resolvase	-	L	-	-	ko:K07478	AAA,AAA_assoc_2,MgsA_C,RuvB_N	565034.BHWA1_01625	0.000804	48.1
+Exclusive_15	group_1207	hypothetical protein	-	-	-	-	-	-	Pox_D5,PriCT_1,Prim-Pol,RepB_primase,VirE	1096546.WYO_0835	2.91e-12	76.3
+Exclusive_15	group_1208	hypothetical protein	-	-	-	-	-	-	-	4920.XP_004195864.1	200.0	32.7
+Exclusive_15	group_1209	hypothetical protein	-	-	-	-	-	-	-	33178.CADATEAP00006854	4.05	32.7
+Exclusive_15	group_1210	hypothetical protein	-	-	-	-	-	-	-	5334.XP_003036942.1	3.88	33.9
+Exclusive_15	group_1211	hypothetical protein	-	-	-	-	-	-	-	474922.ELA26748	15.7	32.3
+Exclusive_15	DUF5683 domain-containing protein	DUF5683 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	DUF1475 domain-containing protein	DUF1475 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	csgE	Curli production assembly/transport component CsgE	-	-	-	-	-	-	-	1348635.BBJY01000010_gene1359	2.44e-45	152.0
+Exclusive_15	Lactamase-B domain-containing protein	Lactamase-B domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Terminase	Terminase	-	-	-	-	-	-	-	926561.KB900617_gene1851	70.4	33.1
+Exclusive_15	CULLIN-2 domain-containing protein	CULLIN-2 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1218	hypothetical protein	-	-	-	-	-	-	-	318167.Sfri_1534	322.0	30.0
+Exclusive_15	group_1219	hypothetical protein	-	-	-	-	-	-	-	1357279.N018_02460	0.634	34.7
+Exclusive_15	group_1220	hypothetical protein	-	-	-	-	-	-	-	7668.SPU_023877-tr	271.0	31.2
+Exclusive_15	Cap4-nuclease domain-containing protein	Cap4-nuclease domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1222	hypothetical protein	-	-	-	-	-	-	-	28152.DJ57_162	1.5e-54	176.0
+Exclusive_15	AAA-23 domain-containing protein	AAA-23 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1224	hypothetical protein	-	-	-	-	-	-	-	3649.evm.TU.contig_33874.1	317.0	30.4
+Exclusive_15	group_1225	hypothetical protein	Sel1-like repeats.	KIAA0141	MOT	GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005739,GO:0006915,GO:0007154,GO:0007165,GO:0007166,GO:0008150,GO:0008219,GO:0008625,GO:0009987,GO:0010941,GO:0012501,GO:0019222,GO:0023052,GO:0030162,GO:0042981,GO:0043067,GO:0043226,GO:0043227,GO:0043229,GO:0043231,GO:0043281,GO:0044424,GO:0044444,GO:0044464,GO:0050789,GO:0050790,GO:0050794,GO:0050896,GO:0051171,GO:0051246,GO:0051336,GO:0051716,GO:0052547,GO:0052548,GO:0060255,GO:0065007,GO:0065009,GO:0080090,GO:0097190,GO:0097191,GO:2000116	-	-	Sel1	13735.ENSPSIP00000007096	6.31e-05	51.2
+Exclusive_15	sctF	type III secretion system needle filament subunit SctF	Type III secretion needle MxiH, YscF, SsaG, EprI, PscF, EscF	-	S	-	-	ko:K03221	T3SS_needle_F	223926.28806686	9.5e-43	140.0
+Exclusive_15	group_1227	hypothetical protein	Major facilitator Superfamily	-	EGP	-	-	ko:K03446	MFS_1	1280001.BAOA01000007_gene4019	6.05e-280	775.0
+Exclusive_15	group_1228	tandem-95 repeat protein	COG2931 RTX toxins and related Ca2 -binding proteins	-	Q	-	-	-	Cadherin_3,He_PIG,HemolysinCabind,VWA_2	223926.28806624	0.0	5178.0
+Exclusive_15	group_1229	HTH cro/C1-type domain-containing protein	-	VP1586	-	-	-	-	HTH_3	223926.28806577	1.83e-54	170.0
+Exclusive_15	group_1230	Transposase	-	-	-	-	-	-	-	1116375.VEJY3_07500	5.8e-31	109.0
+Exclusive_15	DUF2007 domain-containing protein	DUF2007 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1232	TMhelix containing protein	-	-	-	-	-	-	-	4909.A0A099P7C6	1.53	33.9
+Exclusive_15	MobA-MobL domain-containing protein	MobA-MobL domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Dystrophin	Dystrophin	-	-	-	-	-	-	-	1116375.VEJY3_07480	2.72e-24	91.7
+Exclusive_15	Phasin-2 domain-containing protein	Phasin-2 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	C2H2-type domain-containing protein	C2H2-type domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	terminase large subunit	terminase large subunit	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Phr family secreted Rap phosphatase inhibitor	Phr family secreted Rap phosphatase inhibitor	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	P2-N domain-containing protein	P2-N domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	TMhelix containing protein	TMhelix containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Membrane transporter protein	Membrane transporter protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	LPXTG cell wall anchor domain-containing protein	LPXTG cell wall anchor domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	DNAase	DNAase	-	-	-	-	-	-	-	223926.28809199	3.03e-83	246.0
+Exclusive_15	group_1244	Chemotaxis protein	-	-	-	-	-	-	-	674977.VMC_41050	3.28e-93	274.0
+Exclusive_15	DUF4115 domain-containing protein	DUF4115 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1246	hypothetical protein	-	-	-	-	-	-	-	674977.VMC_41070	1.04e-06	57.0
+Exclusive_15	group_1247	Structural protein	-	-	-	-	-	-	-	674977.VMC_41080	5.62e-88	259.0
+Exclusive_15	group_1248	Holin	-	-	-	-	-	-	-	674977.VMC_41090	1.21e-44	144.0
+Exclusive_15	Antifreeze protein	Antifreeze protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	DUF805 domain-containing protein	DUF805 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1251	hypothetical protein	-	-	-	-	-	-	-	203122.Sde_2340	1.63e-16	87.8
+Exclusive_15	group_1252	Regulator	Phage protein	-	S	-	-	-	DUF3653	1116375.VEJY3_07390	2.02e-92	270.0
+Exclusive_15	group_1253	Regulator	-	-	-	-	-	-	DUF3653	1219076.N646_4297	4.23e-80	238.0
+Exclusive_15	Fusion glycoprotein F0	Fusion glycoprotein F0	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Vpf380	Vpf380	Zonular occludens toxin (Zot)	-	S	-	-	-	-	127509.Q7DKP3_9VIRU	3.51e-273	747.0
+Exclusive_15	Minor coat protein	Minor coat protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1257	Minor capsid protein	-	-	-	-	-	-	-	1219076.N646_0605	3.22e-203	580.0
+Exclusive_15	Phage coat protein	Phage coat protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1259	Single-stranded DNA-binding protein	integral to membrane	-	S	-	-	-	-	70203.O56848_9VIRU	5.58e-08	50.8
+Exclusive_15	SHOCT domain-containing protein	SHOCT domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Antirepressor	Antirepressor	Phage related protein	-	S	-	-	-	DUF3693	1219076.N646_4286	6.76e-75	224.0
+Exclusive_15	group_1262	hypothetical protein	-	-	-	-	-	-	-	1380387.JADM01000016_gene3762	217.0	26.6
+Exclusive_15	Immunity protein 49 of polymorphic toxin system	Immunity protein 49 of polymorphic toxin system	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1264	DUF3306 domain-containing protein	Protein of unknown function (DUF3306)	-	S	-	-	-	DUF3306	223926.28806500	7.75e-122	350.0
+Exclusive_15	group_1265	Helicase	-	XK27_09650	-	-	-	-	-	1280001.BAOA01000115_gene95	9.65e-52	169.0
+Exclusive_15	group_1266	DNA mistmatch repair protein MutT	NUDIX domain	-	L	-	-	-	NUDIX	1219076.N646_0545	3.44e-82	245.0
+Exclusive_15	group_1267	ADP-ribose pyrophosphatase YjhB, NUDIX family	GDP-mannose mannosyl hydrolase activity	nudJ	F	GO:0003674,GO:0003824,GO:0004787,GO:0016462,GO:0016787,GO:0016817,GO:0016818,GO:0017110,GO:0017111	3.6.1.55	ko:K03574,ko:K12152	NUDIX	223926.28806478	1.76e-85	253.0
+Exclusive_15	DUF1963 domain-containing protein	DUF1963 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1269	hypothetical protein	-	-	-	-	-	-	-	1219065.VPR01S_23_00240	4.25e-27	108.0
+Exclusive_15	group_1270	Replication protein	A nuclease family of the HNH/ENDO VII superfamily with conserved AHH	-	S	-	-	-	AHH	1219065.VPR01S_23_00250	5.29e-31	123.0
+Exclusive_15	DUF1629 domain-containing protein	DUF1629 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	DUF3846 domain-containing protein	DUF3846 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	DUF4265 domain-containing protein	DUF4265 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1274	hypothetical protein	-	-	-	-	-	-	-	575788.VS_II0977	3.4e-48	157.0
+Exclusive_15	group_1275	hypothetical protein	-	-	-	-	-	-	-	575788.VS_II0978	2.08e-97	286.0
+Exclusive_15	group_1276	hypothetical protein	Domain of unknown function (DUF4150)	-	D	-	-	ko:K21471	DUF4150,NLPC_P60	1219065.VPR01S_23_00260	1.53e-122	382.0
+Exclusive_15	yuxK	putative thiol-disulfide oxidoreductase YuxK, DCC family	protein conserved in bacteria	-	S	-	-	-	DUF393	223926.28808163	1.28e-93	272.0
+Exclusive_15	group_1278	Mobile element protein	-	-	-	-	-	-	-	3694.POPTR_0019s12490.1	10.1	32.0
+Exclusive_15	group_1279	Protein N-acetyltransferase, RimJ/RimL family	COG1670 Acetyltransferases, including N-acetylases of ribosomal proteins	-	J	-	-	-	Acetyltransf_3	223926.28810122	2.06e-125	357.0
+Exclusive_15	group_1280	hypothetical protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1281	hypothetical protein	-	-	-	-	-	-	-	314285.KT71_00965	398.0	26.2
+Exclusive_15	lamB	Maltoporin	Involved in the transport of maltose and maltodextrins	lamB	M	GO:0003674,GO:0005215,GO:0005363,GO:0006810,GO:0008150,GO:0008643,GO:0015144,GO:0015154,GO:0015157,GO:0015267,GO:0015288,GO:0015481,GO:0015766,GO:0015768,GO:0015772,GO:0022803,GO:0022829,GO:0022857,GO:0034219,GO:0051179,GO:0051234,GO:0055085,GO:0071702	-	ko:K02024	LamB	223926.28810046	0.0	879.0
+Exclusive_15	group_1283	DUF4056 domain-containing protein	Protein of unknown function (DUF4056)	-	S	-	-	-	DUF4056	1280001.BAOA01000057_gene4548	5.13e-205	573.0
+Exclusive_15	Omp85 domain-containing protein	Omp85 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1285	TonB-dependent receptor	-	-	-	-	-	-	-	1280001.BAOA01000057_gene4550	7.11e-145	414.0
+Exclusive_15	group_1286	Transcriptional regulator	COG1309 Transcriptional regulator	-	K	-	-	ko:K19736	TetR_C_7,TetR_N	1280001.BAOA01000057_gene4551	2.29e-105	308.0
+Exclusive_15	group_1287	DUF1835 domain-containing protein	Domain of unknown function (DUF1835)	-	S	-	-	-	DUF1835	223926.28810010	9.54e-249	689.0
+Exclusive_15	group_1288	monooxygenase	Putative mono-oxygenase ydhR	-	C	-	-	-	ydhR	1280001.BAOA01000057_gene4554	2.68e-67	204.0
+Exclusive_15	Uncharacterized conserved protein, contains restriction enzyme R protein N terminal (HSDR_N) domain	Uncharacterized conserved protein, contains restriction enzyme R protein N terminal (HSDR_N) domain	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1290	Recombinase	-	-	-	-	-	-	-	1117318.PRUB_17322	3.37e-45	150.0
+Exclusive_15	Translation initiation inhibitor	Translation initiation inhibitor	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1292	DUF1800 domain-containing protein	-	-	-	-	-	-	-	674977.VMC_26530	2.39e-185	516.0
+Exclusive_15	Zn-dependent exopeptidase M28	Zn-dependent exopeptidase M28	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1294	HNH endonuclease	HNH nucleases	-	V	-	-	-	HNH	674977.VMC_32900	3.09e-134	384.0
+Exclusive_15	group_1295	hypothetical protein	HNH nucleases	-	V	-	-	-	HNH	674977.VMC_32900	4.75e-40	139.0
+Exclusive_15	group_1296	Acetyltransferase	Acetyltransferase (GNAT) domain	-	S	-	-	-	Acetyltransf_1,Acetyltransf_3	745411.B3C1_19163	9.7e-64	200.0
+Exclusive_15	group_1297	hypothetical protein	-	-	-	-	-	-	-	5874.XP_954455.1	5.9	35.4
+Exclusive_15	group_1298	HEPN domain-containing protein	-	-	-	-	-	-	-	1056820.KB900681_gene2861	3.85e-07	52.4
+Exclusive_15	group_1299	DUF1706 domain-containing protein	Protein of unknown function (DUF1706)	-	S	-	-	-	DUF1706	223926.28806852	1.64e-109	316.0
+Exclusive_15	group_1300	Restriction endonuclease	-	-	-	-	-	-	-	1249634.D781_1365	1.12e-67	208.0
+Exclusive_15	reverse transcriptase domain-containing protein	reverse transcriptase domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	polC	DNA polymerase III, alpha subunit (gram-positive type)	COG2176 DNA polymerase III, alpha subunit (gram-positive type)	-	L	-	2.7.7.7	ko:K02342	RNase_T	1280001.BAOA01000034_gene2221	1.67e-108	317.0
+Exclusive_15	group_1303	hypothetical protein	COG2176 DNA polymerase III, alpha subunit (gram-positive type)	-	L	-	2.7.7.7	ko:K02342	RNase_T	1280001.BAOA01000034_gene2221	3.41e-14	69.3
+Exclusive_15	group_1304	methyltransferase domain-containing protein	methyltransferase activity	-	Q	-	-	-	Methyltransf_23,Methyltransf_25,Methyltransf_31,TehB	223926.28806994	5.17e-82	248.0
+Exclusive_15	group_1305	methyltransferase domain-containing protein	methyltransferase activity	-	Q	-	-	-	Methyltransf_23,Methyltransf_25,Methyltransf_31,TehB	223926.28806994	2.19e-57	183.0
+Exclusive_15	group_1306	Transposase	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1307	Pilus assembly protein	type II secretion system protein K	VP0659	U	-	-	-	-	1191299.AJYX01000064_gene3612	1.84e-138	409.0
+Exclusive_15	group_1308	Flp pilus assembly protein TadC	Flp pilus assembly protein TadC	-	NU	-	-	ko:K12511	T2SSF	223926.28808961	1.32e-192	536.0
+Exclusive_15	group_1309	Flp pilus assembly protein TadB	Type II secretion system (T2SS), protein F	-	U	-	-	ko:K12510	T2SSF	223926.28808960	7e-197	547.0
+Exclusive_15	group_1310	Flp family type IVb pilin	Flp/Fap pilin component	-	U	-	-	ko:K02651	Flp_Fap	223926.28808954	5.38e-28	103.0
+Exclusive_15	group_1311	Arylsulfatase A or related enzyme, AlkP superfamily	Arylsulfatase	-	P	-	3.1.6.1	ko:K01130	Sulfatase,Sulfatase_C	223926.28808915	0.0	1062.0
+Exclusive_15	group_1312	Protocatechuate 3,4-dioxygenase beta subunit	Protocatechuate 3,4-dioxygenase beta	-	Q	-	1.13.11.3	ko:K00449	Dioxygenase_C	223926.28808875	6.11e-128	363.0
+Exclusive_15	SMI1/KNR4 family protein	SMI1/KNR4 family protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Asparagine synthetase domain-containing protein	Asparagine synthetase domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1315	Transposase	Homeodomain-like domain	-	L	-	-	-	HTH_29,HTH_32,HTH_33	1116375.VEJY3_13930	1.04e-29	114.0
+Exclusive_15	group_1316	MSHA biogenesis protein MshA	Prokaryotic N-terminal methylation motif	-	NU	-	-	ko:K10924	N_methyl	223926.28807708	2.31e-51	168.0
+Exclusive_15	group_1317	MSHA biogenesis protein MshP	-	-	-	-	-	ko:K12286	-	223926.28807703	2.96e-78	235.0
+Exclusive_15	group_1318	DUF6701 domain-containing protein	alginic acid biosynthetic process	-	N	-	-	ko:K12287	-	223926.28807702	0.0	1738.0
+Exclusive_15	group_1319	Tyrosine recombinase XerC	Belongs to the 'phage' integrase family	-	L	-	-	-	Arm-DNA-bind_5,Phage_int_SAM_5,Phage_integrase	1191299.AJYX01000033_gene3028	6.95e-272	746.0
+Exclusive_15	Addiction module antitoxin	Addiction module antitoxin	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1321	site-specific DNA-methyltransferase (adenine-specific)	HsdM N-terminal domain	-	L	-	2.1.1.72	ko:K03427	HsdM_N,N6_Mtase	1565129.JSFF01000005_gene2332	0.0	1275.0
+Exclusive_15	group_1322	restriction endonuclease subunit S	Type I restriction modification DNA specificity domain	-	V	-	-	-	Methylase_S	1316936.K678_06577	8.73e-104	323.0
+Exclusive_15	group_1323	type I site-specific deoxyribonuclease	Type I restriction enzyme R protein N terminus (HSDR_N)	-	L	-	3.1.21.3	ko:K01153	HSDR_N,ResIII	1565129.JSFF01000005_gene2330	0.0	2070.0
+Exclusive_15	group_1324	AAA family ATPase	AAA domain, putative AbiEii toxin, Type IV TA system	-	S	-	-	-	AAA_21	642227.HA49_04590	1.86e-292	806.0
+Exclusive_15	group_1325	HNH endonuclease	HNH endonuclease	-	V	-	-	-	-	675817.VDA_002782	8.67e-127	369.0
+Exclusive_15	rhuM	Uncharacterized protein RhuM, Salmonella virulence factor	Virulence protein RhuM family	-	S	-	-	-	Virulence_RhuM	198628.Dda3937_01997	3.26e-231	638.0
+Exclusive_15	HEPN domain-containing protein	HEPN domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	V-type ATP synthase subunit D	V-type ATP synthase subunit D	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	putative DNA-binding transcriptional regulator, helix-turn-helix domain protein	putative DNA-binding transcriptional regulator, helix-turn-helix domain protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1330	Poly-beta-1,6-N-acetyl-D-glucosamine biosynthesis protein PgaD	-	-	-	-	-	-	-	1191299.AJYX01000033_gene3011	8.21e-86	253.0
+Exclusive_15	FUSC family protein	FUSC family protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	hlyD	HlyD family secretion protein	Belongs to the membrane fusion protein (MFP) (TC 8.A.1) family	-	V	-	-	-	HlyD_D23	1219076.N646_0792	1.33e-164	465.0
+Exclusive_15	group_1333	DUF1656 domain-containing protein	Protein of unknown function (DUF1656)	-	S	-	-	-	DUF1656	1219076.N646_0791	3.66e-37	125.0
+Exclusive_15	group_1334	Cation transporter	Cation efflux family	-	P	-	-	-	Cation_efflux	1116375.VEJY3_22731	2.48e-154	441.0
+Exclusive_15	group_1335	Amino acid permease	Amino acid permease	cadB	E	-	-	ko:K03757,ko:K03759	AA_permease_2	1116375.VEJY3_22726	2.77e-278	766.0
+Exclusive_15	Amino acid ABC transporter substrate-binding protein	Amino acid ABC transporter substrate-binding protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1337	putrescine-ornithine antiporter	Catalyzes both the uptake and excretion of putrescine. The uptake of putrescine is dependent on the membrane potential and the excretion involves putrescine-ornithine antiporter activity	potE	E	-	-	ko:K03756	AA_permease_2	1116375.VEJY3_22716	6.33e-294	805.0
+Exclusive_15	Arginine decarboxylase	Arginine decarboxylase	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	adiA	arginine decarboxylase	COG1982 Arginine lysine ornithine decarboxylases	adiA	E	-	4.1.1.19	ko:K01584	OKR_DC_1,OKR_DC_1_C,OKR_DC_1_N	1116375.VEJY3_22706	0.0	1446.0
+Exclusive_15	group_1340	pyridoxal kinase PdxY	Pyridoxal kinase involved in the salvage pathway of pyridoxal 5'-phosphate (PLP). Catalyzes the phosphorylation of pyridoxal to PLP	-	H	-	2.7.1.35	ko:K00868	Phos_pyr_kin	674977.VMC_27770	5.09e-168	473.0
+Exclusive_15	Phospholipase	Phospholipase	Patatin-like phospholipase	-	S	-	-	-	Patatin	674977.VMC_27760	1.28e-208	585.0
+Exclusive_15	DUF3168 domain-containing protein	DUF3168 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1343	LysR family transcriptional regulator	Bacterial regulatory helix-turn-helix protein, lysR family	-	K	-	-	-	HTH_1,LysR_substrate	674977.VMC_27740	2.47e-182	511.0
+Exclusive_15	group_1344	hypothetical protein	-	-	-	-	-	-	-	4098.XP_009626509.1	9.85	31.2
+Exclusive_15	group_1345	Peptidase-S9 domain-containing protein	-	-	-	-	-	-	-	1051646.VITU9109_12693	0.0	992.0
+Exclusive_15	LVIVD repeat-containing protein	LVIVD repeat-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1347	OmpA family protein	OmpA family	-	M	-	-	-	OmpA	1280001.BAOA01000084_gene3641	0.0	2957.0
+Exclusive_15	HATPase-c-4 domain-containing protein	HATPase-c-4 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1349	hypothetical protein	-	-	-	-	-	-	-	859653.HIMB5_00011260	0.994	38.1
+Exclusive_15	Plasmid pRiA4b ORF-3 family protein	Plasmid pRiA4b ORF-3 family protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1351	Chromosome partitioning protein ParB	-	-	-	-	-	-	-	223926.28806411	2.55e-103	300.0
+Exclusive_15	group_1352	Integrase	Phage integrase family	-	L	-	-	-	Arm-DNA-bind_3,Phage_integrase	1219076.N646_2036	4.77e-275	755.0
+Exclusive_15	traM	Conjugal transfer protein TraM	-	-	-	-	-	-	-	1230342.CTM_02544	0.494	38.5
+Exclusive_15	group_1354	Type I restriction enzyme endonuclease subunit	Subunit R is required for both nuclease and ATPase activities, but not for modification	-	L	-	3.1.21.3	ko:K01153	EcoR124_C,HSDR_N,ResIII	1219076.N646_2035	0.0	1994.0
+Exclusive_15	Cell filamentation protein Fic	Cell filamentation protein Fic	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Anticodon nuclease	Anticodon nuclease	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1357	Restriction endonuclease subunit S	Type I restriction modification DNA specificity domain	-	V	-	3.1.21.3	ko:K01154	Methylase_S	1219076.N646_2032	4.18e-177	507.0
+Exclusive_15	group_1358	type I restriction-modification system subunit M	HsdM N-terminal domain	hsdM	V	-	2.1.1.72	ko:K03427	HsdM_N,N6_Mtase	40373.F991_01287	0.0	966.0
+Exclusive_15	GIY-YIG domain-containing protein	GIY-YIG domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	UvrD-like helicase C-terminal domain	UvrD-like helicase C-terminal domain	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1361	MPN domain-containing protein	RadC-like JAB domain	-	L	-	-	ko:K03630	RadC	672.VV93_v1c04900	1.51e-105	305.0
+Exclusive_15	group_1362	Transposase	Protein of unknown function (DUF2787)	-	S	-	-	-	DUF2787	672.VV93_v1c04910	3.08e-102	296.0
+Exclusive_15	group_1363	DUF2787 domain-containing protein	Protein of unknown function (DUF2787)	-	S	-	-	-	DUF2787	1219076.N646_2025	3.96e-102	295.0
+Exclusive_15	DUF1232 domain-containing protein	DUF1232 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1365	DNA primase	-	-	-	-	-	-	-	672.VV93_v1c04940	1.68e-50	160.0
+Exclusive_15	group_1366	WYL domain-containing protein	transcriptional regulator	-	K	-	-	-	WYL	672.VV93_v1c04950	3.05e-235	647.0
+Exclusive_15	group_1367	Transcriptional regulator	Transcriptional regulator	-	K	-	-	ko:K07733	Phage_AlpA	1219076.N646_2021	3.54e-43	140.0
+Exclusive_15	G domain-containing protein	G domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1369	Signal peptide protein	-	-	-	-	-	-	-	672.VV93_v1c04980	4.53e-90	265.0
+Exclusive_15	Initiation	Initiation	DNA-templated transcription, initiation	-	K	-	-	ko:K03088	DUF4157,SatD,Sigma70_r2	1219076.N646_2018	1.32e-100	297.0
+Exclusive_15	group_1371	Helix-turn-helix domain-containing protein	-	-	-	-	-	-	HTH_24	1177181.T9A_02515	0.000383	50.8
+Exclusive_15	group_1372	Transposase	-	-	-	-	-	-	-	1217705.F900_02476	2.11	37.7
+Exclusive_15	group_1373	DUF4065 domain-containing protein	Protein of unknown function (DUF4065)	-	S	-	-	-	DUF4065	1122211.JMLW01000007_gene109	4.89e-70	215.0
+Exclusive_15	RelA-SpoT domain-containing protein	RelA-SpoT domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Homoserine dehydrogenase	Homoserine dehydrogenase	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1376	Restriction endonuclease	-	-	-	-	-	-	-	1128912.GMES_2026	4.96e-143	415.0
+Exclusive_15	group_1377	hypothetical protein	Protein of unknown function (DUF4435)	-	S	-	-	-	DUF4435	90371.CY43_14355	5.8e-08	57.0
+Exclusive_15	group_1378	Secreted protein	-	-	-	-	-	-	-	44689.DDB0238758	28.3	34.7
+Exclusive_15	group_1379	Transposase	Transposase	-	S	-	-	-	Transposase_31	371042.NG99_23960	4.56e-66	213.0
+Exclusive_15	group_1380	AAA family ATPase	CobQ/CobB/MinD/ParA nucleotide binding domain	-	D	-	-	-	CbiA	335283.Neut_2577	8.05e-14	72.4
+Exclusive_15	DUF4349 domain-containing protein	DUF4349 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1382	P-type conjugative transfer ATPase TrbB	Type II/IV secretion system protein	-	U	-	-	ko:K20527	T2SSE	298386.PBPRB1602	4.5e-122	359.0
+Exclusive_15	group_1383	DUF3265 domain-containing protein	-	-	-	-	-	-	-	1028805.GGC_1121	6.64	31.6
+Exclusive_15	Metallothionein	Metallothionein	-	-	-	-	-	-	-	1110697.NCAST_31_01090	177000.0	19.2
+Exclusive_15	DUF3110 domain-containing protein	DUF3110 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	type I restriction endonuclease subunit M	type I restriction endonuclease subunit M	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1387	FH2 domain-containing protein	-	-	-	-	-	-	-	1219077.VAZ01S_039_00520	8.16e-17	75.1
+Exclusive_15	Pseudouridine synthase	Pseudouridine synthase	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1389	Transcriptional regulator	-	-	-	-	-	-	-	1319815.HMPREF0202_00895	5330.0	22.7
+Exclusive_15	group_1390	Kazal-like domain-containing protein	-	-	-	-	-	-	-	4096.XP_009769512.1	50.0	27.7
+Exclusive_15	group_1391	Acetyltransferase, gnat family	Acetyltransferase (GNAT) domain	-	K	-	-	-	Acetyltransf_1	223926.28808262	8.58e-92	270.0
+Exclusive_15	Short-chain dehydrogenase	Short-chain dehydrogenase	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Acetyltransferase, gnat family	Acetyltransferase, gnat family	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1394	Tetraheme cytochrome c subunit NapC of nitrate or TMAO reductase	Belongs to the TorC TorY family	torY	C	-	-	ko:K07821	Cytochrom_NNT	1219076.N646_3560	2.72e-262	718.0
+Exclusive_15	group_1395	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component	COG1116 ABC-type nitrate sulfonate bicarbonate transport system, ATPase component	-	P	-	-	ko:K15600	ABC_tran	223926.28808273	2.46e-170	476.0
+Exclusive_15	group_1396	HPt (histidine-containing phosphotransfer) domain	Hpt domain	-	S	-	-	-	Hpt	223926.28808979	1.57e-75	226.0
+Exclusive_15	Type II secretion system protein G	Type II secretion system protein G	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1398	hypothetical protein	-	-	-	-	-	-	-	768066.HELO_2290	901.0	26.2
+Exclusive_15	group_1399	MSHA biogenesis protein MshP	-	-	-	-	-	-	-	1219077.VAZ01S_039_00430	1.93e-18	85.9
+Exclusive_15	group_1400	Type IV pilin	-	-	-	-	-	-	-	298386.PBPRB1616	0.000155	48.1
+Exclusive_15	group_1401	Site-specific DNA-methyltransferase (adenine-specific)	N-6 DNA Methylase	-	L	-	-	-	N6_Mtase	1123234.AUKI01000016_gene2993	4.42e-236	691.0
+Exclusive_15	Elongation factor Tu	Elongation factor Tu	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1403	TPR-REGION domain-containing protein	Tetratricopeptide repeats	-	S	-	-	-	-	1123230.ARQJ01000033_gene1554	2.68e-06	53.1
+Exclusive_15	group_1404	hypothetical protein	-	-	-	-	-	-	-	864702.OsccyDRAFT_2687	11.5	34.7
+Exclusive_15	group_1405	hypothetical protein	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	-	L	-	-	-	HATPase_c_3	1537917.JU82_00070	2.79e-07	56.2
+Exclusive_15	group_1406	hypothetical protein	-	-	-	-	-	-	-	674977.VMC_42620	1.97e-13	68.2
+Exclusive_15	TIR domain-containing protein	TIR domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	nuclear transport factor 2 family protein	nuclear transport factor 2 family protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1409	hypothetical protein	-	-	-	-	-	-	-	1552123.EP57_13050	5.68	36.2
+Exclusive_15	Recombination protein N	Recombination protein N	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1411	Uncharacterized damage-inducible protein DinB (Forms a four-helix bundle)	DinB family	-	S	-	-	-	DinB	1348635.BBJY01000001_gene2387	1.63e-85	255.0
+Exclusive_15	group_1412	hypothetical protein	-	-	-	-	-	-	-	1121859.KB890756_gene1496	14.7	35.0
+Exclusive_15	group_1413	VOC domain-containing protein	COG0346 Lactoylglutathione lyase and related lyases	-	E	-	4.4.1.5	ko:K01759	Glyoxalase	945543.VIBR0546_17203	1.99e-95	278.0
+Exclusive_15	group_1414	Chromosome partitioning protein ParA	Tetratricopeptide repeat	-	S	-	-	-	-	1235803.C825_05363	1.48e-50	173.0
+Exclusive_15	UPF0145 protein	UPF0145 protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	HEPN-MAE-28990 domain-containing protein	HEPN-MAE-28990 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1417	Phage protein	-	-	-	-	-	-	-	223926.28806784	3.14e-101	293.0
+Exclusive_15	group_1418	hypothetical protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	merR	MerR family transcriptional regulator	helix_turn_helix, mercury resistance	-	K	-	-	-	Cass2,MerR_1,TipAS	701176.VIBRN418_07898	1.71e-111	321.0
+Exclusive_15	dfsB	DUF1706 domain-containing protein	Protein of unknown function (DUF1706)	-	S	-	-	-	DUF1706	223926.28806852	4.73e-110	317.0
+Exclusive_15	group_1421	N-acetyltransferase domain-containing protein	COG1670 Acetyltransferases, including N-acetylases of ribosomal proteins	-	J	-	-	-	Acetyltransf_3	1117319.PSPO_12302	3.85e-103	298.0
+Exclusive_15	Aa-trans domain-containing protein	Aa-trans domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1423	Lysine transporter LysE	LysE type translocator	-	E	-	-	-	LysE	1051646.VITU9109_04002	2.74e-121	348.0
+Exclusive_15	PH domain-containing protein	PH domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	DUF6615 domain-containing protein	DUF6615 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Glyoxalase domain-containing protein	Glyoxalase domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Phage-int-SAM-5 domain-containing protein	Phage-int-SAM-5 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1428	hypothetical protein	-	-	-	-	-	-	-	1397699.JNIS01000001_gene1937	18.7	36.6
+Exclusive_15	GFA family protein	GFA family protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Adenylate kinase	Adenylate kinase	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	DUF2971 domain-containing protein	DUF2971 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1432	Helix-turn-helix domain-containing protein	-	-	-	-	-	-	-	1190606.AJYG01000181_gene1856	0.0444	40.8
+Exclusive_15	group_1433	hypothetical protein	-	-	-	-	-	-	-	1116472.MGMO_27c00050	1.75e-15	80.1
+Exclusive_15	DNA topology modulation protein	DNA topology modulation protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1435	DUF2489 domain-containing protein	Protein of unknown function (DUF3265)	-	S	-	-	-	DUF3265	1116375.VEJY3_08820	1.55e-08	56.2
+Exclusive_15	group_1436	hypothetical protein	-	-	-	-	-	-	-	331678.Cphamn1_2396	1.22e-23	100.0
+Exclusive_15	group_1437	FRG domain-containing protein	PFAM FRG domain	-	S	-	-	-	FRG	765912.Thimo_0360	5.38e-51	172.0
+Exclusive_15	group_1438	hypothetical protein	-	-	-	-	-	-	-	1117647.M5M_13464	5.32e-35	129.0
+Exclusive_15	group_1439	DUF3265 domain-containing protein	-	-	-	-	-	-	-	1219065.VPR01S_39_00040	1.31e-12	67.0
+Exclusive_15	group_1440	SMI1/KNR4 family protein	-	-	-	-	-	-	-	1202962.KB907154_gene642	3.78e-169	477.0
+Exclusive_15	group_1441	sulfur carrier protein ThiS	COG2104 Sulfur transfer protein involved in thiamine biosynthesis	thiS	H	-	-	ko:K03154	ThiS	223926.28808050	2.44e-36	123.0
+Exclusive_15	group_1442	AraC-type DNA-binding domain and AraC-containing proteins	Family transcriptional regulator	-	K	-	-	-	AraC_binding,HTH_18	223926.28808035	2.37e-195	541.0
+Exclusive_15	group_1443	Transposase	Transposase	yfaD	S	GO:0003674,GO:0003824,GO:0004518,GO:0004519,GO:0004520,GO:0004536,GO:0006139,GO:0006259,GO:0006310,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009987,GO:0016787,GO:0016788,GO:0016888,GO:0016893,GO:0034641,GO:0043170,GO:0044237,GO:0044238,GO:0044260,GO:0046483,GO:0071704,GO:0090304,GO:0090305,GO:0140097,GO:1901360,GO:1990238	-	-	Transposase_31	316275.VSAL_I0029	1.14e-77	240.0
+Exclusive_15	group_1444	Chromosome partitioning protein ParA	VirC1 protein	-	D	-	-	-	AAA_31	1248232.BANQ01000102_gene1448	1.9e-108	317.0
+Exclusive_15	group_1445	CopG family transcriptional regulator	-	-	-	-	-	-	-	81985.XP_006291180.1	679.0	28.1
+Exclusive_15	Alpha-helical coiled coil protein	Alpha-helical coiled coil protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Cold-shock protein	Cold-shock protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1448	Phosphatidylinositol kinase	-	coiA	-	-	-	ko:K06198	CoiA	870967.VIS19158_11593	5.3e-76	239.0
+Exclusive_15	group_1449	Recombinase RecF	AAA domain	-	L	-	-	ko:K03546	AAA_23	1397284.AYMN01000028_gene3362	2.43e-167	498.0
+Exclusive_15	Type II restriction endonuclease	Type II restriction endonuclease	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	CTD1 domain-containing protein	CTD1 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1452	bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD	MafB19-like deaminase	-	H	-	-	-	dCMP_cyt_deam_1	298386.PBPRB1665	4.89e-64	198.0
+Exclusive_15	group_1453	N-acetyltransferase domain-containing protein	Acetyltransferase (GNAT) domain	-	S	-	-	-	Acetyltransf_9	1219076.N646_0810	2.48e-106	308.0
+Exclusive_15	group_1454	hypothetical protein	-	-	-	-	-	-	-	479432.Sros_8008	21.1	33.1
+Exclusive_15	group_1455	hypothetical protein	-	-	-	-	-	-	-	96561.Dole_0447	0.0035	44.7
+Exclusive_15	group_1456	DUF4760 domain-containing protein	-	-	-	-	-	-	-	9031.ENSGALP00000039024	77.3	31.6
+Exclusive_15	group_1457	hypothetical protein	-	-	-	-	-	-	-	1191299.AJYX01000071_gene1193	5.93e-53	168.0
+Exclusive_15	group_1458	HEPN-AbiU2 domain-containing protein	-	-	-	-	-	-	-	4555.Si019473m	0.32	38.1
+Exclusive_15	DUF4238 domain-containing protein	DUF4238 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	DUF3630 domain-containing protein	DUF3630 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1461	DUF4440 domain-containing protein	Domain of unknown function (DUF4440)	-	S	-	-	-	DUF4440	1219077.VAZ01S_085_00050	3.5e-72	218.0
+Exclusive_15	group_1462	DUF4145 domain-containing protein	Domain of unknown function (DUF4145)	-	S	-	-	-	DUF4145	526218.Sterm_1309	5.56e-22	97.4
+Exclusive_15	group_1463	Transmembrane protein	-	-	-	-	-	-	-	748280.NH8B_0786	2.79	38.1
+Exclusive_15	HEPN-AbiU2 domain-containing protein	HEPN-AbiU2 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	DUF4917 domain-containing protein	DUF4917 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1466	N-acetyltransferase	Acetyltransferase (GNAT) domain	-	K	-	-	ko:K03826	Acetyltransf_10,Acetyltransf_7	1219065.VPR01S_05_02750	2.56e-79	237.0
+Exclusive_15	group_1467	hypothetical protein	-	-	-	-	-	-	-	626418.bglu_2g20710	1.6e-17	92.4
+Exclusive_15	group_1468	Protein N-acetyltransferase, RimJ/RimL family	Acetyltransferase (GNAT) domain	-	J	-	2.3.1.128	ko:K03790	Acetyltransf_3	223926.28806824	1.09e-104	303.0
+Exclusive_15	group_1469	TPR-REGION domain-containing protein	-	-	-	-	-	-	-	1033740.CAEW01000026_gene595	4.21e-05	47.4
+Exclusive_15	ABC transporter ATP-binding protein	ABC transporter ATP-binding protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Integral membrane protein	Integral membrane protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1472	Endonuclease	HNH nucleases	-	V	-	-	ko:K07451	HNH	511.JT27_10085	1.3e-34	127.0
+Exclusive_15	group_1473	Endonuclease	-	-	-	-	-	-	-	1217705.F900_02571	0.0113	42.0
+Exclusive_15	tadF	Pilus assembly protein TadF	Putative tight adherence pilin protein F	-	S	-	-	ko:K12514	TadF	223926.28808964	9.08e-133	377.0
+Exclusive_15	group_1475	Pilus assembly protein	PFAM TadE family protein	-	U	-	-	ko:K12513	TadE	223926.28808963	4.3e-124	353.0
+Exclusive_15	tadD	Flp pilus assembly protein TadD, contains TPR repeats	COG5010 Flp pilus assembly protein TadD, contains TPR repeats	-	U	-	-	ko:K12512	TPR_16	223926.28808962	6.32e-207	575.0
+Exclusive_15	group_1477	Structural protein	-	-	-	-	-	-	-	377629.TERTU_4116	0.00106	45.4
+Exclusive_15	Peptidoglycan-binding protein	Peptidoglycan-binding protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1479	IS3 family transposase	COG2801 Transposase and inactivated derivatives	-	L	-	-	ko:K07497	HTH_21,rve	675816.VIA_002750	3.44e-172	483.0
+Exclusive_15	group_1480	Transposase	Transposase	-	L	-	-	ko:K07483	HTH_Tnp_1	1219076.N646_0895	1.01e-62	192.0
+Exclusive_15	group_1481	hypothetical protein	-	-	-	-	-	-	-	649349.Lbys_1403	1010.0	25.0
+Exclusive_15	Cation-ATPase-N domain-containing protein	Cation-ATPase-N domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1483	Transmembrane protein	-	-	-	-	-	-	-	1184251.TCELL_0751	2.31	36.2
+Exclusive_15	group_1484	hypothetical protein	Transcriptional regulator	-	K	-	-	-	-	870967.VIS19158_09293	2.03e-45	156.0
+Exclusive_15	group_1485	IDEAL domain-containing protein	-	-	-	-	-	-	-	192952.MM_1962	2.6	33.5
+Exclusive_15	group_1486	Lipoprotein	-	-	-	-	-	-	-	913865.DOT_5953	0.199	39.7
+Exclusive_15	group_1487	Secreted protein	-	-	-	-	-	-	-	1117319.PSPO_07754	42.6	29.3
+Exclusive_15	pirA	PirA	-	-	-	-	-	-	-	243265.plu4093	2.12e-05	48.1
+Exclusive_15	pirB	PirB	delta endotoxin, N-terminal domain	-	S	-	-	-	Endotoxin_N	637905.SVI_1155	2.31e-121	367.0
+Exclusive_15	DDE-Tnp-1-7 domain-containing protein	DDE-Tnp-1-7 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	HNHc domain-containing protein	HNHc domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	Phage-Mu-F domain-containing protein	Phage-Mu-F domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1493	DUF4178 domain-containing protein	-	-	-	-	-	-	-	100226.SCO1798	17.8	32.7
+Exclusive_15	group_1494	hypothetical protein	-	-	-	-	-	-	-	28564.XP_002341729.1	1.54	32.3
+Exclusive_15	pentapeptide repeat-containing protein	pentapeptide repeat-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	qnrD	QnrD family quinolone resistance pentapeptide repeat protein	Pentapeptide repeats (9 copies)	qnrB1	S	-	-	ko:K18555	Pentapeptide,Pentapeptide_4	469595.CSAG_01495	1.41e-26	105.0
+Exclusive_15	group_1497	Transposase	to SP P39213	-	L	-	-	ko:K07483	HTH_Tnp_1	1219077.VAZ01S_131_00020	2.8e-58	181.0
+Exclusive_15	Integrase catalytic domain-containing protein	Integrase catalytic domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	NIPSNAP domain-containing protein	NIPSNAP domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1500	Conserved domain protein	-	-	-	-	-	-	-	674977.VMC_26520	1.74e-106	306.0
+Exclusive_15	group_1501	DNA polymerase III, alpha subunit (gram-positive type)	COG2176 DNA polymerase III, alpha subunit (gram-positive type)	-	L	-	2.7.7.7	ko:K02342	RNase_T	223926.28809028	1.13e-121	349.0
+Exclusive_15	group_1502	hypothetical protein	-	-	-	-	-	-	-	29495.EA26_20265	3.91e-05	47.8
+Exclusive_15	group_1503	IS3 family transposase	COG2801 Transposase and inactivated derivatives	-	L	-	-	ko:K07497	HTH_21,rve	870967.VIS19158_11094	4.25e-18	81.3
+Exclusive_15	group_1504	N-acetyltransferase domain-containing protein	-	-	-	-	-	-	-	1223523.H340_07683	5.35	35.4
+Exclusive_15	Txe/YoeB family addiction module toxin	Txe/YoeB family addiction module toxin	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1506	Antitoxin component YafN of the YafNO toxin-antitoxin module, PHD/YefM family	Antitoxin component of a toxin-antitoxin (TA) module	yefM	D	-	-	ko:K19159	PhdYeFM_antitox	223926.28806813	2.44e-51	162.0
+Exclusive_15	SCP2 domain-containing protein	SCP2 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1508	hypothetical protein	-	-	-	-	-	-	-	928314.Q6TUR7_YMTV5	1350.0	26.6
+Exclusive_15	group_1509	hypothetical protein	Acetyltransferase (GNAT) domain	-	K	-	-	-	Acetyltransf_1	1280001.BAOA01000238_gene3516	1.32e-29	108.0
+Exclusive_15	group_1510	hypothetical protein	NlpC P60 family protein	spr	M	GO:0000270,GO:0003674,GO:0003824,GO:0004175,GO:0006022,GO:0006508,GO:0006807,GO:0008150,GO:0008152,GO:0008233,GO:0009254,GO:0016787,GO:0019538,GO:0030203,GO:0043170,GO:0044238,GO:0070011,GO:0071704,GO:0140096,GO:1901135,GO:1901564	3.4.17.13	ko:K13694	NLPC_P60	521000.PROVRETT_05300	2.84e-24	95.5
+Exclusive_15	group_1511	hypothetical protein	succinate dehydrogenase	sdhC	C	-	-	ko:K00241	Sdh_cyt	1288.SXYLSMQ121_1652	1.47e-43	146.0
+Exclusive_15	group_1512	Transcriptional regulator	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_1513	hypothetical protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	proline racemase family protein	proline racemase family protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_2	hypothetical protein	Catalyzes the NAD( )-dependent oxidation of L-threonine to 2-amino-3-ketobutyrate	tdh	C	-	1.1.1.103	ko:K00060	ADH_N,ADH_zinc_N	223926.28809911	1.2e-92	279.0
+Exclusive_15	group_21	DUF4150 domain-containing protein	Domain of unknown function (DUF4150)	-	D	-	-	ko:K21471	DUF4150,NLPC_P60	1219065.VPR01S_23_00260	4.46e-298	820.0
+Exclusive_15	group_27	hypothetical protein	-	-	-	-	-	-	-	1219065.VPR01S_23_00240	1.52e-43	147.0
+Exclusive_15	group_3	hypothetical protein	COG5010 Flp pilus assembly protein TadD, contains TPR repeats	-	U	-	-	ko:K12512	TPR_16	223926.28808962	4.04e-05	45.8
+Exclusive_15	group_32	LysR family transcriptional regulator	Bacterial regulatory helix-turn-helix protein, lysR family	-	K	-	-	-	HTH_1,LysR_substrate	223926.28809214	2.3e-25	100.0
+Exclusive_15	group_33	LysR substrate-binding domain-containing protein	Transcriptional regulator	-	K	-	-	-	HTH_1,LysR_substrate	223926.28808969	1.53e-110	324.0
+Exclusive_15	group_36	hypothetical protein	MazG nucleotide pyrophosphohydrolase domain	-	S	-	-	-	MazG	1219076.N646_4172	2.47e-16	73.2
+Exclusive_15	Methylase family protein	Methylase family protein	-	-	-	-	-	-	-	-	-	-
+Exclusive_15	group_443	MFS transporter	-	-	-	-	-	-	-	5341.XP_007332360.1	3.95	34.3
+Exclusive_15	group_444	MFS transporter	-	-	-	-	-	-	-	1121936.AUHI01000009_gene271	14.3	32.7
+Exclusive_15	group_446	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG nucleotide pyrophosphohydrolase domain	-	S	-	-	-	MazG	223926.28806823	1.02e-56	176.0
+Exclusive_15	group_447	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG nucleotide pyrophosphohydrolase domain	-	S	-	-	-	MazG	223926.28806823	5.45e-61	187.0
+Exclusive_15	group_448	DUF4282 domain-containing protein	-	-	-	-	-	-	-	1005048.CFU_2755	239.0	28.5
+Exclusive_15	DUF4282 domain-containing protein	DUF4282 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_1000	hypothetical protein	-	-	-	-	-	-	-	1038860.AXAP01000070_gene8580	1.19e-12	69.7
+Absent_15	HEPN-RiboL-PSP domain-containing protein	HEPN-RiboL-PSP domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Type VI secretion protein	Type VI secretion protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Cytoplasmic protein	Cytoplasmic protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_1004	hypothetical protein	-	-	-	-	-	-	-	1276220.STAIW_v1c08930	6.04	37.4
+Absent_15	group_1005	hypothetical protein	-	-	-	-	-	-	-	1121875.KB907549_gene1819	0.102	39.7
+Absent_15	Putative acetyltransferase	Putative acetyltransferase	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_1007	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily	-	E	-	-	-	Glyoxalase	675816.VIA_002700	8.81e-91	266.0
+Absent_15	group_1008	DUF4760 domain-containing protein	-	-	-	-	-	-	-	360094.PXO_01590	362.0	29.6
+Absent_15	group_1009	hypothetical protein	FRG	-	S	-	-	-	FRG	114615.BRADO3625	1.79e-25	107.0
+Absent_15	yvbK	Putative N-acetyltransferase YvbK	Acetyltransferase (GNAT) domain	-	K	-	-	-	Acetyltransf_1,Acetyltransf_10,Acetyltransf_7	1219065.VPR01S_34_00070	6.75e-101	292.0
+Absent_15	Arp2/3 complex subunit	Arp2/3 complex subunit	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_1012	hypothetical protein	-	-	-	-	-	-	-	1239962.C943_00534	2.2	37.0
+Absent_15	group_1013	IS3 family transposase	COG2801 Transposase and inactivated derivatives	-	L	-	-	ko:K07497	HTH_21,rve	1348635.BBJY01000035_gene2204	5.01e-126	362.0
+Absent_15	group_1014	IS3 family transposase	COG2801 Transposase and inactivated derivatives	-	L	-	-	ko:K07497	HTH_21,rve	1348635.BBJY01000035_gene2204	2.34e-44	150.0
+Absent_15	START domain-containing protein	START domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Damage-inducible protein J	Damage-inducible protein J	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_1017	Plasmid stabilization system protein ParE	ParE toxin of type II toxin-antitoxin system, parDE	-	S	-	-	-	ParE_toxin	1219076.N646_0921	3.19e-59	182.0
+Absent_15	group_1018	YkgJ family cysteine cluster protein	Putative zinc- or iron-chelating domain	-	S	-	-	-	CxxCxxCC	1191299.AJYX01000092_gene2270	8.23e-47	149.0
+Absent_15	group_1019	Chromosome partitioning protein ParA	-	-	-	-	-	-	-	701176.VIBRN418_08262	9.75e-177	497.0
+Absent_15	group_1020	hypothetical protein	-	-	-	-	-	-	-	44689.DDB0237798	25.1	33.9
+Absent_15	group_1021	hypothetical protein	-	-	-	-	-	-	-	634498.mru_0524	2.63	35.0
+Absent_15	rstR	RstR	-	-	-	-	-	-	-	28564.XP_002488221.1	5.75	32.3
+Absent_15	replication initiation factor domain-containing protein	replication initiation factor domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF1293 domain-containing protein	DUF1293 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Signal peptidase I	Signal peptidase I	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_1026	hypothetical protein	-	-	-	-	-	-	-	1121355.KB903375_gene1493	1.02	34.3
+Absent_15	ISNCY family transposase	ISNCY family transposase	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_1028	hypothetical protein	-	-	-	-	-	-	-	1449049.JONW01000002_gene2449	9.11	34.3
+Absent_15	group_1029	hypothetical protein	-	-	-	-	-	-	-	293227.XP_008719183.1	5.96	34.7
+Absent_15	O-antigen polymerase	O-antigen polymerase	-	-	-	-	-	-	-	-	-	-
+Absent_15	Major coat protein	Major coat protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_1032	Putative-PNPOx domain-containing protein	Pyridoxamine 5'-phosphate oxidase	-	S	-	-	ko:K07006	Putative_PNPOx	1219065.VPR01S_11_00250	2.24e-139	394.0
+Absent_15	group_1033	IS30 family transposase	Helix-turn-helix domain	insI	L	GO:0003674,GO:0003676,GO:0003677,GO:0003690,GO:0003824,GO:0004803,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006139,GO:0006259,GO:0006310,GO:0006313,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009987,GO:0030983,GO:0032135,GO:0032196,GO:0032991,GO:0032993,GO:0034641,GO:0043170,GO:0043565,GO:0044237,GO:0044238,GO:0044260,GO:0044424,GO:0044444,GO:0044464,GO:0046483,GO:0071704,GO:0090304,GO:0097159,GO:0140097,GO:1901360,GO:1901363	-	ko:K07482	HTH_38,rve	1268239.PALB_37150	4.26e-220	613.0
+Absent_15	DUF6678 domain-containing protein	DUF6678 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	GNAT family N-acetyltransferase	GNAT family N-acetyltransferase	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF2812 domain-containing protein	DUF2812 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_1037	N-acetyltransferase domain-containing protein	Acetyltransferase (GNAT) domain	-	K	-	-	-	Acetyltransf_1	1280001.BAOA01000238_gene3516	4.83e-108	311.0
+Absent_15	group_1038	DUF4760 domain-containing protein	-	-	-	-	-	-	-	205918.Psyr_0102	4.72e-30	115.0
+Absent_15	Ribosomal protein S18 acetylase RimI-like enzyme	Ribosomal protein S18 acetylase RimI-like enzyme	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_1040	DUF2750 domain-containing protein	Protein of unknown function (DUF2750)	-	S	-	-	-	DUF2750	1460640.JCM19046_3053	5.46e-32	116.0
+Absent_15	group_1041	hypothetical protein	-	-	-	-	-	-	-	298386.PBPRA1790	1.48e-41	138.0
+Absent_15	group_1042	hypothetical protein	-	-	-	-	-	-	-	1235797.C816_01381	526.0	25.8
+Absent_15	group_1043	hypothetical protein	-	-	-	-	-	-	-	1334046.AYTB01000015_gene1424	43.3	27.7
+Absent_15	Branched-chain amino acid transport system / permease component	Branched-chain amino acid transport system / permease component	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_15	hypothetical protein	methyl-accepting chemotaxis protein	-	NT	-	-	ko:K03406	HAMP,MCPsignal	223926.28809864	2.71e-106	327.0
+Absent_15	group_17	hypothetical protein	Transcriptional regulator	-	K	-	-	-	HTH_1,LysR_substrate	223926.28808437	1.38e-80	246.0
+Absent_15	group_24	Structural protein	-	-	-	-	-	-	-	223926.28806410	7.04e-127	361.0
+Absent_15	group_26	FTH domain-containing protein	-	-	-	-	-	-	-	223926.28806411	3.23e-108	312.0
+Absent_15	corA	Magnesium transporter CorA family protein	-	-	-	-	-	-	-	223926.28806411	1.24e-48	157.0
+Absent_15	group_38	UPF0056 membrane protein	UPF0056 membrane protein	-	U	-	-	ko:K05595	MarC	223926.28807985	1.36e-42	143.0
+Absent_15	group_3967	Plasmid protein	-	-	-	-	-	-	-	1045855.DSC_04195	7.09e-16	73.9
+Absent_15	group_4269	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	translation initiation inhibitor, yjgF family	-	J	-	-	-	Ribonuc_L-PSP	223926.28806789	4.78e-55	174.0
+Absent_15	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	-	-	-	-	-	-	-	-	-	-
+Absent_15	peptidoglycan-binding protein	peptidoglycan-binding protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	MATE efflux family protein	MATE efflux family protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_450	Bacterioferritin-associated ferredoxin	Belongs to the prokaryotic molybdopterin-containing oxidoreductase family	nasA	C	-	-	ko:K00372	Fer2_BFD,Molybdop_Fe4S4,Molybdopterin,Molydop_binding	223926.28809366	0.0	1711.0
+Absent_15	group_451	Lipoprotein	-	-	-	-	-	-	-	223926.28809378	9.73e-275	753.0
+Absent_15	group_4516	elongation factor Tu	This protein promotes the GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis	tuf	J	GO:0003674,GO:0003676,GO:0003723,GO:0003746,GO:0005488,GO:0006412,GO:0006414,GO:0006518,GO:0006807,GO:0008135,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0019538,GO:0034641,GO:0034645,GO:0043043,GO:0043170,GO:0043603,GO:0043604,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044271,GO:0071704,GO:0097159,GO:1901363,GO:1901564,GO:1901566,GO:1901576	-	ko:K02358	GTP_EFTU,GTP_EFTU_D2,GTP_EFTU_D3	223926.28807780	6e-288	786.0
+Absent_15	tuf	elongation factor Tu	This protein promotes the GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis	tuf	J	GO:0003674,GO:0003676,GO:0003723,GO:0003746,GO:0005488,GO:0006412,GO:0006414,GO:0006518,GO:0006807,GO:0008135,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0019538,GO:0034641,GO:0034645,GO:0043043,GO:0043170,GO:0043603,GO:0043604,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044271,GO:0071704,GO:0097159,GO:1901363,GO:1901564,GO:1901566,GO:1901576	-	ko:K02358	GTP_EFTU,GTP_EFTU_D2,GTP_EFTU_D3	223926.28807780	2.09e-288	787.0
+Absent_15	group_452	Enoyl-CoA hydratase/carnithine racemase	COG1024 Enoyl-CoA hydratase carnithine racemase	-	I	-	4.2.1.18	ko:K13766	ECH_1	223926.28809428	2.43e-178	498.0
+Absent_15	DUF2474 domain-containing protein	DUF2474 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_454	Transmembrane protein	-	-	-	-	-	-	-	144197.XP_008282102.1	1780.0	28.1
+Absent_15	methyltransferase domain-containing protein	methyltransferase domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Electron transfer flavoprotein-ubiquinone oxidoreductase	Electron transfer flavoprotein-ubiquinone oxidoreductase	-	-	-	-	-	-	-	-	-	-
+Absent_15	fixA	Electron transfer flavoprotein, alpha and beta subunits	COG2086 Electron transfer flavoprotein, beta subunit	-	C	-	-	ko:K03521	ETF	1219076.N646_4021	1.03e-161	454.0
+Absent_15	group_458	Conserved domain protein	-	-	-	-	-	-	-	109760.SPPG_07147T0	11.9	30.0
+Absent_15	group_459	hypothetical protein	-	-	-	-	-	-	-	1005395.CSV86_19882	41.0	28.9
+Absent_15	ELFV-dehydrog domain-containing protein	ELFV-dehydrog domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF1049 domain-containing protein	DUF1049 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	UPF0149 family protein	UPF0149 family protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_463	DUF2489 domain-containing protein	-	-	-	-	-	-	-	999141.GME_05755	1.58e-50	166.0
+Absent_15	monooxygenase	monooxygenase	Putative mono-oxygenase ydhR	-	C	-	-	-	ydhR	223926.28810008	9.35e-68	205.0
+Absent_15	DUF1835 domain-containing protein	DUF1835 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_466	hypothetical protein	-	-	-	-	-	-	-	3694.POPTR_0004s07580.1	15.8	30.8
+Absent_15	Maltoporin	Maltoporin	Involved in the transport of maltose and maltodextrins	lamB	M	GO:0003674,GO:0005215,GO:0005363,GO:0006810,GO:0008150,GO:0008643,GO:0015144,GO:0015154,GO:0015157,GO:0015267,GO:0015288,GO:0015481,GO:0015766,GO:0015768,GO:0015772,GO:0022803,GO:0022829,GO:0022857,GO:0034219,GO:0051179,GO:0051234,GO:0055085,GO:0071702	-	ko:K02024	LamB	1219076.N646_3359	1.13e-309	843.0
+Absent_15	group_468	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	COG0739 Membrane proteins related to metalloendopeptidases	tagE	M	-	-	-	Peptidase_M23	223926.28810051	2.31e-220	609.0
+Absent_15	group_469	hypothetical protein	-	-	-	-	-	-	-	1210908.HSB1_02900	4.7	31.6
+Absent_15	group_470	Protein N-acetyltransferase, RimJ/RimL family	COG1670 Acetyltransferases, including N-acetylases of ribosomal proteins	-	J	-	-	-	Acetyltransf_3	674977.VMC_06100	2.31e-122	349.0
+Absent_15	group_471	Phosphoglycolate phosphatase, HAD superfamily	haloacid dehalogenase-like hydrolase	-	S	-	-	-	HAD,HAD_2	223926.28808248	1.83e-173	483.0
+Absent_15	group_472	Ribosomal protein S18 acetylase RimI and related acetyltransferases	Acetyltransferase (GNAT) domain	-	K	-	-	-	Acetyltransf_1	223926.28808262	1.14e-105	305.0
+Absent_15	group_473	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	-	IQ	-	-	-	adh_short_C2	223926.28808263	4.42e-164	460.0
+Absent_15	group_474	Protein N-acetyltransferase, RimJ/RimL family	COG1670 Acetyltransferases, including N-acetylases of ribosomal proteins	-	J	-	-	-	Acetyltransf_3	223926.28808264	1.46e-122	349.0
+Absent_15	group_475	Tetraheme cytochrome c subunit NapC of nitrate or TMAO reductase	Belongs to the TorC TorY family	torY	C	-	-	ko:K07821	Cytochrom_NNT	223926.28808265	6.78e-272	743.0
+Absent_15	group_476	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component	COG1116 ABC-type nitrate sulfonate bicarbonate transport system, ATPase component	-	P	-	-	ko:K15600	ABC_tran	223926.28808273	4.44e-173	483.0
+Absent_15	pilin	pilin	Belongs to the N-Me-Phe pilin family	pilA	NU	-	-	ko:K02650	N_methyl,Pilin	1136163.M565_ctg1P0100	1.31e-27	106.0
+Absent_15	yidK	Uncharacterized membrane permease YidK, sodium:solute symporter family	Belongs to the sodium solute symporter (SSF) (TC 2.A.21) family	yidK	S	-	-	ko:K03307	SSF	675812.VHA_002559	0.0	950.0
+Absent_15	group_479	hypothetical protein	containing cAMP-binding and CBS domains	-	T	-	-	ko:K07182	CBS,DUF294,DUF294_C,cNMP_binding	675812.VHA_002560	1.29e-291	813.0
+Absent_15	3'-5' exonuclease	3'-5' exonuclease	-	-	-	-	-	-	-	-	-	-
+Absent_15	Porin family protein	Porin family protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	GGACT domain-containing protein	GGACT domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_483	GGDEF domain, diguanylate cyclase (c-di-GMP synthetase) or its enzymatically inactive variants	COG2199 FOG GGDEF domain	-	T	-	-	-	GGDEF	223926.28807364	9.65e-220	606.0
+Absent_15	ompK	Outer membrane protein OmpK	Nucleoside-specific channel-forming protein, Tsx	ompK	M	-	-	ko:K05517	Channel_Tsx	1191299.AJYX01000064_gene3636	1.92e-175	491.0
+Absent_15	DUF4397 domain-containing protein	DUF4397 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	CheW-like domain-containing protein	CheW-like domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	fimV	Type IV pilus assembly protein FimV	COG3170 Tfp pilus assembly protein FimV	-	NU	-	-	ko:K08086	-	223926.28807184	0.0	1717.0
+Absent_15	group_488	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	methyltransferase activity	-	Q	-	-	-	Methyltransf_23,Methyltransf_25,Methyltransf_31,TehB	223926.28806994	1.08e-164	461.0
+Absent_15	group_489	Nicotinamidase-related amidase	Isochorismatase family	-	Q	-	-	-	Isochorismatase	223926.28806986	1.4e-117	337.0
+Absent_15	group_490	Transcriptional regulator GlxA, contains an amidase domain and an AraC-type DNA-binding HTH domain	COG4977 Transcriptional regulator containing an amidase domain and an AraC-type DNA-binding HTH domain	-	K	-	-	-	DJ-1_PfpI,HTH_18,HTH_AraC	223926.28806985	4.21e-213	589.0
+Absent_15	DUF4268 domain-containing protein	DUF4268 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	rluF	23S rRNA pseudouridine(2604) synthase RluF	Belongs to the pseudouridine synthase RsuA family	rluF	J	-	5.4.99.21	ko:K06182	PseudoU_synth_2,S4	223926.28805736	1.8e-250	689.0
+Absent_15	group_493	Transcriptional regulator	-	-	-	-	-	-	-	1319815.HMPREF0202_00895	19300.0	21.2
+Absent_15	Kazal-like domain-containing protein	Kazal-like domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	bcsG	cellulose biosynthesis protein BcsG	Cellulose biosynthesis protein BcsG	bcsG	S	-	-	-	CBP_BcsG	1219076.N646_2950	0.0	982.0
+Absent_15	group_496	Phage protein	-	-	-	-	-	-	-	1219076.N646_2951	3.98e-29	104.0
+Absent_15	bcsE	cellulose biosynthesis protein BcsE	GGDEF I-site like or GIL domain	bcsE	S	-	-	-	CBP_GIL	674977.VMC_35700	0.0	952.0
+Absent_15	lprI	LprI domain-containing protein	-	-	-	-	-	-	-	1219076.N646_2953	3.06e-27	100.0
+Absent_15	bcsQ	cellulose biosynthesis protein BcsQ	Cellulose biosynthesis protein BcsQ	-	D	-	-	-	CBP_BcsQ	674977.VMC_35710	4.99e-178	496.0
+Absent_15	Transhydrogenase beta subunit	Transhydrogenase beta subunit	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_500	UDP-forming cellulose synthase catalytic subunit	COG1215 Glycosyltransferases, probably involved in cell wall biogenesis	bcsA	M	-	2.4.1.12	ko:K00694	Cellulose_synt,Glycos_transf_2,PilZ	1280001.BAOA01000064_gene2643	0.0	1679.0
+Absent_15	bcsB	cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB	Bacterial cellulose synthase subunit	-	M	-	-	ko:K20541	BcsB	674977.VMC_35730	0.0	1468.0
+Absent_15	bcsZ	cellulose synthase complex periplasmic endoglucanase BcsZ	Glycosyl hydrolases family 8	bcsZ	G	-	3.2.1.4	ko:K20542	Glyco_hydro_8	674977.VMC_35740	2.62e-262	719.0
+Absent_15	BCSC-C domain-containing protein	BCSC-C domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	yecM	VOC family protein	protein conserved in bacteria	-	S	-	-	ko:K09907	YecM	223926.28805849	4.38e-140	395.0
+Absent_15	DUF1471 domain-containing protein	DUF1471 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_506	Holin	-	-	-	-	-	-	-	1116375.VEJY3_04195	4.44e-20	82.0
+Absent_15	tolR	Biopolymer transport protein ExbD	TolR membrane protein	tolR	U	-	-	ko:K03560	ExbD	223926.28806045	1.59e-94	276.0
+Absent_15	group_508	DNA-binding ferritin-like protein (oxidative damage protectant)	Ferritin-like domain	-	P	-	-	ko:K04047	Ferritin	223926.28808620	3.33e-103	299.0
+Absent_15	group_509	AAA family ATPase	Belongs to the OprB family	-	B	-	-	-	-	1123236.KB899377_gene67	2.9e-238	685.0
+Absent_15	group_510	WYL domain-containing protein	regulation of single-species biofilm formation	-	K	-	-	-	-	1304885.AUEY01000100_gene2612	1.15e-39	132.0
+Absent_15	Mobile element protein	Mobile element protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_512	hypothetical protein	-	-	-	-	-	-	-	323850.Shew_3025	2.22e-158	467.0
+Absent_15	group_513	TerB domain-containing protein	Tellurite resistance protein TerB	-	S	-	-	-	-	672.VV93_v1c44530	1.33e-107	340.0
+Absent_15	group_514	hypothetical protein	-	-	-	-	-	-	-	1492737.FEM08_05990	23.6	30.0
+Absent_15	group_515	MdtL family multidrug efflux MFS transporter	COG0477 Permeases of the major facilitator superfamily	mdtL	P	-	-	ko:K08163	MFS_1	675813.VIB_002042	1.18e-233	650.0
+Absent_15	group_516	HTH-type transcriptional regulator YidZ	Bacterial regulatory helix-turn-helix protein, lysR family	-	K	-	-	-	HTH_1,LysR_substrate	945543.VIBR0546_06097	2.62e-214	593.0
+Absent_15	group_517	Phosphoserine phosphatase	COG0560 Phosphoserine phosphatase	-	E	-	-	-	HAD	223926.28808515	5.45e-153	430.0
+Absent_15	phnX	phosphonoacetaldehyde hydrolase	Belongs to the HAD-like hydrolase superfamily. PhnX family	phnX	S	GO:0003674,GO:0003824	3.11.1.1	ko:K05306	HAD_2	1280001.BAOA01000050_gene1462	8.74e-194	537.0
+Absent_15	group_519	hypothetical protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_520	Membrane protein	COG3203 Outer membrane protein (porin)	-	M	-	-	-	Porin_1,Porin_4	1280001.BAOA01000053_gene2155	1.92e-191	536.0
+Absent_15	group_521	ATPase	-	-	-	-	-	-	-	1280001.BAOA01000027_gene4821	5.89e-137	391.0
+Absent_15	Adhesin	Adhesin	-	-	-	-	-	-	-	318167.Sfri_2349	6.8e-10	61.2
+Absent_15	group_523	DksA/TraR family C4-type zinc finger protein	Prokaryotic dksA/traR C4-type zinc finger	-	T	-	-	-	zf-dskA_traR	1280001.BAOA01000027_gene4819	3.04e-53	167.0
+Absent_15	group_524	Glutaredoxin	COG0695 Glutaredoxin and related proteins	-	O	-	-	-	Glutaredoxin	1280001.BAOA01000019_gene506	5.55e-48	153.0
+Absent_15	group_525	Regulator	-	VP1339	-	-	-	-	-	223926.28806327	2.54e-101	293.0
+Absent_15	group_526	hypothetical protein	Belongs to the 'phage' integrase family	-	L	-	-	-	Phage_integrase	1238450.VIBNISOn1_550006	7.58e-153	444.0
+Absent_15	Excisionase	Excisionase	-	-	-	-	-	-	-	1238450.VIBNISOn1_550007	5.03e-07	49.3
+Absent_15	group_528	hypothetical protein	-	-	-	-	-	-	-	1110697.NCAST_20_05480	4.11	32.3
+Absent_15	group_529	hypothetical protein	-	-	-	-	-	-	-	1255043.TVNIR_1314	6.81	32.3
+Absent_15	Host-nuclease inhibitor Gam family protein	Host-nuclease inhibitor Gam family protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_531	Antirestriction protein	DNA polymerase III is a complex, multichain enzyme responsible for most of the replicative synthesis in bacteria. The epsilon subunit contain the editing function and is a proofreading 3'-5' exonuclease	-	M	-	-	-	Rad52_Rad22	1080067.BAZH01000011_gene667	3.62e-24	118.0
+Absent_15	group_532	Helix-turn-helix domain-containing protein	Peptidase S24-like	-	K	-	-	-	HTH_3,Peptidase_S24	55601.VANGNB10_cI1630	8.73e-77	237.0
+Absent_15	group_533	XRE family transcriptional regulator	Helix-turn-helix XRE-family like proteins	-	K	-	-	ko:K07729	HTH_3	220341.16503106	1.24e-10	58.9
+Absent_15	group_534	Phage protein	-	-	-	-	-	-	-	1141663.OOC_13034	7.31e-27	105.0
+Absent_15	Ala-racemase-C domain-containing protein	Ala-racemase-C domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_536	Helix-turn-helix domain-containing protein	Helix-turn-helix domain	-	K	-	-	-	HTH_36	55601.VANGNB10_cI1625c	3.46e-43	158.0
+Absent_15	group_537	Phage protein	-	-	-	-	-	-	-	7739.XP_002591927.1	1.4	36.2
+Absent_15	DUF1367 domain-containing protein	DUF1367 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_539	DUF1980 domain-containing protein	-	-	-	-	-	-	-	521460.Athe_0175	49200.0	21.2
+Absent_15	Recombinase	Recombinase	-	-	-	-	-	-	-	1517681.HW45_28770	1.42e-09	55.5
+Absent_15	Antitermination protein Q	Antitermination protein Q	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_542	Transposase	-	-	-	-	-	-	-	223926.28806880	1.47e-37	126.0
+Absent_15	priX	PriX domain-containing protein	-	-	-	-	-	-	-	400668.Mmwyl1_0195	1.95e-16	85.1
+Absent_15	Inovirus Gp2 family protein	Inovirus Gp2 family protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_545	Lipoprotein	alpha-ribazole phosphatase activity	-	GM	-	-	-	SusD-like_3,SusD_RagB	1121101.HMPREF1532_01606	4.46e-21	103.0
+Absent_15	WYL domain-containing protein	WYL domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_547	DUF2787 domain-containing protein	Protein of unknown function (DUF2787)	-	S	-	-	-	DUF2787	675814.VIC_000160	1.92e-57	182.0
+Absent_15	MPN domain-containing protein	MPN domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_549	Holin	-	-	-	-	-	-	-	1105110.MC5_01415	1010.0	26.6
+Absent_15	group_550	hypothetical protein	TnsA endonuclease C terminal	-	L	-	-	-	Tn7_Tnp_TnsA_C,Tn7_Tnp_TnsA_N	1517681.HW45_13965	2.45e-15	73.6
+Absent_15	AAA domain-containing protein	AAA domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Helicase-C-3 domain-containing protein	Helicase-C-3 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	HAD-IA family hydrolase	HAD-IA family hydrolase	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_554	OmpA family protein	-	-	-	-	-	-	-	675814.VIC_003444	1.21e-12	65.1
+Absent_15	group_555	hypothetical protein	-	-	-	-	-	-	-	319003.Bra1253DRAFT_01786	14.5	34.3
+Absent_15	NAD synthetase	NAD synthetase	-	-	-	-	-	-	-	-	-	-
+Absent_15	30S ribosomal protein S4	30S ribosomal protein S4	-	-	-	-	-	-	-	-	-	-
+Absent_15	Flp family type IVb pilin	Flp family type IVb pilin	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_559	Arylsulfatase A or related enzyme, AlkP superfamily	Arylsulfatase	-	P	-	3.1.6.1	ko:K01130	Sulfatase,Sulfatase_C	223926.28808915	0.0	1011.0
+Absent_15	group_560	AraC family transcriptional regulator	-	-	-	-	-	-	-	591019.Shell_1049	3.7	31.6
+Absent_15	pcaH	Protocatechuate 3,4-dioxygenase beta subunit	Protocatechuate 3,4-dioxygenase beta	-	Q	-	1.13.11.3	ko:K00449	Dioxygenase_C	223926.28808875	6.11e-128	363.0
+Absent_15	group_562	tyrosine-type recombinase/integrase	Belongs to the 'phage' integrase family	-	L	-	-	-	Phage_integrase	223926.28807124	4.53e-284	781.0
+Absent_15	DUF1878 domain-containing protein	DUF1878 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF2794 domain-containing protein	DUF2794 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_565	dGTPase	Belongs to the dGTPase family. Type 2 subfamily	dgt	F	GO:0003674,GO:0003676,GO:0003677,GO:0003697,GO:0003824,GO:0003924,GO:0005488,GO:0005515,GO:0006139,GO:0006163,GO:0006195,GO:0006203,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0008832,GO:0009056,GO:0009058,GO:0009117,GO:0009141,GO:0009143,GO:0009144,GO:0009146,GO:0009151,GO:0009155,GO:0009166,GO:0009200,GO:0009204,GO:0009215,GO:0009217,GO:0009262,GO:0009264,GO:0009394,GO:0009987,GO:0015949,GO:0016462,GO:0016787,GO:0016788,GO:0016793,GO:0016817,GO:0016818,GO:0017111,GO:0018130,GO:0019438,GO:0019439,GO:0019637,GO:0019692,GO:0030145,GO:0034404,GO:0034641,GO:0034654,GO:0034655,GO:0042578,GO:0042802,GO:0043167,GO:0043169,GO:0044237,GO:0044238,GO:0044248,GO:0044249,GO:0044270,GO:0044271,GO:0044281,GO:0044283,GO:0046070,GO:0046386,GO:0046434,GO:0046483,GO:0046700,GO:0046872,GO:0046914,GO:0050897,GO:0055086,GO:0071704,GO:0072521,GO:0072523,GO:0097159,GO:1901135,GO:1901136,GO:1901292,GO:1901360,GO:1901361,GO:1901362,GO:1901363,GO:1901564,GO:1901565,GO:1901575,GO:1901576	3.1.5.1	ko:K01129	HD,HD_assoc	1121923.GPUN_1595	1.91e-177	514.0
+Absent_15	group_566	Site-specific recombinase XerD	Phage integrase family	-	L	-	-	ko:K14059	Phage_integrase	223926.28807129	5.53e-265	726.0
+Absent_15	group_567	hypothetical protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Plasmid recombination enzyme	Plasmid recombination enzyme	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_569	KfrA-N domain-containing protein	-	-	-	-	-	-	KfrA_N	223926.28807131	3.27e-184	519.0
+Absent_15	abiEi	Abortive phage infection protein AbiEi, antitoxin conponent of an AbiEi-AbiEii TA system	Psort location Cytoplasmic, score	-	K	-	-	-	-	223926.28807132	1.06e-130	372.0
+Absent_15	PHP domain-containing protein	PHP domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_572	hypothetical protein	Belongs to the ABC transporter superfamily	-	EL	-	-	-	-	1217656.F964_00490	4.77e-85	275.0
+Absent_15	group_573	hypothetical protein	-	-	-	-	-	-	-	1217656.F964_00491	1.52e-20	85.5
+Absent_15	group_574	Antitoxin HipB	Helix-turn-helix XRE-family like proteins	hipB	K	-	-	ko:K15773	HTH_3	223926.28807137	3.65e-50	159.0
+Absent_15	group_575	DNA-binding transcriptional regulator, LysR family	Bacterial regulatory helix-turn-helix protein, lysR family	-	K	-	-	-	HTH_1,LysR_substrate	223926.28808837	4.75e-225	620.0
+Absent_15	group_576	anaerobic sulfatase maturase	Iron-sulfur cluster-binding domain	-	C	-	-	ko:K06871	Fer4_12,Radical_SAM,SPASM	223926.28808767	8.19e-313	850.0
+Absent_15	group_577	Arylsulfatase A or related enzyme, AlkP superfamily	Sulfatase	-	P	-	3.1.6.1	ko:K01130	Sulfatase	223926.28808766	0.0	1603.0
+Absent_15	group_578	DNA-binding transcriptional regulator, LysR family	Bacterial regulatory helix-turn-helix protein, lysR family	-	K	-	-	-	HTH_1,LysR_substrate	223926.28808765	1.73e-217	600.0
+Absent_15	DUF3820 domain-containing protein	DUF3820 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Dimerisation2 domain-containing protein	Dimerisation2 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_581	hypothetical protein	-	-	-	-	-	-	-	38654.XP_006034401.1	1.36	32.7
+Absent_15	DUF2909 domain-containing protein	DUF2909 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_583	Pilus assembly protein	type II secretion system protein K	VP0659	U	-	-	-	-	223926.28805645	0.0	864.0
+Absent_15	group_584	Transposase	-	-	-	-	-	-	-	-	-	-
+Absent_15	Tyrosine-type recombinase/integrase	Tyrosine-type recombinase/integrase	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_586	AlpA family phage regulatory protein	Transcriptional regulator	-	K	-	-	ko:K07733	Phage_AlpA	1116375.VEJY3_09505	4.12e-24	94.4
+Absent_15	DNA helicase	DNA helicase	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_588	Restriction endonuclease subunit S	Type I restriction modification DNA specificity domain	-	V	-	-	-	Methylase_S	87626.PTD2_14837	1.69e-73	227.0
+Absent_15	N-6 DNA methylase	N-6 DNA methylase	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_590	Transposase	-	-	-	-	-	-	-	931276.Cspa_c43940	166.0	30.8
+Absent_15	site-specific DNA-methyltransferase (adenine-specific)	site-specific DNA-methyltransferase (adenine-specific)	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_592	restriction endonuclease subunit S	restriction modification system DNA specificity	-	L	-	3.1.21.3	ko:K01154	Methylase_S	211586.SO_0382	8.27e-54	192.0
+Absent_15	type I site-specific deoxyribonuclease	type I site-specific deoxyribonuclease	-	-	-	-	-	-	-	-	-	-
+Absent_15	YgjP-like domain-containing protein	YgjP-like domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_595	Site-specific DNA recombinase SpoIVCA/DNA invertase PinE	Resolvase, N terminal domain	-	L	-	-	-	Resolvase	55601.VANGNB10_cI0399	4.48e-130	370.0
+Absent_15	traY	Relaxosome protein TraY	-	-	-	-	-	-	-	223926.28805367	8.36e-52	164.0
+Absent_15	Type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein	Type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Diguanylate cyclase	Diguanylate cyclase	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_599	Transcriptional regulator	Transcriptional regulator	-	K	-	-	-	HTH_IclR,MarR	55601.VANGNB10_cI0394c	6.09e-74	223.0
+Absent_15	Bacterial ubiquitin-like modifier	Bacterial ubiquitin-like modifier	-	-	-	-	-	-	-	-	-	-
+Absent_15	Ser/Thr protein phosphatase family protein	Ser/Thr protein phosphatase family protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_602	AAA family ATPase	Domain of unknown function (DUF4143)	-	S	-	-	ko:K07133	AAA_14,DUF4143	675814.VIC_001168	6.34e-294	805.0
+Absent_15	XRE family transcriptional regulator	XRE family transcriptional regulator	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_604	hypothetical protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_605	IS3 family transposase ORF B	COG2801 Transposase and inactivated derivatives	-	L	-	-	ko:K07497	HTH_21,rve	223926.28806779	2.16e-142	405.0
+Absent_15	SUFU domain-containing protein	SUFU domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_607	LHH domain-containing protein	A nuclease family of the HNH/ENDO VII superfamily with conserved AHH	-	S	-	-	-	AHH	575788.VS_II1513	2.28e-168	471.0
+Absent_15	Tox-PAAR-like domain-containing protein	Tox-PAAR-like domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Baseplate assembly protein	Baseplate assembly protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_610	Ribonuclease	exonuclease of the beta-lactamase fold involved in RNA processing	-	J	-	-	ko:K07576	Beta-Casp,Lactamase_B,RMMBL	223926.28805220	2.62e-76	239.0
+Absent_15	UDP-glucuronate 5'-epimerase	UDP-glucuronate 5'-epimerase	-	-	-	-	-	-	-	-	-	-
+Absent_15	ugd	UDP-glucose 6-dehydrogenase	Belongs to the UDP-glucose GDP-mannose dehydrogenase family	ugd	C	-	1.1.1.22	ko:K00012	UDPG_MGDP_dh,UDPG_MGDP_dh_C,UDPG_MGDP_dh_N	223926.28805218	1.51e-262	721.0
+Absent_15	epsC	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	nucleoside-diphosphate sugar epimerases	-	GM	-	-	-	CoA_binding_3,Polysacc_synt_2	223926.28805217	0.0	1221.0
+Absent_15	epsL	Putative sugar transferase EpsL	COG2148 Sugar transferases involved in lipopolysaccharide synthesis	-	M	-	-	-	Bac_transf	316275.VSAL_I3032	4.55e-111	321.0
+Absent_15	UDP-glucose 4-epimerase	UDP-glucose 4-epimerase	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_616	Glycosyltransferase	-	-	-	-	-	-	-	1205908.AKXW01000020_gene1100	0.248	41.6
+Absent_15	Thymidylate kinase	Thymidylate kinase	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_618	AAA family ATPase	-	-	-	-	-	-	-	1408324.JNJK01000011_gene394	98.8	32.3
+Absent_15	Glycosyltransferase	Glycosyltransferase	transferase activity, transferring glycosyl groups	-	M	-	-	-	Glyco_transf_4,Glycos_transf_1	55601.VANGNB10_cI2489c	2.49e-44	160.0
+Absent_15	Polysacc-synt-C domain-containing protein	Polysacc-synt-C domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Serine acetyltransferase	Serine acetyltransferase	-	-	-	-	-	-	-	-	-	-
+Absent_15	Oligosaccharide repeat unit polymerase	Oligosaccharide repeat unit polymerase	-	-	-	-	-	-	-	-	-	-
+Absent_15	Regulator of length of O-antigen component of lipopolysaccharide chains	Regulator of length of O-antigen component of lipopolysaccharide chains	-	-	-	-	-	-	-	-	-	-
+Absent_15	yjbG	YjbG	Capsule biosynthesis GfcC	-	S	-	-	-	Caps_synth_GfcC	223926.28805198	1.49e-155	439.0
+Absent_15	lpxM	lauroyl-Kdo(2)-lipid IV(A) myristoyltransferase	Catalyzes the transfer of myristate from myristoyl-acyl carrier protein (ACP) to Kdo(2)-(lauroyl)-lipid IV(A) to form Kdo(2)-lipid A	lpxM	M	-	2.3.1.243	ko:K02560	Lip_A_acyltrans	223926.28805195	8.9e-248	679.0
+Absent_15	Acid phosphatase	Acid phosphatase	-	-	-	-	-	-	-	-	-	-
+Absent_15	Peptidase-S9 domain-containing protein	Peptidase-S9 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Tricorn protease domain-containing protein	Tricorn protease domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_629	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	chlorophyll binding	-	M	-	-	-	OmpA	1219076.N646_3975	0.0	3056.0
+Absent_15	Phage tail tape measure protein	Phage tail tape measure protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	UPF0020 domain-containing protein	UPF0020 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_632	hypothetical protein	Domain of unknown function (DUF4150)	-	D	-	-	ko:K21471	DUF4150,NLPC_P60	1219065.VPR01S_23_00260	1.6e-106	322.0
+Absent_15	Ovate family protein	Ovate family protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_634	ADP-ribose pyrophosphatase YjhB, NUDIX family	GDP-mannose mannosyl hydrolase activity	nudJ	F	GO:0003674,GO:0003824,GO:0004787,GO:0016462,GO:0016787,GO:0016817,GO:0016818,GO:0017110,GO:0017111	3.6.1.55	ko:K03574,ko:K12152	NUDIX	223926.28806478	9.82e-92	268.0
+Absent_15	group_635	DNA mistmatch repair protein MutT	NUDIX domain	-	L	-	-	-	NUDIX	1219076.N646_0545	4.01e-81	242.0
+Absent_15	Helicase	Helicase	-	XK27_09650	-	-	-	-	-	1280001.BAOA01000115_gene95	1.68e-52	171.0
+Absent_15	DUF3306 domain-containing protein	DUF3306 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Terpene synthase	Terpene synthase	-	-	-	-	-	-	-	-	-	-
+Absent_15	transposase	transposase	Transposase	-	L	-	-	-	HTH_Tnp_1	1348635.BBJY01000035_gene2205	5.94e-49	157.0
+Absent_15	IS30 family transposase	IS30 family transposase	-	-	-	-	-	-	-	-	-	-
+Absent_15	Serine hydrolase	Serine hydrolase	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_642	Serine hydrolase	HEPN domain	-	S	-	-	-	-	1298593.TOL_2060	2.35e-08	60.1
+Absent_15	group_643	hypothetical protein	ISXO2-like transposase domain	-	L	-	-	-	DDE_Tnp_IS1595	1205908.AKXW01000119_gene518	7.74e-37	132.0
+Absent_15	lysE	LysE family translocator	LysE type translocator	-	E	-	-	-	LysE	1348635.BBJY01000003_gene3942	4.66e-119	343.0
+Absent_15	group_645	GNAT family N-acetyltransferase	Acetyltransferase (GNAT) domain	-	J	-	-	-	Acetyltransf_3	1116375.VEJY3_20796	1.69e-101	296.0
+Absent_15	group_646	hypothetical protein	-	-	-	-	-	-	-	364733.XP_007802065.1	128.0	28.1
+Absent_15	yjcC	Redox-sensing c-di-GMP phosphodiesterase, contains CSS-motif and EAL domains	EAL domain	-	T	-	-	-	EAL	223926.28806760	0.0	981.0
+Absent_15	Sporulation protein	Sporulation protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	vpadF	surface adhesin VpadF	Bacterial Ig-like domain 2	-	N	-	-	-	Big_2,DUF1566	223926.28806759	0.0	1271.0
+Absent_15	group_650	hypothetical protein	tRNA synthetases class II (A)	-	S	-	-	-	tRNA-synt_2c,tRNA_SAD	223926.28806758	1.05e-12	65.5
+Absent_15	group_651	Ser-tRNA(Ala) deacylase AlaX (editing enzyme)	tRNA synthetases class II (A)	-	S	-	-	-	tRNA-synt_2c,tRNA_SAD	223926.28806758	1.56e-120	346.0
+Absent_15	group_652	AraC-type DNA-binding domain and AraC-containing proteins	helix_turn_helix, arabinose operon control protein	-	K	-	-	-	HTH_18	223926.28806757	4.46e-189	526.0
+Absent_15	group_653	hypothetical protein	Helix-turn-helix XRE-family like proteins	-	K	-	-	-	HTH_3	1307437.J139_01661	5.24e-08	52.4
+Absent_15	group_654	Lipoprotein	-	-	-	-	-	-	-	1115632.JAFW01000001_gene3122	2.15	38.9
+Absent_15	group_655	CopG family transcriptional regulator	-	-	-	-	-	-	-	8364.ENSXETP00000060379	98.0	30.4
+Absent_15	group_656	Phage protein	-	-	-	-	-	-	-	123899.JPQP01000022_gene3511	14.7	32.3
+Absent_15	Transposon Tn3 resolvase	Transposon Tn3 resolvase	-	-	-	-	-	-	-	-	-	-
+Absent_15	SH3 domain-containing protein	SH3 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF2787 domain-containing protein	DUF2787 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_660	hypothetical protein	-	-	-	-	-	-	-	97137.C821_01600	7.49	37.4
+Absent_15	protein phosphatase 2C domain-containing protein	protein phosphatase 2C domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Serine/threonine protein kinase	Serine/threonine protein kinase	-	-	-	-	-	-	-	-	-	-
+Absent_15	non-specific serine/threonine protein kinase	non-specific serine/threonine protein kinase	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_664	hypothetical protein	-	-	-	-	-	-	-	5759.rna_EHI_107910-1	23.9	36.2
+Absent_15	Similarity	Similarity	-	-	-	-	-	-	-	1121087.AUCK01000005_gene798	0.429	36.6
+Absent_15	Peptidase-M16-C domain-containing protein	Peptidase-M16-C domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_667	hypothetical protein	-	-	-	-	-	-	-	393305.YE2329	2.55e-23	93.6
+Absent_15	group_668	hypothetical protein	-	-	-	-	-	-	-	5479.M3HF38	58.5	29.6
+Absent_15	Translin family protein	Translin family protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_670	Chromosome partitioning protein ParB	-	-	-	-	-	-	-	994573.T472_0214010	3.12	34.7
+Absent_15	group_671	Phage protein	-	-	-	-	-	-	-	318167.Sfri_1534	72.0	32.0
+Absent_15	HTH luxR-type domain-containing protein	HTH luxR-type domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Primosomal replication protein N	Primosomal replication protein N	-	-	-	-	-	-	-	-	-	-
+Absent_15	Chromosome partition protein Smc	Chromosome partition protein Smc	-	-	-	-	-	-	-	-	-	-
+Absent_15	vscF	type III secretion system needle filament protein VscF	Type III secretion needle MxiH, YscF, SsaG, EprI, PscF, EscF	-	S	-	-	ko:K03221	T3SS_needle_F	223926.28806686	2.15e-48	154.0
+Absent_15	Flavodoxin-like domain-containing protein	Flavodoxin-like domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_677	DUF1100 domain-containing protein	Dienelactone hydrolase family	-	S	-	-	ko:K06889	Peptidase_S15	223926.28806669	5e-225	620.0
+Absent_15	group_678	DUF1100 domain-containing protein	X-Pro dipeptidyl-peptidase (S15 family)	-	S	-	-	ko:K06889	DLH,Peptidase_S15	223926.28806668	1.5e-219	607.0
+Absent_15	group_679	DNA-binding transcriptional regulator, LysR family	LysR substrate binding domain	-	K	-	-	-	HTH_1,LysR_substrate	223926.28806667	8.93e-220	606.0
+Absent_15	group_680	hypothetical protein	-	-	-	-	-	-	-	9593.ENSGGOP00000017203	637.0	29.3
+Absent_15	lipase family protein	lipase family protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_682	DUF6795 domain-containing protein	-	-	-	-	-	-	-	1280001.BAOA01000157_gene4772	3.29e-25	101.0
+Absent_15	group_683	DUF6795 domain-containing protein	-	-	-	-	-	-	-	1219076.N646_2789	2.32e-15	77.4
+Absent_15	DUF5062 domain-containing protein	DUF5062 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	HTH OST-type domain-containing protein	HTH OST-type domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	NTPase	NTPase	PFAM KAP P-loop domain protein	-	S	-	-	-	KAP_NTPase	94122.Shewana3_4058	3.94e-143	428.0
+Absent_15	group_687	hypothetical protein	-	-	-	-	-	-	-	159749.K0SY11	3.12	32.0
+Absent_15	group_688	MSHA biogenesis protein MshA	Prokaryotic N-terminal methylation motif	-	NU	-	-	ko:K10924	N_methyl	1348635.BBJY01000021_gene2859	1.17e-57	184.0
+Absent_15	mshP	MSHA biogenesis protein MshP	-	-	-	-	-	ko:K12286	-	223926.28807703	5.39e-96	280.0
+Absent_15	group_690	DUF6701 domain-containing protein	alginic acid biosynthetic process	-	N	-	-	ko:K12287	-	223926.28807702	0.0	2944.0
+Absent_15	group_691	hypothetical protein	Major facilitator Superfamily	-	EGP	-	-	ko:K03446	MFS_1	1280001.BAOA01000007_gene4019	1.22e-272	757.0
+Absent_15	group_692	PAPS-reduct domain-containing protein	sulfate reduction	-	EH	-	-	-	-	536233.CLO_1554	1.36e-92	282.0
+Absent_15	ISL3 family transposase	ISL3 family transposase	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_694	Tyrosine recombinase XerC	Arm DNA-binding domain	-	L	-	-	-	Arm-DNA-bind_5,Phage_int_SAM_5,Phage_integrase	672.VV93_v1c30040	1.72e-286	782.0
+Absent_15	DNA phosphorothioation-associated putative methyltransferase	DNA phosphorothioation-associated putative methyltransferase	-	-	-	-	-	-	-	-	-	-
+Absent_15	cysteine desulfurase	cysteine desulfurase	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF4007 domain-containing protein	DUF4007 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	ATP-binding protein	ATP-binding protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	PAPS-reduct domain-containing protein	PAPS-reduct domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF262 domain-containing protein	DUF262 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	mobI	MobI protein	-	-	-	-	-	-	-	672.VV93_v1c29920	1.93e-126	360.0
+Absent_15	EXLDI protein	EXLDI protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF2263 domain-containing protein	DUF2263 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_704	helix-turn-helix domain-containing protein	sequence-specific DNA binding	-	K	-	-	-	HTH_3	672.VV93_v1c29890	8.02e-38	127.0
+Absent_15	pgaD	Poly-beta-1,6-N-acetyl-D-glucosamine biosynthesis protein PgaD	-	-	-	-	-	-	-	672.VV93_v1c29880	2.31e-91	266.0
+Absent_15	group_706	hypothetical protein	-	-	-	-	-	-	-	31234.CRE11305	6.31	30.8
+Absent_15	group_707	Type II secretion system protein	Belongs to the N-Me-Phe pilin family	-	NU	-	-	-	N_methyl	1219077.VAZ01S_039_00410	8.71e-53	183.0
+Absent_15	group_708	DUF4124 domain-containing protein	-	-	-	-	-	-	-	1123299.AUKZ01000012_gene1013	6.06	34.7
+Absent_15	Serine protease	Serine protease	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_710	HTH-8 domain-containing protein	Bacterial regulatory protein, Fis family	-	L	-	-	ko:K03557	HTH_8	1219077.VAZ01S_029_00260	7.63e-07	50.1
+Absent_15	group_711	Hok/Gef family protein	PFAM Hok gef cell toxic protein	-	S	-	-	ko:K18919,ko:K18920,ko:K18921	HOK_GEF	870967.VIS19158_03402	1.5e-12	62.8
+Absent_15	group_712	Inner membrane protein	-	-	-	-	-	-	-	9612.ENSCAFP00000029003	64.8	32.0
+Absent_15	group_713	hypothetical protein	-	-	-	-	-	-	-	1122931.AUAE01000005_gene3258	99.1	31.6
+Absent_15	group_714	TYW3 domain-containing protein	Evidence 4 Homologs of previously reported genes of	-	S	-	-	-	-	870967.VIS19158_11838	1.28e-33	122.0
+Absent_15	group_715	conjugative transfer signal peptidase TraF	Signal peptidase, peptidase S26	-	OU	-	-	-	Peptidase_S26	298386.PBPRB1620	1.72e-37	134.0
+Absent_15	group_716	Conjugal transfer protein	Transglycosylase SLT domain	-	M	-	-	ko:K03194	SLT	298386.PBPRB1621	3.83e-59	189.0
+Absent_15	group_717	hypothetical protein	-	-	-	-	-	-	-	944480.ATUV01000001_gene633	14.7	33.1
+Absent_15	group_718	hypothetical protein	-	-	-	-	-	-	-	870967.VIS19158_11828	3.06e-34	125.0
+Absent_15	Metal-binding protein	Metal-binding protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_720	Phage protein	-	-	-	-	-	-	-	1121933.AUHH01000013_gene624	2.88	36.6
+Absent_15	group_721	ATPase	-	-	-	-	-	-	-	590409.Dd586_2675	1.4e-113	338.0
+Absent_15	group_722	hypothetical protein	-	-	-	-	-	-	-	45151.EDU48894	6.33	32.0
+Absent_15	group_723	DNA-binding protein	protein dimerization activity	-	S	-	-	ko:K03746	Histone_HNS	870967.VIS19158_09278	3.97e-38	132.0
+Absent_15	group_724	MFS transporter	TraM recognition site of TraD and TraG	-	U	-	-	-	TraG-D_C	870967.VIS19158_09283	0.0	892.0
+Absent_15	group_725	DUF1845 domain-containing protein	-	-	-	-	-	-	-	870967.VIS19158_09288	4.88e-48	161.0
+Absent_15	group_726	Mobilization protein	Transcriptional regulator	-	K	-	-	-	-	870967.VIS19158_09293	1.3e-109	322.0
+Absent_15	group_727	DNA topoisomerase	Bacterial DNA topoisomerase I DNA-binding domain	-	G	-	-	-	Topoisom_bac,Toprim,zf-C4_Topoisom	870967.VIS19158_10089	0.0	1095.0
+Absent_15	group_728	Integron gene cassette protein	-	-	-	-	-	-	-	1123236.KB899385_gene2534	2.53e-19	80.9
+Absent_15	group_729	DUF5405 domain-containing protein	-	-	-	-	-	-	-	1517681.HW45_02945	1.23e-33	119.0
+Absent_15	TetR-C-6 domain-containing protein	TetR-C-6 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF3303 domain-containing protein	DUF3303 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_732	Restriction endonuclease	-	-	-	-	-	-	-	29730.Gorai.003G093500.1	0.658	37.7
+Absent_15	group_733	Antirestriction protein	antirestriction protein	yfjX	S	-	-	-	Antirestrict	870967.VIS19158_10119	1.46e-39	136.0
+Absent_15	DUF3467 domain-containing protein	DUF3467 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF1738 domain-containing protein	DUF1738 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF1640 domain-containing protein	DUF1640 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_737	hypothetical protein	-	-	-	-	-	-	-	562983.HMPREF0433_00638	6.65e-26	113.0
+Absent_15	TIGR04255 family protein	TIGR04255 family protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Lipocalin	Lipocalin	-	-	-	-	-	-	-	10181.XP_004874907.1	56.4	33.5
+Absent_15	tyrosine-type recombinase/integrase	tyrosine-type recombinase/integrase	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_741	Small, acid-soluble spore protein N	-	-	-	-	-	-	-	1307437.J139_07907	1.58e-15	68.9
+Absent_15	yaaW	YaaW family protein	-	-	-	-	-	-	-	414684.RC1_0033	3.39e-45	159.0
+Absent_15	group_743	DNA repair protein RadC	Belongs to the UPF0758 family	-	E	-	-	ko:K03630	RadC	1517681.HW45_28730	7.08e-81	243.0
+Absent_15	group_744	DUF2787 domain-containing protein	Protein of unknown function (DUF2787)	-	S	-	-	-	DUF2787	1517681.HW45_28725	3.17e-42	144.0
+Absent_15	PEK499-p136 domain-containing protein	PEK499-p136 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_746	DUF2787 domain-containing protein	Protein of unknown function (DUF2787)	-	S	-	-	-	DUF2787	1517681.HW45_28715	1.96e-52	170.0
+Absent_15	group_747	WYL domain-containing protein	transcriptional regulator	-	K	-	-	-	-	675814.VIC_000163	6.02e-81	250.0
+Absent_15	group_748	hypothetical protein	-	-	-	-	-	-	-	1348635.BBJY01000020_gene2788	2.59e-16	73.2
+Absent_15	group_749	Holin	-	-	-	-	-	-	-	181119.XP_005519269.1	103.0	29.6
+Absent_15	group_750	hypothetical protein	-	-	-	-	-	-	-	575788.VS_1660	0.0067	44.7
+Absent_15	LPD25 domain-containing protein	LPD25 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_752	DUF2787 domain-containing protein	Protein of unknown function (DUF2787)	-	S	-	-	-	DUF2787	672.VV93_v1c04920	5.56e-38	132.0
+Absent_15	group_753	DUF2913 domain-containing protein	Protein of unknown function (DUF2913)	-	S	-	-	-	DUF2913	1219077.VAZ01S_023_00380	1.44e-104	307.0
+Absent_15	group_754	Transposase	-	-	-	-	-	-	-	1280001.BAOA01000145_gene2569	1.72e-43	147.0
+Absent_15	sel1 repeat family protein	sel1 repeat family protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_756	type VI secretion system contractile sheath small subunit	protein conserved in bacteria	-	S	-	-	ko:K11901	T6SS_VipA	243277.VC_A0107	7.12e-83	248.0
+Absent_15	group_757	type VI secretion system contractile sheath large subunit	protein conserved in bacteria	-	S	-	-	ko:K11900	VipB	55601.VANGNB10_cII0071	1.97e-313	858.0
+Absent_15	group_758	type VI secretion system baseplate subunit TssE	protein conserved in bacteria	-	S	-	-	ko:K11905	GPW_gp25	675816.VIA_002435	1.35e-46	155.0
+Absent_15	group_759	type VI secretion system baseplate subunit TssF	protein conserved in bacteria	vasA	S	-	-	ko:K11896	T6SS_TssF	675806.VII_000136	1.07e-287	801.0
+Absent_15	group_760	type VI secretion system baseplate subunit TssG	Pfam:T6SS_VasB	-	S	-	-	ko:K11895	T6SS_TssG	314282.PCNPT3_08445	6.38e-127	373.0
+Absent_15	tagH	type VI secretion system-associated FHA domain protein TagH	conserved protein, contains FHA domain	-	T	-	-	ko:K11894	FHA	675806.VII_000134	2.6e-115	354.0
+Absent_15	group_762	type VI secretion system lipoprotein TssJ	protein conserved in bacteria	-	S	-	-	ko:K11906	T6SS-SciN	55601.VANGNB10_cII0076	4.01e-71	218.0
+Absent_15	group_763	type VI secretion system baseplate subunit TssK	protein conserved in bacteria	-	S	-	-	ko:K11893	T6SS_VasE	55601.VANGNB10_cII0077	8.55e-249	691.0
+Absent_15	group_764	type IVB secretion system protein IcmH/DotU	VI Secretion	vasF	N	-	-	ko:K11892	DotU	243277.VC_A0115	2.13e-78	244.0
+Absent_15	group_765	type VI secretion system ATPase TssH	Belongs to the ClpA ClpB family	-	O	-	-	ko:K11907	AAA,AAA_2,ClpB_D2-small,Clp_N	675806.VII_000130	0.0	1172.0
+Absent_15	sigma 54-interacting transcriptional regulator	sigma 54-interacting transcriptional regulator	-	-	-	-	-	-	-	-	-	-
+Absent_15	vasI	type VI secretion system-associated protein VasI	Type VI secretion system VasI, EvfG, VC_A0118	-	S	-	-	ko:K11909	VasI	243277.VC_A0118	1.45e-31	122.0
+Absent_15	group_768	type VI secretion system protein TssA	protein conserved in bacteria	-	S	-	-	ko:K11910	ImpA_N,T6SS_VasJ	675806.VII_000127	2.43e-178	514.0
+Absent_15	group_769	type VI secretion system membrane subunit TssM	protein conserved in bacteria	-	S	-	-	ko:K11891	IcmF-related,IcmF_C,ImcF-related_N	243277.VC_A0120	0.0	1216.0
+Absent_15	impA	type VI secretion system ImpA family N-terminal domain-containing protein	ImpA, N-terminal, type VI secretion system	-	S	-	-	ko:K11911	ImpA_N	55601.VANGNB10_cII0084	5.21e-93	293.0
+Absent_15	GIY-YIG nuclease family protein	GIY-YIG nuclease family protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	type VI secretion system tube protein Hcp	type VI secretion system tube protein Hcp	-	-	-	-	-	-	-	-	-	-
+Absent_15	type VI secretion system PAAR protein	type VI secretion system PAAR protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_774	type VI secretion system tip protein VgrG	protein conserved in bacteria	-	M	GO:0000166,GO:0000287,GO:0003674,GO:0003824,GO:0005488,GO:0005524,GO:0005575,GO:0006464,GO:0006807,GO:0006996,GO:0007010,GO:0007015,GO:0008144,GO:0008150,GO:0008152,GO:0008154,GO:0009405,GO:0009987,GO:0016043,GO:0016874,GO:0016879,GO:0016881,GO:0017076,GO:0018149,GO:0018153,GO:0018193,GO:0018199,GO:0018205,GO:0018262,GO:0018995,GO:0019538,GO:0022411,GO:0030029,GO:0030036,GO:0030042,GO:0030430,GO:0030554,GO:0032553,GO:0032555,GO:0032559,GO:0032984,GO:0033643,GO:0033646,GO:0035639,GO:0036094,GO:0036211,GO:0043167,GO:0043168,GO:0043169,GO:0043170,GO:0043412,GO:0043624,GO:0043656,GO:0043657,GO:0043933,GO:0044215,GO:0044216,GO:0044217,GO:0044237,GO:0044238,GO:0044260,GO:0044267,GO:0044419,GO:0046872,GO:0051261,GO:0051704,GO:0071704,GO:0071840,GO:0097159,GO:0097367,GO:0097435,GO:1901265,GO:1901363,GO:1901564	-	ko:K11904	Phage_GPD	701176.VIBRN418_18733	7.65e-269	762.0
+Absent_15	DUF4123 domain-containing protein	DUF4123 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_776	LysM peptidoglycan-binding domain-containing protein	LysM domain	-	M	-	-	-	-	701176.VIBRN418_16143	9.5e-300	882.0
+Absent_15	tryptophanase	tryptophanase	-	-	-	-	-	-	-	870967.VIS19158_20032	1.72e-73	240.0
+Absent_15	group_778	hypothetical protein	-	-	-	-	-	-	-	870967.VIS19158_11623	1.29e-05	46.2
+Absent_15	restriction endonuclease	restriction endonuclease	-	-	-	-	-	-	-	-	-	-
+Absent_15	type I restriction endonuclease subunit R	type I restriction endonuclease subunit R	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_781	AAA family ATPase	Anticodon nuclease	-	V	-	-	-	AAA_13	1300345.LF41_1299	7.82e-171	490.0
+Absent_15	restriction endonuclease subunit S	restriction endonuclease subunit S	-	-	-	-	-	-	-	-	-	-
+Absent_15	type I restriction-modification system subunit M	type I restriction-modification system subunit M	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_784	hypothetical protein	-	-	-	-	-	-	-	1348635.BBJY01000001_gene2698	3.69e-53	174.0
+Absent_15	group_785	hypothetical protein	DNA helicase	-	L	-	-	-	Ank_5,UvrD-helicase,Viral_helicase1	1397528.Q671_03590	2.26e-148	458.0
+Absent_15	UvrD-helicase domain-containing protein	UvrD-helicase domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_787	HTH-8 domain-containing protein	Bacterial regulatory protein, Fis family	-	L	-	-	ko:K03557	HTH_8	1219077.VAZ01S_029_00260	3.26e-11	60.8
+Absent_15	group_788	recombination regulator RecX	Modulates RecA activity	-	S	-	-	ko:K03565	RecX	1248232.BANQ01000012_gene782	2.19e-58	184.0
+Absent_15	inovirus-type Gp2 protein	inovirus-type Gp2 protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	ribonuclease HI	ribonuclease HI	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_791	inovirus-type Gp2 protein	Pfam:DUF3296	yagK	S	GO:0008150,GO:0009314,GO:0009628,GO:0010165,GO:0010212,GO:0050896	-	-	Inovirus_Gp2	323850.Shew_1252	4.22e-14	75.5
+Absent_15	group_792	DUF3024 domain-containing protein	Protein of unknown function (DUF3024)	-	S	-	-	-	DUF3024	1177179.A11A3_12368	6.42e-25	97.8
+Absent_15	group_793	hypothetical protein	-	-	-	-	-	-	-	158822.LH89_07845	80.9	31.6
+Absent_15	group_794	hypothetical protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	alpA	AlpA family phage regulatory protein	Prophage CP4-57 regulatory protein (AlpA)	-	K	-	-	ko:K07733	Phage_AlpA	930169.B5T_03193	3.44e-06	50.4
+Absent_15	group_796	hypothetical protein	-	-	-	-	-	-	-	1454202.PPBDW_140027___1	0.0591	43.9
+Absent_15	tandem-95 repeat protein	tandem-95 repeat protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_798	HPt (histidine-containing phosphotransfer) domain	Hpt domain	-	S	-	-	-	Hpt	223926.28808979	3.41e-70	213.0
+Absent_15	group_799	type IV pilin MshA	Prokaryotic N-terminal methylation motif	-	NU	-	-	ko:K10924	N_methyl	223926.28808982	2.05e-121	347.0
+Absent_15	group_800	hypothetical protein	Lipase (class 3)	-	I	-	-	-	Lipase_3	1219076.N646_2788	1.63e-23	98.6
+Absent_15	group_801	hypothetical protein	AAA domain, putative AbiEii toxin, Type IV TA system	-	S	-	-	-	AAA_21	55601.VANGNB10_cII0930c	2.84e-139	403.0
+Absent_15	DUF1456 domain-containing protein	DUF1456 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_803	hypothetical protein	-	-	-	-	-	-	-	1280001.BAOA01000100_gene4446	0.00155	39.3
+Absent_15	group_804	YkgJ family cysteine cluster protein	Putative zinc- or iron-chelating domain	-	S	-	-	-	CxxCxxCC	1191299.AJYX01000092_gene2270	4.61e-44	142.0
+Absent_15	group_805	GNAT family N-acetyltransferase	COG1670 Acetyltransferases, including N-acetylases of ribosomal proteins	-	J	-	-	-	Acetyltransf_3	1121940.AUDZ01000007_gene2349	3.88e-63	197.0
+Absent_15	group_806	N-acetyltransferase domain-containing protein	Acetyltransferase (GNAT) domain	-	S	-	-	-	Acetyltransf_9	1348635.BBJY01000015_gene650	3.73e-83	249.0
+Absent_15	group_807	Purine nucleoside phosphoramidase/Ap4A hydrolase, histidine triade (HIT) family	Scavenger mRNA decapping enzyme C-term binding	-	FG	-	-	ko:K02503	HIT	674977.VMC_32930	1.26e-91	268.0
+Absent_15	Msl2237 protein	Msl2237 protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_809	hypothetical protein	-	-	-	-	-	-	-	161934.XP_010681526.1	68.5	32.0
+Absent_15	group_810	hypothetical protein	-	-	-	-	-	-	-	1279009.ADICEAN_01708	4.54	34.3
+Absent_15	group_811	Uncharacterized membrane protein YccC	Aromatic acid exporter family member 1	-	S	-	-	-	FUSC	223926.28806346	0.0	867.0
+Absent_15	group_812	Multidrug resistance efflux pump EmrA	Belongs to the membrane fusion protein (MFP) (TC 8.A.1) family	-	V	-	-	-	HlyD_D23	223926.28806347	2.37e-190	530.0
+Absent_15	group_813	DUF1656 domain-containing protein	Protein of unknown function (DUF1656)	-	S	-	-	-	DUF1656	223926.28806348	7.94e-41	134.0
+Absent_15	group_814	pyridoxal kinase	Pyridoxal kinase involved in the salvage pathway of pyridoxal 5'-phosphate (PLP). Catalyzes the phosphorylation of pyridoxal to PLP	-	H	-	2.7.1.35	ko:K00868	Phos_pyr_kin	223926.28806354	9.39e-195	541.0
+Absent_15	group_815	DNA-binding transcriptional regulator, LysR family	Bacterial regulatory helix-turn-helix protein, lysR family	-	K	-	-	-	HTH_1,LysR_substrate	223926.28806355	8.19e-213	588.0
+Absent_15	group_816	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	cyclopropane-fatty-acyl-phospholipid synthase	-	M	GO:0003674,GO:0003824,GO:0008150,GO:0008152,GO:0008168,GO:0008757,GO:0009058,GO:0009987,GO:0016740,GO:0016741,GO:0016999,GO:0017000,GO:0017144,GO:0032259,GO:0044237,GO:0044249	2.1.1.254,2.1.1.295,2.1.1.79,2.7.11.1	ko:K00574,ko:K07154,ko:K14369,ko:K15257,ko:K18534	Methyltransf_11,Methyltransf_23,Methyltransf_25,Methyltransf_31	223926.28806356	4.68e-156	437.0
+Absent_15	group_817	AraC-type DNA-binding domain and AraC-containing proteins	Family transcriptional regulator	-	K	-	-	-	AraC_binding,HTH_18	223926.28808035	4.78e-170	476.0
+Absent_15	thiS	sulfur carrier protein ThiS	COG2104 Sulfur transfer protein involved in thiamine biosynthesis	thiS	H	-	-	ko:K03154	ThiS	223926.28808050	5.12e-38	127.0
+Absent_15	group_819	OMP-b-brl domain-containing protein	-	-	-	-	-	-	-	436717.AOLE_10405	0.0437	42.4
+Absent_15	group_820	hypothetical protein	endonuclease exonuclease phosphatase	-	E	-	-	ko:K07004	Big_3_5,Big_5,CW_binding_2,DUF3616,Exo_endo_phos,LTD	1121272.KB903249_gene2169	2.13e-10	70.9
+Absent_15	C1q domain-containing protein	C1q domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_822	BIG2 domain-containing protein	PFAM PKD domain containing protein	-	G	-	-	-	Beta_helix,Big_2,Big_5,CHB_HEX_C_1,PKD,PMBR,PQQ_3,Peptidase_S9,Polysacc_deac_1	368407.Memar_1212	7.33e-13	80.1
+Absent_15	Microbial collagenase	Microbial collagenase	-	-	-	-	-	-	-	-	-	-
+Absent_15	TonB-dep-Rec domain-containing protein	TonB-dep-Rec domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Mtd-N domain-containing protein	Mtd-N domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	BIG2 domain-containing protein	BIG2 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	LTD domain-containing protein	LTD domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_828	hypothetical protein	-	-	-	-	-	-	-	34839.XP_005406544.1	5.72	35.0
+Absent_15	group_829	Phage protein	-	-	-	-	-	-	-	1006004.GBAG_4388	8.01	33.5
+Absent_15	Germane domain-containing protein	Germane domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Tape measure protein	Tape measure protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DHHA2 domain-containing protein	DHHA2 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_833	FHA domain-containing protein	-	-	-	-	-	-	-	1077285.AGDG01000005_gene2103	1.89	36.6
+Absent_15	group_834	Phage tail protein	-	-	-	-	-	-	-	1169154.KB897793_gene883	10.5	37.0
+Absent_15	ACPS domain-containing protein	ACPS domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_836	Phage protein	-	-	-	-	-	-	-	7370.XP_005180386.1	1.47	37.7
+Absent_15	DUF2513 domain-containing protein	DUF2513 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Capsid protein	Capsid protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_839	PAAR domain-containing protein	-	-	-	-	-	-	-	1206729.BAFZ01000084_gene1936	16.6	35.0
+Absent_15	DUF148 domain-containing protein	DUF148 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_841	DUF3850 domain-containing protein	-	-	-	-	-	-	-	314270.RB2083_3880	82.8	32.3
+Absent_15	Phage portal protein	Phage portal protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_843	hypothetical protein	Phage terminase large subunit	-	S	-	-	ko:K06909	Terminase_3,Terminase_3C	1217652.F954_02867	8.18e-16	87.8
+Absent_15	group_844	hypothetical protein	-	-	-	-	-	-	-	1238450.VIBNISOn1_1190008	2.33e-11	65.5
+Absent_15	group_845	Lipoprotein	-	-	-	-	-	-	-	984962.XP_009553444.1	8.89	31.2
+Absent_15	group_846	hypothetical protein	-	-	-	-	-	-	-	1178540.BA70_02955	5.68	32.0
+Absent_15	DUF1508 domain-containing protein	DUF1508 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	GAGA-binding transcriptional activator	GAGA-binding transcriptional activator	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF4269 domain-containing protein	DUF4269 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_850	Transporter	-	-	-	-	-	-	-	78398.KS43_02665	3.41e-37	129.0
+Absent_15	group_851	Phage protein	-	-	-	-	-	-	-	223926.28806883	1.17e-43	142.0
+Absent_15	fliT	Flagella biosynthesis chaperone FliT	-	-	-	-	-	-	-	1116375.VEJY3_22886	5.4e-38	127.0
+Absent_15	group_853	hypothetical protein	-	-	-	-	-	-	-	1116375.VEJY3_22891	5e-23	89.0
+Absent_15	group_854	ribonuclease R	3'-5' exoribonuclease that releases 5'-nucleoside monophosphates and is involved in maturation of structured RNAs	-	J	-	-	ko:K12573	OB_RNB,RNB,S1	223926.28806882	0.0	1456.0
+Absent_15	Type II toxin-antitoxin system death-on-curing family toxin	Type II toxin-antitoxin system death-on-curing family toxin	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_856	Phage protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_857	ParA family protein	VirC1 protein	-	D	-	-	ko:K03496	AAA_31	983328.AFGH01000044_gene1766	1.15e-10	67.0
+Absent_15	group_858	hypothetical protein	-	-	-	-	-	-	-	2423.NA23_0202620	29.2	32.3
+Absent_15	Recombinase domain-containing protein	Recombinase domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Site-specific DNA-methyltransferase (adenine-specific)	Site-specific DNA-methyltransferase (adenine-specific)	-	-	-	-	-	-	-	-	-	-
+Absent_15	IS110 family transposase	IS110 family transposase	-	-	-	-	-	-	-	-	-	-
+Absent_15	Gamma-glutamylcyclotransferase	Gamma-glutamylcyclotransferase	AIG2-like family	-	S	-	-	-	AIG2_2,GGACT	1535422.ND16A_2338	1.84e-64	201.0
+Absent_15	Peptidase-M78 domain-containing protein	Peptidase-M78 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_864	Resolvase	Resolvase, N terminal domain	-	L	-	-	-	Resolvase	28176.CF66_8014	6.34e-85	256.0
+Absent_15	PAAR domain-containing protein	PAAR domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	CPBP family intramembrane metalloprotease	CPBP family intramembrane metalloprotease	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_867	hypothetical protein	Putative transposase	-	S	-	-	-	Y2_Tnp,Zn_Tnp_IS91	1517681.HW45_28820	3.58e-48	164.0
+Absent_15	DNA (cytosine-5-)-methyltransferase	DNA (cytosine-5-)-methyltransferase	-	-	-	-	-	-	-	-	-	-
+Absent_15	type II restriction endonuclease	type II restriction endonuclease	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_870	Resolvase	PFAM Resolvase	-	L	-	-	-	HTH_7,Resolvase	1027273.GZ77_12030	2.12e-99	296.0
+Absent_15	CRISPR associated protein Cas2	CRISPR associated protein Cas2	-	-	-	-	-	-	-	-	-	-
+Absent_15	Small, acid-soluble spore protein N	Small, acid-soluble spore protein N	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_873	hypothetical protein	-	-	-	-	-	-	-	1131266.ARWQ01000008_gene343	5.44	30.8
+Absent_15	DUF2188 domain-containing protein	DUF2188 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_875	helix-turn-helix domain-containing protein	Transcriptional Regulator, XRE family	-	K	-	-	-	HTH_3	258594.RPA4129	3.14e-15	72.8
+Absent_15	ImmA/IrrE family metallo-endopeptidase	ImmA/IrrE family metallo-endopeptidase	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF4097 domain-containing protein	DUF4097 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF4379 domain-containing protein	DUF4379 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	ANR family transcriptional regulator	ANR family transcriptional regulator	-	-	-	-	-	-	-	-	-	-
+Absent_15	DinI-like family protein	DinI-like family protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_881	hypothetical protein	-	-	-	-	-	-	-	870967.VIS19158_11638	1.48e-32	117.0
+Absent_15	group_882	Type II toxin-antitoxin system RelE/ParE family toxin	-	-	-	-	-	-	-	1517681.HW45_28790	3.41e-09	54.7
+Absent_15	group_883	DUF2913 domain-containing protein	Protein of unknown function (DUF2913)	-	S	-	-	-	DUF2913	1219077.VAZ01S_023_00380	1.47e-101	299.0
+Absent_15	FH2 domain-containing protein	FH2 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Type I restriction endonuclease subunit M	Type I restriction endonuclease subunit M	-	-	-	-	-	-	-	-	-	-
+Absent_15	Helix-turn-helix transcriptional regulator	Helix-turn-helix transcriptional regulator	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_887	Integrase	-	-	-	-	-	-	-	312309.VF_B0017	1e-85	265.0
+Absent_15	group_888	hypothetical protein	-	-	-	-	-	-	-	1223545.GS4_24_00610	3.01e-24	94.4
+Absent_15	Spore protein	Spore protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_890	hypothetical protein	-	-	-	-	-	-	-	1298920.KI911353_gene5485	3.88	32.7
+Absent_15	group_891	hypothetical protein	-	-	-	-	-	-	-	388467.A19Y_0712	0.00366	43.1
+Absent_15	group_892	hypothetical protein	-	-	-	-	-	-	-	4530.OS02T0795800-00	14.7	32.7
+Absent_15	group_893	GNAT family N-acetyltransferase	Acetyltransferase (GNAT) domain	-	K	-	-	-	Acetyltransf_1,Acetyltransf_10	1238450.VIBNISOn1_410112	9.54e-65	201.0
+Absent_15	SMI1-KNR4 domain-containing protein	SMI1-KNR4 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_895	DUF4065 domain-containing protein	-	-	-	-	-	-	-	1112209.AHVZ01000009_gene2649	2.61e-12	68.2
+Absent_15	group_896	Protein N-acetyltransferase, RimJ/RimL family	Acetyltransferase (GNAT) domain	-	J	-	2.3.1.128	ko:K03790	Acetyltransf_3	223926.28806824	2.47e-90	266.0
+Absent_15	group_897	Lipoprotein	-	-	-	-	-	-	-	675815.VOA_000883	4.42	36.6
+Absent_15	group_898	GNAT family N-acetyltransferase	Acetyltransferase (GNAT) domain	-	S	-	-	-	Acetyltransf_1	223926.28806819	3.4e-86	256.0
+Absent_15	group_899	hypothetical protein	-	-	-	-	-	-	-	1121324.CLIT_10c02540	47.7	31.6
+Absent_15	group_9	DUF87 domain-containing protein	COG3451 Type IV secretory pathway, VirB4 components	-	U	-	-	ko:K03199,ko:K20530	CagE_TrbE_VirB	298386.PBPRB1600	8.04e-173	508.0
+Absent_15	RING-type E3 ubiquitin transferase	RING-type E3 ubiquitin transferase	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_901	hypothetical protein	-	-	-	-	-	-	-	1449342.JQMR01000001_gene431	12.2	33.5
+Absent_15	group_902	hypothetical protein	-	-	-	-	-	-	-	1123269.NX02_18185	6.08	33.5
+Absent_15	group_903	hypothetical protein	-	-	-	-	-	-	-	1201290.M902_0699	0.684	37.4
+Absent_15	group_904	Antitoxin component YafN of the YafNO toxin-antitoxin module, PHD/YefM family	Antitoxin component of a toxin-antitoxin (TA) module	-	D	-	-	-	PhdYeFM_antitox	1219065.VPR01S_08_00150	8.54e-54	168.0
+Absent_15	group_905	Type II toxin-antitoxin system RelE/ParE family toxin	ParE toxin of type II toxin-antitoxin system, parDE	-	S	-	-	ko:K19092	ParE_toxin	1219065.VPR01S_08_00160	5.27e-64	195.0
+Absent_15	DUF1616 domain-containing protein	DUF1616 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_907	Histidine kinase	Inhibitor of apoptosis-promoting Bax1	-	S	-	-	-	Bax1-I	1136163.M565_ctg1P0859	7.87e-137	389.0
+Absent_15	group_908	hypothetical protein	-	-	-	-	-	-	-	1502770.JQMG01000001_gene2398	3.54e-17	81.6
+Absent_15	relE	mRNA-degrading endonuclease RelE, toxin component of the RelBE toxin-antitoxin system	Cytotoxic translational repressor of toxin-antitoxin stability system	-	DJ	-	-	ko:K06218	ParE_toxin	1219076.N646_0893	1.27e-60	186.0
+Absent_15	stbD	Antitoxin component YafN of the YafNO toxin-antitoxin module, PHD/YefM family	Antitoxin component of a toxin-antitoxin (TA) module	-	D	-	-	ko:K18923	PhdYeFM_antitox	1205908.AKXW01000151_gene2228	5.07e-47	151.0
+Absent_15	Four helix bundle protein	Four helix bundle protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_912	hypothetical protein	-	-	-	-	-	-	-	858619.CVAR_0111	2.86	37.4
+Absent_15	group_913	hypothetical protein	-	-	-	-	-	-	-	160488.PP_2277	1.67e-06	58.5
+Absent_15	group_914	Orphan protein	-	-	-	-	-	-	-	1235788.C802_03119	0.00518	44.7
+Absent_15	group_915	Recombinase domain-containing protein	-	-	-	-	-	-	-	701176.VIBRN418_07975	1.34e-61	191.0
+Absent_15	DHC-N1 domain-containing protein	DHC-N1 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_917	Flp pilus assembly complex ATPase component TadA	COG2804 Type II secretory pathway, ATPase PulE Tfp pilus assembly pathway, ATPase PilB	-	NU	-	-	-	T2SSE	1248232.BANQ01000110_gene1862	1.7e-161	476.0
+Absent_15	group_918	Type IV pilus biogenesis protein PilP	-	-	-	-	-	-	-	675817.VDA_000085	7.44e-07	55.8
+Absent_15	group_919	Fimbrial assembly protein	-	-	-	-	-	-	-	675817.VDA_000084	6.92e-33	134.0
+Absent_15	group_920	Type II and III secretion system protein	COG1450 Type II secretory pathway, component PulD	-	NU	-	-	-	Secretin	675817.VDA_000083	2.67e-179	519.0
+Absent_15	group_921	Type IV pilus biogenesis protein PilM	domain, Protein	-	S	-	-	-	-	1248232.BANQ01000110_gene1858	1.66e-38	142.0
+Absent_15	group_922	Conjugal transfer protein TrbI	Bacterial conjugation TrbI-like protein	-	U	-	-	ko:K03195,ko:K20533	TrbI	298386.PBPRB1607	8.48e-84	268.0
+Absent_15	group_923	Conjugal transfer protein TrbH	-	-	-	-	-	-	-	298386.PBPRB1606	3.01e-50	164.0
+Absent_15	group_924	P-type conjugative transfer protein TrbG	Conjugal transfer protein	-	U	-	-	ko:K20532	CagX	298386.PBPRB1605	9.99e-124	362.0
+Absent_15	group_925	Conjugal transfer protein	VirB8 protein	-	U	-	-	ko:K20531	VirB8	1248232.BANQ01000110_gene1854	4.64e-65	207.0
+Absent_15	DUF1292 domain-containing protein	DUF1292 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_927	P-type conjugative transfer protein TrbL	TrbL/VirB6 plasmid conjugal transfer protein	-	U	-	-	ko:K07344	TrbL	298386.PBPRB1603	6.58e-107	330.0
+Absent_15	group_928	P-type conjugative transfer ATPase TrbB	Type II/IV secretion system protein	-	U	-	-	ko:K20527	T2SSE	298386.PBPRB1602	2.67e-128	375.0
+Absent_15	group_929	P-type conjugative transfer protein TrbJ	transfer protein trbJ	-	U	-	-	ko:K20266	-	298386.PBPRB1601	2.01e-61	201.0
+Absent_15	DUF4062 domain-containing protein	DUF4062 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	RES domain-containing protein	RES domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_932	MFS transporter	-	-	-	-	-	-	-	1385520.N802_09820	0.352	38.9
+Absent_15	HDc domain-containing protein	HDc domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	antibiotic biosynthesis monooxygenase	antibiotic biosynthesis monooxygenase	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_935	DUF1508 domain-containing protein	-	-	-	-	-	-	-	1189619.pgond44_08677	1.81	35.8
+Absent_15	DUF4231 domain-containing protein	DUF4231 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	ATP-grasp domain-containing protein	ATP-grasp domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF3278 domain-containing protein	DUF3278 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Regulator	Regulator	-	-	-	-	-	-	DUF3653	1219076.N646_4297	4.55e-79	235.0
+Absent_15	rloB	RloB domain-containing protein	RloB-like protein	-	S	-	-	-	RloB	1033802.SSPSH_002126	2.3e-32	122.0
+Absent_15	group_941	ATP-binding protein	AAA domain, putative AbiEii toxin, Type IV TA system	-	S	-	-	ko:K06926	AAA_21	204669.Acid345_2064	5.01e-67	227.0
+Absent_15	group_942	hypothetical protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	zot	Zona occludens toxin, putative ATPase	Zonular occludens toxin (Zot)	zot	S	GO:0001906,GO:0006810,GO:0006996,GO:0007010,GO:0008150,GO:0009405,GO:0009987,GO:0016043,GO:0031640,GO:0035821,GO:0042044,GO:0042045,GO:0044364,GO:0044419,GO:0051179,GO:0051234,GO:0051704,GO:0070633,GO:0071840	-	ko:K10954	Zot	223926.28806549	0.0	931.0
+Absent_15	group_944	DUF2523 domain-containing protein	Protein of unknown function (DUF2523)	-	S	-	-	-	DUF2523	675814.VIC_001305	3.62e-14	70.5
+Absent_15	Minor capsid protein	Minor capsid protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_946	Major coat protein	-	-	-	-	-	-	-	675806.VII_002325	1.2e-08	53.9
+Absent_15	group_947	Phage protein	-	-	-	-	-	-	-	1536773.R70331_18770	3.56	33.5
+Absent_15	DUF3693 domain-containing protein	DUF3693 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_949	hypothetical protein	-	-	-	-	-	-	-	1122197.ATWI01000014_gene8	0.112	40.8
+Absent_15	FRG domain-containing protein	FRG domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DNA topoisomerase (ATP-hydrolyzing)	DNA topoisomerase (ATP-hydrolyzing)	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_952	N-acetyltransferase domain-containing protein	Acetyltransferase (GNAT) domain	-	S	-	-	-	Acetyltransf_9	945550.VISI1226_02502	6.95e-122	347.0
+Absent_15	AAA family ATPase	AAA family ATPase	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_954	Phage protein	-	-	-	-	-	-	-	1280666.ATVS01000012_gene853	2.49	37.4
+Absent_15	group_955	hypothetical protein	-	-	-	-	-	-	-	223926.28806840	4.72e-41	146.0
+Absent_15	putative DNA primase	putative DNA primase	-	-	-	-	-	-	-	-	-	-
+Absent_15	ybjN	YbjN domain-containing protein	-	-	-	-	-	-	-	679926.Mpet_0240	0.959	35.0
+Absent_15	group_958	Lipoprotein	-	-	-	-	-	-	-	1177154.Y5S_02586	1.78e-43	152.0
+Absent_15	group_959	Site-specific DNA recombinase SpoIVCA/DNA invertase PinE	Resolvase, N terminal domain	-	L	-	-	-	Resolvase	55601.VANGNB10_cI0123	1.64e-123	353.0
+Absent_15	group_960	Lipoprotein	-	-	-	-	-	-	-	13035.Dacsa_2625	0.933	33.9
+Absent_15	tetR	TetR family transcriptional regulator	-	-	-	-	-	-	-	1336233.JAEH01000005_gene1815	0.00102	45.4
+Absent_15	group_962	Integrase	viral genome integration into host DNA	-	L	-	-	-	-	550540.Fbal_1584	6.45e-133	413.0
+Absent_15	group_963	Integrase	viral genome integration into host DNA	-	L	-	-	-	-	550540.Fbal_1585	3.65e-111	352.0
+Absent_15	group_964	Integrase	Belongs to the 'phage' integrase family	-	L	-	-	-	Phage_integrase	550540.Fbal_1586	1.29e-98	311.0
+Absent_15	Holin-like protein	Holin-like protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF4760 domain-containing protein	DUF4760 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_967	hypothetical protein	-	-	-	-	-	-	-	1227457.C451_01708	88.9	32.7
+Absent_15	HNH endonuclease	HNH endonuclease	-	-	-	-	-	-	-	-	-	-
+Absent_15	Phosphinothricin N-acetyltransferase	Phosphinothricin N-acetyltransferase	-	-	-	-	-	-	-	-	-	-
+Absent_15	Phage related protein	Phage related protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	helix-turn-helix domain-containing protein	helix-turn-helix domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_972	Phage protein	-	-	-	-	-	-	-	1147151.K7PJT6_9CAUD	2.36e-23	95.1
+Absent_15	Phosphotransferase	Phosphotransferase	Phosphotransferase enzyme family	VVA0485	S	-	-	-	APH	1187848.AJYQ01000133_gene3725	3.16e-174	486.0
+Absent_15	HNH-5 domain-containing protein	HNH-5 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_975	Type II secretion system protein	-	-	-	-	-	-	-	1211115.ALIQ01000113_gene1582	13.0	34.3
+Absent_15	group_976	LprI domain-containing protein	Lysozyme inhibitor LprI	-	S	-	-	-	LprI	1219076.N646_0903	3.05e-90	265.0
+Absent_15	ArAE-2-N domain-containing protein	ArAE-2-N domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF234 domain-containing protein	DUF234 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF4823 domain-containing protein	DUF4823 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Uncharacterized phage protein	Uncharacterized phage protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF2185 domain-containing protein	DUF2185 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_982	Periplasmic protein TonB, links inner and outer membranes	Gram-negative bacterial TonB protein C-terminal	-	M	-	-	-	TonB_C	223926.28806811	9.43e-84	248.0
+Absent_15	group_983	Transmembrane protein	-	-	-	-	-	-	-	870967.VIS19158_18346	1.38e-58	183.0
+Absent_15	group_984	hypothetical protein	-	-	-	-	-	-	-	9823.ENSSSCP00000016787	13.8	31.6
+Absent_15	Streptothricin hydrolase	Streptothricin hydrolase	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF2721 domain-containing protein	DUF2721 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	yopX	YopX domain-containing protein	-	-	-	-	-	-	-	1116375.VEJY3_09660	3.34e-101	293.0
+Absent_15	Lipase	Lipase	Carboxylesterase family	-	I	-	-	ko:K01066	Abhydrolase_3	1280001.BAOA01000027_gene4857	1.15e-170	482.0
+Absent_15	ABC transmembrane type-1 domain-containing protein	ABC transmembrane type-1 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	3-phosphoglycerate dehydrogenase	3-phosphoglycerate dehydrogenase	-	-	-	-	-	-	-	-	-	-
+Absent_15	P63C domain-containing protein	P63C domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF3955 domain-containing protein	DUF3955 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_993	hypothetical protein	-	-	-	-	-	-	-	1047013.AQSP01000137_gene543	1.91e-28	110.0
+Absent_15	HU family DNA-binding protein	HU family DNA-binding protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	DUF1206 domain-containing protein	DUF1206 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	group_996	DUF4145 domain-containing protein	Domain of unknown function (DUF4145)	-	S	-	-	-	DUF4145	1123054.KB907711_gene327	1.01e-35	136.0
+Absent_15	DUF5668 domain-containing protein	DUF5668 domain-containing protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Glyoxalase/bleomycin resistance/extradiol dioxygenase family protein	Glyoxalase/bleomycin resistance/extradiol dioxygenase family protein	-	-	-	-	-	-	-	-	-	-
+Absent_15	Amino acid permease	Amino acid permease	-	-	-	-	-	-	-	-	-	-
