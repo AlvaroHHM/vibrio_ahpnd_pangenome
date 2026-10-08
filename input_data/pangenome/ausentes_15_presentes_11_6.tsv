@@ -1,0 +1,611 @@
+gene	annotation	11_VM	15_CESAIBC	6_VM
+group_1000	hypothetical protein	ICDOIP_24465		JANPHL_24500
+HEPN-RiboL-PSP domain-containing protein	HEPN-RiboL-PSP domain-containing protein	ICDOIP_24475		JANPHL_24490
+Type VI secretion protein	Type VI secretion protein	ICDOIP_24480		JANPHL_24485
+Cytoplasmic protein	Cytoplasmic protein	ICDOIP_24485		JANPHL_24480
+group_1004	hypothetical protein	ICDOIP_24490		JANPHL_24515
+group_1005	hypothetical protein	ICDOIP_24495		JANPHL_24520
+Putative acetyltransferase	Putative acetyltransferase	ICDOIP_24500		JANPHL_24525
+group_1007	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	ICDOIP_24505		JANPHL_24530
+group_1008	DUF4760 domain-containing protein	ICDOIP_24510		JANPHL_24535
+group_1009	hypothetical protein	ICDOIP_24535		JANPHL_24585
+yvbK	Putative N-acetyltransferase YvbK	ICDOIP_24540		JANPHL_24590
+Arp2/3 complex subunit	Arp2/3 complex subunit	ICDOIP_24545		JANPHL_24595
+group_1012	hypothetical protein	ICDOIP_24550		JANPHL_24600
+group_1013	IS3 family transposase	ICDOIP_24555		JANPHL_24605
+group_1014	IS3 family transposase	ICDOIP_24560		JANPHL_24610
+START domain-containing protein	START domain-containing protein	ICDOIP_24565		JANPHL_24615
+Damage-inducible protein J	Damage-inducible protein J	ICDOIP_24570		JANPHL_24620
+group_1017	Plasmid stabilization system protein ParE	ICDOIP_24575		JANPHL_24625
+group_1018	YkgJ family cysteine cluster protein	ICDOIP_24580		JANPHL_24640
+group_1019	Chromosome partitioning protein ParA	ICDOIP_24585		JANPHL_24635
+group_1020	hypothetical protein	ICDOIP_24590		JANPHL_24630
+group_1021	hypothetical protein	ICDOIP_24595		JANPHL_24660
+rstR	RstR	ICDOIP_24600		JANPHL_24655
+replication initiation factor domain-containing protein	replication initiation factor domain-containing protein	ICDOIP_24605		JANPHL_24650
+DUF1293 domain-containing protein	DUF1293 domain-containing protein	ICDOIP_24610		JANPHL_24645
+Signal peptidase I	Signal peptidase I	ICDOIP_24615		JANPHL_24670
+group_1026	hypothetical protein	ICDOIP_24640		JANPHL_24690
+ISNCY family transposase	ISNCY family transposase	ICDOIP_24645		JANPHL_24695
+group_1028	hypothetical protein	ICDOIP_24650		JANPHL_24705
+group_1029	hypothetical protein	ICDOIP_24655		JANPHL_24700
+O-antigen polymerase	O-antigen polymerase	ICDOIP_24665		JANPHL_24715
+Major coat protein	Major coat protein	ICDOIP_24670		JANPHL_24720
+group_1032	Putative-PNPOx domain-containing protein	ICDOIP_24680		JANPHL_24730
+group_1033	IS30 family transposase	ICDOIP_24685		JANPHL_24735
+DUF6678 domain-containing protein	DUF6678 domain-containing protein	ICDOIP_24690		JANPHL_24740
+GNAT family N-acetyltransferase	GNAT family N-acetyltransferase	ICDOIP_24700		JANPHL_24750
+DUF2812 domain-containing protein	DUF2812 domain-containing protein	ICDOIP_24705		JANPHL_24755
+group_1037	N-acetyltransferase domain-containing protein	ICDOIP_24710		JANPHL_24760
+group_1038	DUF4760 domain-containing protein	ICDOIP_24715		JANPHL_24765
+Ribosomal protein S18 acetylase RimI-like enzyme	Ribosomal protein S18 acetylase RimI-like enzyme	ICDOIP_24770		JANPHL_24770
+group_1040	DUF2750 domain-containing protein	ICDOIP_24790		JANPHL_24775
+group_1041	hypothetical protein	ICDOIP_24795		JANPHL_24780
+group_1042	hypothetical protein	ICDOIP_24810		JANPHL_24815
+group_1043	hypothetical protein	ICDOIP_24815		JANPHL_24810
+Branched-chain amino acid transport system / permease component	Branched-chain amino acid transport system / permease component	ICDOIP_00765		JANPHL_03095
+group_15	hypothetical protein	ICDOIP_01815		JANPHL_02045
+group_17	hypothetical protein	ICDOIP_09465		JANPHL_08810
+group_24	Structural protein	ICDOIP_16455		JANPHL_16245
+group_26	FTH domain-containing protein	ICDOIP_16460		JANPHL_16240
+corA	Magnesium transporter CorA family protein	ICDOIP_16475		JANPHL_16225
+group_38	UPF0056 membrane protein	ICDOIP_22480		JANPHL_22480
+group_3967	Plasmid protein	ICDOIP_20775		JANPHL_21100
+group_4269	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	ICDOIP_24035		JANPHL_24320
+Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	ICDOIP_24335		JANPHL_24375
+peptidoglycan-binding protein	peptidoglycan-binding protein	ICDOIP_23260		JANPHL_23205
+MATE efflux family protein	MATE efflux family protein	ICDOIP_24620		JANPHL_24665
+group_450	Bacterioferritin-associated ferredoxin	ICDOIP_00345		JANPHL_03515
+group_451	Lipoprotein	ICDOIP_00405		JANPHL_03455
+group_4516	elongation factor Tu	ICDOIP_19160		JANPHL_19200
+tuf	elongation factor Tu	ICDOIP_22825		JANPHL_22870
+group_452	Enoyl-CoA hydratase/carnithine racemase	ICDOIP_00650		JANPHL_03210
+DUF2474 domain-containing protein	DUF2474 domain-containing protein	ICDOIP_00705		JANPHL_03155
+group_454	Transmembrane protein	ICDOIP_00735		JANPHL_03125
+methyltransferase domain-containing protein	methyltransferase domain-containing protein	ICDOIP_00740		JANPHL_03120
+Electron transfer flavoprotein-ubiquinone oxidoreductase	Electron transfer flavoprotein-ubiquinone oxidoreductase	ICDOIP_00785		JANPHL_03075
+fixA	Electron transfer flavoprotein, alpha and beta subunits	ICDOIP_00790		JANPHL_03070
+group_458	Conserved domain protein	ICDOIP_01130		JANPHL_02730
+group_459	hypothetical protein	ICDOIP_01420		JANPHL_02440
+ELFV-dehydrog domain-containing protein	ELFV-dehydrog domain-containing protein	ICDOIP_01425		JANPHL_02435
+DUF1049 domain-containing protein	DUF1049 domain-containing protein	ICDOIP_01430		JANPHL_02430
+UPF0149 family protein	UPF0149 family protein	ICDOIP_01435		JANPHL_02425
+group_463	DUF2489 domain-containing protein	ICDOIP_01440		JANPHL_02420
+monooxygenase	monooxygenase	ICDOIP_02475		JANPHL_01380
+DUF1835 domain-containing protein	DUF1835 domain-containing protein	ICDOIP_02485		JANPHL_01370
+group_466	hypothetical protein	ICDOIP_02625		JANPHL_01230
+Maltoporin	Maltoporin	ICDOIP_02655		JANPHL_01200
+group_468	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	ICDOIP_02680		JANPHL_01175
+group_469	hypothetical protein	ICDOIP_02985		JANPHL_00870
+group_470	Protein N-acetyltransferase, RimJ/RimL family	ICDOIP_03030		JANPHL_00825
+group_471	Phosphoglycolate phosphatase, HAD superfamily	ICDOIP_03700		JANPHL_00155
+group_472	Ribosomal protein S18 acetylase RimI and related acetyltransferases	ICDOIP_03770		JANPHL_00085
+group_473	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	ICDOIP_03775		JANPHL_00080
+group_474	Protein N-acetyltransferase, RimJ/RimL family	ICDOIP_03780		JANPHL_00075
+group_475	Tetraheme cytochrome c subunit NapC of nitrate or TMAO reductase	ICDOIP_03785		JANPHL_00070
+group_476	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component	ICDOIP_03825		JANPHL_00030
+pilin	pilin	ICDOIP_03980		JANPHL_17455
+yidK	Uncharacterized membrane permease YidK, sodium:solute symporter family	ICDOIP_04605		JANPHL_06380
+group_479	hypothetical protein	ICDOIP_04610		JANPHL_06375
+3'-5' exonuclease	3'-5' exonuclease	ICDOIP_04615		JANPHL_06370
+Porin family protein	Porin family protein	ICDOIP_04630		JANPHL_06355
+GGACT domain-containing protein	GGACT domain-containing protein	ICDOIP_04635		JANPHL_06350
+group_483	GGDEF domain, diguanylate cyclase (c-di-GMP synthetase) or its enzymatically inactive variants	ICDOIP_04755		JANPHL_06230
+ompK	Outer membrane protein OmpK	ICDOIP_04775		JANPHL_06210
+DUF4397 domain-containing protein	DUF4397 domain-containing protein	ICDOIP_04785		JANPHL_06200
+CheW-like domain-containing protein	CheW-like domain-containing protein	ICDOIP_05455		JANPHL_05530
+fimV	Type IV pilus assembly protein FimV	ICDOIP_05620		JANPHL_05365
+group_488	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	ICDOIP_06480		JANPHL_04505
+group_489	Nicotinamidase-related amidase	ICDOIP_06520		JANPHL_04465
+group_490	Transcriptional regulator GlxA, contains an amidase domain and an AraC-type DNA-binding HTH domain	ICDOIP_06525		JANPHL_04460
+DUF4268 domain-containing protein	DUF4268 domain-containing protein	ICDOIP_06530		JANPHL_04455
+rluF	23S rRNA pseudouridine(2604) synthase RluF	ICDOIP_07195		JANPHL_08010
+group_493	Transcriptional regulator	ICDOIP_07240		JANPHL_07965
+Kazal-like domain-containing protein	Kazal-like domain-containing protein	ICDOIP_07335		JANPHL_07870
+bcsG	cellulose biosynthesis protein BcsG	ICDOIP_07450		JANPHL_07755
+group_496	Phage protein	ICDOIP_07455		JANPHL_07750
+bcsE	cellulose biosynthesis protein BcsE	ICDOIP_07460		JANPHL_07745
+lprI	LprI domain-containing protein	ICDOIP_07465		JANPHL_07740
+bcsQ	cellulose biosynthesis protein BcsQ	ICDOIP_07470		JANPHL_07735
+Transhydrogenase beta subunit	Transhydrogenase beta subunit	ICDOIP_00150		JANPHL_03715
+group_500	UDP-forming cellulose synthase catalytic subunit	ICDOIP_07475		JANPHL_07730
+bcsB	cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB	ICDOIP_07480		JANPHL_07725
+bcsZ	cellulose synthase complex periplasmic endoglucanase BcsZ	ICDOIP_07485		JANPHL_07720
+BCSC-C domain-containing protein	BCSC-C domain-containing protein	ICDOIP_07490		JANPHL_07715
+yecM	VOC family protein	ICDOIP_07760		JANPHL_07440
+DUF1471 domain-containing protein	DUF1471 domain-containing protein	ICDOIP_07850		JANPHL_07350
+group_506	Holin	ICDOIP_08020		JANPHL_07180
+tolR	Biopolymer transport protein ExbD	ICDOIP_08695		JANPHL_06500
+group_508	DNA-binding ferritin-like protein (oxidative damage protectant)	ICDOIP_08805		JANPHL_08150
+group_509	AAA family ATPase	ICDOIP_08835		JANPHL_08180
+group_510	WYL domain-containing protein	ICDOIP_08840		JANPHL_08185
+Mobile element protein	Mobile element protein	ICDOIP_08845		JANPHL_08190
+group_512	hypothetical protein	ICDOIP_08850		JANPHL_08195
+group_513	TerB domain-containing protein	ICDOIP_08855		JANPHL_08200
+group_514	hypothetical protein	ICDOIP_08860		JANPHL_08205
+group_515	MdtL family multidrug efflux MFS transporter	ICDOIP_08865		JANPHL_08210
+group_516	HTH-type transcriptional regulator YidZ	ICDOIP_08870		JANPHL_08215
+group_517	Phosphoserine phosphatase	ICDOIP_09260		JANPHL_08605
+phnX	phosphonoacetaldehyde hydrolase	ICDOIP_09785		JANPHL_09130
+group_519	hypothetical protein	ICDOIP_10110		JANPHL_09455
+group_520	Membrane protein	ICDOIP_10125		JANPHL_09470
+group_521	ATPase	ICDOIP_10365		JANPHL_09710
+Adhesin	Adhesin	ICDOIP_10370		JANPHL_09715
+group_523	DksA/TraR family C4-type zinc finger protein	ICDOIP_10375		JANPHL_09720
+group_524	Glutaredoxin	ICDOIP_11375		JANPHL_10720
+group_525	Regulator	ICDOIP_11480		JANPHL_10825
+group_526	hypothetical protein	ICDOIP_11565		JANPHL_10910
+Excisionase	Excisionase	ICDOIP_11570		JANPHL_10915
+group_528	hypothetical protein	ICDOIP_11575		JANPHL_10920
+group_529	hypothetical protein	ICDOIP_11580		JANPHL_10925
+Host-nuclease inhibitor Gam family protein	Host-nuclease inhibitor Gam family protein	ICDOIP_11585		JANPHL_10930
+group_531	Antirestriction protein	ICDOIP_11590		JANPHL_10935
+group_532	Helix-turn-helix domain-containing protein	ICDOIP_11595		JANPHL_10940
+group_533	XRE family transcriptional regulator	ICDOIP_11600		JANPHL_10945
+group_534	Phage protein	ICDOIP_11605		JANPHL_10950
+Ala-racemase-C domain-containing protein	Ala-racemase-C domain-containing protein	ICDOIP_11610		JANPHL_10955
+group_536	Helix-turn-helix domain-containing protein	ICDOIP_11615		JANPHL_10960
+group_537	Phage protein	ICDOIP_11620		JANPHL_10965
+DUF1367 domain-containing protein	DUF1367 domain-containing protein	ICDOIP_11625		JANPHL_10970
+group_539	DUF1980 domain-containing protein	ICDOIP_11630		JANPHL_10975
+Recombinase	Recombinase	ICDOIP_11635		JANPHL_10980
+Antitermination protein Q	Antitermination protein Q	ICDOIP_11640		JANPHL_10985
+group_542	Transposase	ICDOIP_11645		JANPHL_10990
+priX	PriX domain-containing protein	ICDOIP_11695		JANPHL_12410
+Inovirus Gp2 family protein	Inovirus Gp2 family protein	ICDOIP_11700		JANPHL_12405
+group_545	Lipoprotein	ICDOIP_11705		JANPHL_12400
+WYL domain-containing protein	WYL domain-containing protein	ICDOIP_11710		JANPHL_12395
+group_547	DUF2787 domain-containing protein	ICDOIP_11715		JANPHL_12390
+MPN domain-containing protein	MPN domain-containing protein	ICDOIP_11720		JANPHL_12385
+group_549	Holin	ICDOIP_11725		JANPHL_12380
+group_550	hypothetical protein	ICDOIP_12250		JANPHL_11855
+AAA domain-containing protein	AAA domain-containing protein	ICDOIP_12265		JANPHL_11840
+Helicase-C-3 domain-containing protein	Helicase-C-3 domain-containing protein	ICDOIP_12270		JANPHL_11835
+HAD-IA family hydrolase	HAD-IA family hydrolase	ICDOIP_12290		JANPHL_11815
+group_554	OmpA family protein	ICDOIP_12320		JANPHL_11785
+group_555	hypothetical protein	ICDOIP_12675		JANPHL_11430
+NAD synthetase	NAD synthetase	ICDOIP_12680		JANPHL_11425
+30S ribosomal protein S4	30S ribosomal protein S4	ICDOIP_12810		JANPHL_11295
+Flp family type IVb pilin	Flp family type IVb pilin	ICDOIP_13140		JANPHL_12485
+group_559	Arylsulfatase A or related enzyme, AlkP superfamily	ICDOIP_13325		JANPHL_12670
+group_560	AraC family transcriptional regulator	ICDOIP_13415		JANPHL_12760
+pcaH	Protocatechuate 3,4-dioxygenase beta subunit	ICDOIP_13510		JANPHL_12855
+group_562	tyrosine-type recombinase/integrase	ICDOIP_13705		JANPHL_13050
+DUF1878 domain-containing protein	DUF1878 domain-containing protein	ICDOIP_13710		JANPHL_13055
+DUF2794 domain-containing protein	DUF2794 domain-containing protein	ICDOIP_13715		JANPHL_13060
+group_565	dGTPase	ICDOIP_13720		JANPHL_13065
+group_566	Site-specific recombinase XerD	ICDOIP_13725		JANPHL_13070
+group_567	hypothetical protein	ICDOIP_13730		JANPHL_13075
+Plasmid recombination enzyme	Plasmid recombination enzyme	ICDOIP_13735		JANPHL_13080
+group_569	KfrA-N domain-containing protein	ICDOIP_13740		JANPHL_13085
+abiEi	Abortive phage infection protein AbiEi, antitoxin conponent of an AbiEi-AbiEii TA system	ICDOIP_13745		JANPHL_13090
+PHP domain-containing protein	PHP domain-containing protein	ICDOIP_13750		JANPHL_13095
+group_572	hypothetical protein	ICDOIP_13755		JANPHL_13100
+group_573	hypothetical protein	ICDOIP_13760		JANPHL_13105
+group_574	Antitoxin HipB	ICDOIP_13765		JANPHL_13110
+group_575	DNA-binding transcriptional regulator, LysR family	ICDOIP_13770		JANPHL_13115
+group_576	anaerobic sulfatase maturase	ICDOIP_13775		JANPHL_13120
+group_577	Arylsulfatase A or related enzyme, AlkP superfamily	ICDOIP_13780		JANPHL_13125
+group_578	DNA-binding transcriptional regulator, LysR family	ICDOIP_13785		JANPHL_13130
+DUF3820 domain-containing protein	DUF3820 domain-containing protein	ICDOIP_13865		JANPHL_13210
+Dimerisation2 domain-containing protein	Dimerisation2 domain-containing protein	ICDOIP_13915		JANPHL_13260
+group_581	hypothetical protein	ICDOIP_13925		JANPHL_13270
+DUF2909 domain-containing protein	DUF2909 domain-containing protein	ICDOIP_14070		JANPHL_13415
+group_583	Pilus assembly protein	ICDOIP_14800		JANPHL_14165
+group_584	Transposase	ICDOIP_14820		JANPHL_14185
+Tyrosine-type recombinase/integrase	Tyrosine-type recombinase/integrase	ICDOIP_14885		JANPHL_14250
+group_586	AlpA family phage regulatory protein	ICDOIP_14890		JANPHL_14255
+DNA helicase	DNA helicase	ICDOIP_14895		JANPHL_14260
+group_588	Restriction endonuclease subunit S	ICDOIP_14900		JANPHL_14265
+N-6 DNA methylase	N-6 DNA methylase	ICDOIP_14905		JANPHL_14270
+group_590	Transposase	ICDOIP_14910		JANPHL_14275
+site-specific DNA-methyltransferase (adenine-specific)	site-specific DNA-methyltransferase (adenine-specific)	ICDOIP_14915		JANPHL_14280
+group_592	restriction endonuclease subunit S	ICDOIP_14920		JANPHL_14285
+type I site-specific deoxyribonuclease	type I site-specific deoxyribonuclease	ICDOIP_14925		JANPHL_14290
+YgjP-like domain-containing protein	YgjP-like domain-containing protein	ICDOIP_14930		JANPHL_14295
+group_595	Site-specific DNA recombinase SpoIVCA/DNA invertase PinE	ICDOIP_14935		JANPHL_14300
+traY	Relaxosome protein TraY	ICDOIP_14940		JANPHL_14305
+Type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein	Type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein	ICDOIP_14945		JANPHL_14310
+Diguanylate cyclase	Diguanylate cyclase	ICDOIP_14950		JANPHL_14315
+group_599	Transcriptional regulator	ICDOIP_14955		JANPHL_14320
+Bacterial ubiquitin-like modifier	Bacterial ubiquitin-like modifier	ICDOIP_14960		JANPHL_14325
+Ser/Thr protein phosphatase family protein	Ser/Thr protein phosphatase family protein	ICDOIP_14965		JANPHL_14330
+group_602	AAA family ATPase	ICDOIP_14970		JANPHL_14335
+XRE family transcriptional regulator	XRE family transcriptional regulator	ICDOIP_14975		JANPHL_14340
+group_604	hypothetical protein	ICDOIP_15255		JANPHL_14620
+group_605	IS3 family transposase ORF B	ICDOIP_15335		JANPHL_14700
+SUFU domain-containing protein	SUFU domain-containing protein	ICDOIP_15345		JANPHL_14710
+group_607	LHH domain-containing protein	ICDOIP_15350		JANPHL_14715
+Tox-PAAR-like domain-containing protein	Tox-PAAR-like domain-containing protein	ICDOIP_15355		JANPHL_14720
+Baseplate assembly protein	Baseplate assembly protein	ICDOIP_15360		JANPHL_14725
+group_610	Ribonuclease	ICDOIP_15365		JANPHL_14730
+UDP-glucuronate 5'-epimerase	UDP-glucuronate 5'-epimerase	ICDOIP_15375		JANPHL_14740
+ugd	UDP-glucose 6-dehydrogenase	ICDOIP_15380		JANPHL_14745
+epsC	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	ICDOIP_15385		JANPHL_14750
+epsL	Putative sugar transferase EpsL	ICDOIP_15390		JANPHL_14755
+UDP-glucose 4-epimerase	UDP-glucose 4-epimerase	ICDOIP_15395		JANPHL_14760
+group_616	Glycosyltransferase	ICDOIP_15400		JANPHL_14765
+Thymidylate kinase	Thymidylate kinase	ICDOIP_15405		JANPHL_14770
+group_618	AAA family ATPase	ICDOIP_15410		JANPHL_14775
+Glycosyltransferase	Glycosyltransferase	ICDOIP_15415		JANPHL_14780
+Polysacc-synt-C domain-containing protein	Polysacc-synt-C domain-containing protein	ICDOIP_15420		JANPHL_14785
+Serine acetyltransferase	Serine acetyltransferase	ICDOIP_15425		JANPHL_14790
+Oligosaccharide repeat unit polymerase	Oligosaccharide repeat unit polymerase	ICDOIP_15430		JANPHL_14795
+Regulator of length of O-antigen component of lipopolysaccharide chains	Regulator of length of O-antigen component of lipopolysaccharide chains	ICDOIP_15435		JANPHL_14800
+yjbG	YjbG	ICDOIP_15460		JANPHL_14825
+lpxM	lauroyl-Kdo(2)-lipid IV(A) myristoyltransferase	ICDOIP_15475		JANPHL_14840
+Acid phosphatase	Acid phosphatase	ICDOIP_16235		JANPHL_15600
+Peptidase-S9 domain-containing protein	Peptidase-S9 domain-containing protein	ICDOIP_16285		JANPHL_16415
+Tricorn protease domain-containing protein	Tricorn protease domain-containing protein	ICDOIP_16290		JANPHL_16410
+group_629	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	ICDOIP_16295		JANPHL_16405
+Phage tail tape measure protein	Phage tail tape measure protein	ICDOIP_16415		JANPHL_16285
+UPF0020 domain-containing protein	UPF0020 domain-containing protein	ICDOIP_16420		JANPHL_16280
+group_632	hypothetical protein	ICDOIP_16430		JANPHL_16270
+Ovate family protein	Ovate family protein	ICDOIP_16435		JANPHL_16265
+group_634	ADP-ribose pyrophosphatase YjhB, NUDIX family	ICDOIP_16785		JANPHL_15915
+group_635	DNA mistmatch repair protein MutT	ICDOIP_16790		JANPHL_15910
+Helicase	Helicase	ICDOIP_16795		JANPHL_15905
+DUF3306 domain-containing protein	DUF3306 domain-containing protein	ICDOIP_16885		JANPHL_15815
+Terpene synthase	Terpene synthase	ICDOIP_16930		JANPHL_15770
+transposase	transposase	ICDOIP_17060		JANPHL_16425
+IS30 family transposase	IS30 family transposase	ICDOIP_17065		JANPHL_16430
+Serine hydrolase	Serine hydrolase	ICDOIP_17070		JANPHL_16435
+group_642	Serine hydrolase	ICDOIP_17075		JANPHL_16440
+group_643	hypothetical protein	ICDOIP_17080		JANPHL_16445
+lysE	LysE family translocator	ICDOIP_17085		JANPHL_16450
+group_645	GNAT family N-acetyltransferase	ICDOIP_17090		JANPHL_16455
+group_646	hypothetical protein	ICDOIP_17095		JANPHL_16460
+yjcC	Redox-sensing c-di-GMP phosphodiesterase, contains CSS-motif and EAL domains	ICDOIP_17170		JANPHL_16535
+Sporulation protein	Sporulation protein	ICDOIP_17175		JANPHL_16540
+vpadF	surface adhesin VpadF	ICDOIP_17180		JANPHL_16545
+group_650	hypothetical protein	ICDOIP_17185		JANPHL_16550
+group_651	Ser-tRNA(Ala) deacylase AlaX (editing enzyme)	ICDOIP_17190		JANPHL_16555
+group_652	AraC-type DNA-binding domain and AraC-containing proteins	ICDOIP_17195		JANPHL_16560
+group_653	hypothetical protein	ICDOIP_17300		JANPHL_16665
+group_654	Lipoprotein	ICDOIP_17305		JANPHL_16670
+group_655	CopG family transcriptional regulator	ICDOIP_17310		JANPHL_16675
+group_656	Phage protein	ICDOIP_17315		JANPHL_16680
+Transposon Tn3 resolvase	Transposon Tn3 resolvase	ICDOIP_17325		JANPHL_16690
+SH3 domain-containing protein	SH3 domain-containing protein	ICDOIP_17330		JANPHL_16695
+DUF2787 domain-containing protein	DUF2787 domain-containing protein	ICDOIP_17335		JANPHL_16700
+group_660	hypothetical protein	ICDOIP_17340		JANPHL_16705
+protein phosphatase 2C domain-containing protein	protein phosphatase 2C domain-containing protein	ICDOIP_17345		JANPHL_16710
+Serine/threonine protein kinase	Serine/threonine protein kinase	ICDOIP_17350		JANPHL_16715
+non-specific serine/threonine protein kinase	non-specific serine/threonine protein kinase	ICDOIP_17355		JANPHL_16720
+group_664	hypothetical protein	ICDOIP_17360		JANPHL_16725
+Similarity	Similarity	ICDOIP_17365		JANPHL_16730
+Peptidase-M16-C domain-containing protein	Peptidase-M16-C domain-containing protein	ICDOIP_17370		JANPHL_16735
+group_667	hypothetical protein	ICDOIP_17375		JANPHL_16740
+group_668	hypothetical protein	ICDOIP_17380		JANPHL_16745
+Translin family protein	Translin family protein	ICDOIP_17385		JANPHL_16750
+group_670	Chromosome partitioning protein ParB	ICDOIP_17390		JANPHL_16755
+group_671	Phage protein	ICDOIP_17395		JANPHL_16760
+HTH luxR-type domain-containing protein	HTH luxR-type domain-containing protein	ICDOIP_17400		JANPHL_16765
+Primosomal replication protein N	Primosomal replication protein N	ICDOIP_17405		JANPHL_16770
+Chromosome partition protein Smc	Chromosome partition protein Smc	ICDOIP_17410		JANPHL_16775
+vscF	type III secretion system needle filament protein VscF	ICDOIP_17675		JANPHL_17040
+Flavodoxin-like domain-containing protein	Flavodoxin-like domain-containing protein	ICDOIP_17740		JANPHL_17105
+group_677	DUF1100 domain-containing protein	ICDOIP_17745		JANPHL_17110
+group_678	DUF1100 domain-containing protein	ICDOIP_17750		JANPHL_17115
+group_679	DNA-binding transcriptional regulator, LysR family	ICDOIP_17755		JANPHL_17120
+group_680	hypothetical protein	ICDOIP_17970		JANPHL_17335
+lipase family protein	lipase family protein	ICDOIP_17975		JANPHL_18495
+group_682	DUF6795 domain-containing protein	ICDOIP_17980		JANPHL_18490
+group_683	DUF6795 domain-containing protein	ICDOIP_17985		JANPHL_18485
+DUF5062 domain-containing protein	DUF5062 domain-containing protein	ICDOIP_17990		JANPHL_18480
+HTH OST-type domain-containing protein	HTH OST-type domain-containing protein	ICDOIP_18000		JANPHL_18470
+NTPase	NTPase	ICDOIP_18005		JANPHL_18465
+group_687	hypothetical protein	ICDOIP_18165		JANPHL_18305
+group_688	MSHA biogenesis protein MshA	ICDOIP_18565		JANPHL_18595
+mshP	MSHA biogenesis protein MshP	ICDOIP_18590		JANPHL_18620
+group_690	DUF6701 domain-containing protein	ICDOIP_18595		JANPHL_18625
+group_691	hypothetical protein	ICDOIP_18870		JANPHL_18900
+group_692	PAPS-reduct domain-containing protein	ICDOIP_19240		JANPHL_19120
+ISL3 family transposase	ISL3 family transposase	ICDOIP_19245		JANPHL_19115
+group_694	Tyrosine recombinase XerC	ICDOIP_19565		JANPHL_19770
+DNA phosphorothioation-associated putative methyltransferase	DNA phosphorothioation-associated putative methyltransferase	ICDOIP_19585		JANPHL_19750
+cysteine desulfurase	cysteine desulfurase	ICDOIP_19590		JANPHL_19745
+DUF4007 domain-containing protein	DUF4007 domain-containing protein	ICDOIP_19595		JANPHL_19740
+ATP-binding protein	ATP-binding protein	ICDOIP_19600		JANPHL_19735
+PAPS-reduct domain-containing protein	PAPS-reduct domain-containing protein	ICDOIP_19605		JANPHL_19730
+DUF262 domain-containing protein	DUF262 domain-containing protein	ICDOIP_19610		JANPHL_19725
+mobI	MobI protein	ICDOIP_19615		JANPHL_19720
+EXLDI protein	EXLDI protein	ICDOIP_19620		JANPHL_19715
+DUF2263 domain-containing protein	DUF2263 domain-containing protein	ICDOIP_19625		JANPHL_19710
+group_704	helix-turn-helix domain-containing protein	ICDOIP_19630		JANPHL_19705
+pgaD	Poly-beta-1,6-N-acetyl-D-glucosamine biosynthesis protein PgaD	ICDOIP_19635		JANPHL_19700
+group_706	hypothetical protein	ICDOIP_20410		JANPHL_20575
+group_707	Type II secretion system protein	ICDOIP_20690		JANPHL_21185
+group_708	DUF4124 domain-containing protein	ICDOIP_20695		JANPHL_21180
+Serine protease	Serine protease	ICDOIP_20700		JANPHL_21175
+group_710	HTH-8 domain-containing protein	ICDOIP_20705		JANPHL_21170
+group_711	Hok/Gef family protein	ICDOIP_20715		JANPHL_21160
+group_712	Inner membrane protein	ICDOIP_20720		JANPHL_21155
+group_713	hypothetical protein	ICDOIP_20725		JANPHL_21150
+group_714	TYW3 domain-containing protein	ICDOIP_20730		JANPHL_21145
+group_715	conjugative transfer signal peptidase TraF	ICDOIP_20735		JANPHL_21140
+group_716	Conjugal transfer protein	ICDOIP_20740		JANPHL_21135
+group_717	hypothetical protein	ICDOIP_20745		JANPHL_21130
+group_718	hypothetical protein	ICDOIP_20770		JANPHL_21105
+Metal-binding protein	Metal-binding protein	ICDOIP_20780		JANPHL_21095
+group_720	Phage protein	ICDOIP_20785		JANPHL_21090
+group_721	ATPase	ICDOIP_20790		JANPHL_21085
+group_722	hypothetical protein	ICDOIP_20795		JANPHL_21080
+group_723	DNA-binding protein	ICDOIP_20800		JANPHL_21075
+group_724	MFS transporter	ICDOIP_20805		JANPHL_21070
+group_725	DUF1845 domain-containing protein	ICDOIP_20810		JANPHL_21065
+group_726	Mobilization protein	ICDOIP_20815		JANPHL_21060
+group_727	DNA topoisomerase	ICDOIP_20820		JANPHL_21055
+group_728	Integron gene cassette protein	ICDOIP_20825		JANPHL_21050
+group_729	DUF5405 domain-containing protein	ICDOIP_20830		JANPHL_21045
+TetR-C-6 domain-containing protein	TetR-C-6 domain-containing protein	ICDOIP_20835		JANPHL_21040
+DUF3303 domain-containing protein	DUF3303 domain-containing protein	ICDOIP_20840		JANPHL_21035
+group_732	Restriction endonuclease	ICDOIP_20845		JANPHL_21030
+group_733	Antirestriction protein	ICDOIP_20850		JANPHL_21025
+DUF3467 domain-containing protein	DUF3467 domain-containing protein	ICDOIP_20855		JANPHL_21020
+DUF1738 domain-containing protein	DUF1738 domain-containing protein	ICDOIP_20860		JANPHL_21015
+DUF1640 domain-containing protein	DUF1640 domain-containing protein	ICDOIP_20865		JANPHL_21010
+group_737	hypothetical protein	ICDOIP_20885		JANPHL_20990
+TIGR04255 family protein	TIGR04255 family protein	ICDOIP_20890		JANPHL_20985
+Lipocalin	Lipocalin	ICDOIP_21145		JANPHL_20730
+tyrosine-type recombinase/integrase	tyrosine-type recombinase/integrase	ICDOIP_21475		JANPHL_21515
+group_741	Small, acid-soluble spore protein N	ICDOIP_21480		JANPHL_21520
+yaaW	YaaW family protein	ICDOIP_21490		JANPHL_21530
+group_743	DNA repair protein RadC	ICDOIP_21495		JANPHL_21535
+group_744	DUF2787 domain-containing protein	ICDOIP_21500		JANPHL_21540
+PEK499-p136 domain-containing protein	PEK499-p136 domain-containing protein	ICDOIP_21505		JANPHL_21545
+group_746	DUF2787 domain-containing protein	ICDOIP_21510		JANPHL_21550
+group_747	WYL domain-containing protein	ICDOIP_21515		JANPHL_21555
+group_748	hypothetical protein	ICDOIP_21520		JANPHL_21560
+group_749	Holin	ICDOIP_21525		JANPHL_21565
+group_750	hypothetical protein	ICDOIP_21530		JANPHL_21570
+LPD25 domain-containing protein	LPD25 domain-containing protein	ICDOIP_21535		JANPHL_21575
+group_752	DUF2787 domain-containing protein	ICDOIP_21540		JANPHL_21580
+group_753	DUF2913 domain-containing protein	ICDOIP_21545		JANPHL_21585
+group_754	Transposase	ICDOIP_21550		JANPHL_21590
+sel1 repeat family protein	sel1 repeat family protein	ICDOIP_21555		JANPHL_21595
+group_756	type VI secretion system contractile sheath small subunit	ICDOIP_21560		JANPHL_21600
+group_757	type VI secretion system contractile sheath large subunit	ICDOIP_21565		JANPHL_21605
+group_758	type VI secretion system baseplate subunit TssE	ICDOIP_21570		JANPHL_21610
+group_759	type VI secretion system baseplate subunit TssF	ICDOIP_21575		JANPHL_21615
+group_760	type VI secretion system baseplate subunit TssG	ICDOIP_21580		JANPHL_21620
+tagH	type VI secretion system-associated FHA domain protein TagH	ICDOIP_21585		JANPHL_21625
+group_762	type VI secretion system lipoprotein TssJ	ICDOIP_21590		JANPHL_21630
+group_763	type VI secretion system baseplate subunit TssK	ICDOIP_21595		JANPHL_21635
+group_764	type IVB secretion system protein IcmH/DotU	ICDOIP_21600		JANPHL_21640
+group_765	type VI secretion system ATPase TssH	ICDOIP_21605		JANPHL_21645
+sigma 54-interacting transcriptional regulator	sigma 54-interacting transcriptional regulator	ICDOIP_21610		JANPHL_21650
+vasI	type VI secretion system-associated protein VasI	ICDOIP_21615		JANPHL_21655
+group_768	type VI secretion system protein TssA	ICDOIP_21620		JANPHL_21660
+group_769	type VI secretion system membrane subunit TssM	ICDOIP_21625		JANPHL_21665
+impA	type VI secretion system ImpA family N-terminal domain-containing protein	ICDOIP_21630		JANPHL_21670
+GIY-YIG nuclease family protein	GIY-YIG nuclease family protein	ICDOIP_21635		JANPHL_21675
+type VI secretion system tube protein Hcp	type VI secretion system tube protein Hcp	ICDOIP_21640		JANPHL_21680
+type VI secretion system PAAR protein	type VI secretion system PAAR protein	ICDOIP_21645		JANPHL_21685
+group_774	type VI secretion system tip protein VgrG	ICDOIP_21650		JANPHL_21690
+DUF4123 domain-containing protein	DUF4123 domain-containing protein	ICDOIP_21655		JANPHL_21695
+group_776	LysM peptidoglycan-binding domain-containing protein	ICDOIP_21660		JANPHL_21700
+tryptophanase	tryptophanase	ICDOIP_21665		JANPHL_21705
+group_778	hypothetical protein	ICDOIP_21670		JANPHL_21710
+restriction endonuclease	restriction endonuclease	ICDOIP_21675		JANPHL_21715
+type I restriction endonuclease subunit R	type I restriction endonuclease subunit R	ICDOIP_21680		JANPHL_21720
+group_781	AAA family ATPase	ICDOIP_21685		JANPHL_21725
+restriction endonuclease subunit S	restriction endonuclease subunit S	ICDOIP_21690		JANPHL_21730
+type I restriction-modification system subunit M	type I restriction-modification system subunit M	ICDOIP_21695		JANPHL_21735
+group_784	hypothetical protein	ICDOIP_21700		JANPHL_21740
+group_785	hypothetical protein	ICDOIP_21705		JANPHL_21745
+UvrD-helicase domain-containing protein	UvrD-helicase domain-containing protein	ICDOIP_21710		JANPHL_21750
+group_787	HTH-8 domain-containing protein	ICDOIP_21715		JANPHL_21755
+group_788	recombination regulator RecX	ICDOIP_21720		JANPHL_21760
+inovirus-type Gp2 protein	inovirus-type Gp2 protein	ICDOIP_21725		JANPHL_21765
+ribonuclease HI	ribonuclease HI	ICDOIP_21730		JANPHL_21770
+group_791	inovirus-type Gp2 protein	ICDOIP_21735		JANPHL_21775
+group_792	DUF3024 domain-containing protein	ICDOIP_21740		JANPHL_21780
+group_793	hypothetical protein	ICDOIP_21745		JANPHL_21785
+group_794	hypothetical protein	ICDOIP_21750		JANPHL_21790
+alpA	AlpA family phage regulatory protein	ICDOIP_21755		JANPHL_21795
+group_796	hypothetical protein	ICDOIP_21760		JANPHL_21800
+tandem-95 repeat protein	tandem-95 repeat protein	ICDOIP_21815		JANPHL_22065
+group_798	HPt (histidine-containing phosphotransfer) domain	ICDOIP_22095		JANPHL_22295
+group_799	type IV pilin MshA	ICDOIP_22105		JANPHL_22285
+group_800	hypothetical protein	ICDOIP_22320		JANPHL_22070
+group_801	hypothetical protein	ICDOIP_22600		JANPHL_22815
+DUF1456 domain-containing protein	DUF1456 domain-containing protein	ICDOIP_22605		JANPHL_22810
+group_803	hypothetical protein	ICDOIP_22610		JANPHL_22805
+group_804	YkgJ family cysteine cluster protein	ICDOIP_22615		JANPHL_22800
+group_805	GNAT family N-acetyltransferase	ICDOIP_22620		JANPHL_22795
+group_806	N-acetyltransferase domain-containing protein	ICDOIP_22625		JANPHL_22790
+group_807	Purine nucleoside phosphoramidase/Ap4A hydrolase, histidine triade (HIT) family	ICDOIP_22630		JANPHL_22785
+Msl2237 protein	Msl2237 protein	ICDOIP_22635		JANPHL_22780
+group_809	hypothetical protein	ICDOIP_22640		JANPHL_22775
+group_810	hypothetical protein	ICDOIP_22645		JANPHL_22770
+group_811	Uncharacterized membrane protein YccC	ICDOIP_22665		JANPHL_22750
+group_812	Multidrug resistance efflux pump EmrA	ICDOIP_22670		JANPHL_22745
+group_813	DUF1656 domain-containing protein	ICDOIP_22675		JANPHL_22740
+group_814	pyridoxal kinase	ICDOIP_22685		JANPHL_22730
+group_815	DNA-binding transcriptional regulator, LysR family	ICDOIP_22690		JANPHL_22725
+group_816	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	ICDOIP_22695		JANPHL_22720
+group_817	AraC-type DNA-binding domain and AraC-containing proteins	ICDOIP_23020		JANPHL_23065
+thiS	sulfur carrier protein ThiS	ICDOIP_23095		JANPHL_23140
+group_819	OMP-b-brl domain-containing protein	ICDOIP_23120		JANPHL_23345
+group_820	hypothetical protein	ICDOIP_23125		JANPHL_23340
+C1q domain-containing protein	C1q domain-containing protein	ICDOIP_23130		JANPHL_23335
+group_822	BIG2 domain-containing protein	ICDOIP_23135		JANPHL_23330
+Microbial collagenase	Microbial collagenase	ICDOIP_23140		JANPHL_23325
+TonB-dep-Rec domain-containing protein	TonB-dep-Rec domain-containing protein	ICDOIP_23145		JANPHL_23320
+Mtd-N domain-containing protein	Mtd-N domain-containing protein	ICDOIP_23150		JANPHL_23315
+BIG2 domain-containing protein	BIG2 domain-containing protein	ICDOIP_23155		JANPHL_23310
+LTD domain-containing protein	LTD domain-containing protein	ICDOIP_23160		JANPHL_23305
+group_828	hypothetical protein	ICDOIP_23165		JANPHL_23300
+group_829	Phage protein	ICDOIP_23170		JANPHL_23295
+Germane domain-containing protein	Germane domain-containing protein	ICDOIP_23175		JANPHL_23290
+Tape measure protein	Tape measure protein	ICDOIP_23180		JANPHL_23285
+DHHA2 domain-containing protein	DHHA2 domain-containing protein	ICDOIP_23185		JANPHL_23280
+group_833	FHA domain-containing protein	ICDOIP_23190		JANPHL_23275
+group_834	Phage tail protein	ICDOIP_23195		JANPHL_23270
+ACPS domain-containing protein	ACPS domain-containing protein	ICDOIP_23200		JANPHL_23265
+group_836	Phage protein	ICDOIP_23205		JANPHL_23260
+DUF2513 domain-containing protein	DUF2513 domain-containing protein	ICDOIP_23210		JANPHL_23255
+Capsid protein	Capsid protein	ICDOIP_23215		JANPHL_23250
+group_839	PAAR domain-containing protein	ICDOIP_23220		JANPHL_23245
+DUF148 domain-containing protein	DUF148 domain-containing protein	ICDOIP_23225		JANPHL_23240
+group_841	DUF3850 domain-containing protein	ICDOIP_23230		JANPHL_23235
+Phage portal protein	Phage portal protein	ICDOIP_23235		JANPHL_23230
+group_843	hypothetical protein	ICDOIP_23240		JANPHL_23225
+group_844	hypothetical protein	ICDOIP_23245		JANPHL_23220
+group_845	Lipoprotein	ICDOIP_23250		JANPHL_23215
+group_846	hypothetical protein	ICDOIP_23255		JANPHL_23210
+DUF1508 domain-containing protein	DUF1508 domain-containing protein	ICDOIP_23265		JANPHL_23200
+GAGA-binding transcriptional activator	GAGA-binding transcriptional activator	ICDOIP_23270		JANPHL_23195
+DUF4269 domain-containing protein	DUF4269 domain-containing protein	ICDOIP_23275		JANPHL_23190
+group_850	Transporter	ICDOIP_23280		JANPHL_23185
+group_851	Phage protein	ICDOIP_23285		JANPHL_23180
+fliT	Flagella biosynthesis chaperone FliT	ICDOIP_23290		JANPHL_23175
+group_853	hypothetical protein	ICDOIP_23295		JANPHL_23170
+group_854	ribonuclease R	ICDOIP_23300		JANPHL_23165
+Type II toxin-antitoxin system death-on-curing family toxin	Type II toxin-antitoxin system death-on-curing family toxin	ICDOIP_23605		JANPHL_23630
+group_856	Phage protein	ICDOIP_23610		JANPHL_23635
+group_857	ParA family protein	ICDOIP_23615		JANPHL_23640
+group_858	hypothetical protein	ICDOIP_23620		JANPHL_23645
+Recombinase domain-containing protein	Recombinase domain-containing protein	ICDOIP_23625		JANPHL_23650
+Site-specific DNA-methyltransferase (adenine-specific)	Site-specific DNA-methyltransferase (adenine-specific)	ICDOIP_23630		JANPHL_23655
+IS110 family transposase	IS110 family transposase	ICDOIP_23635		JANPHL_23660
+Gamma-glutamylcyclotransferase	Gamma-glutamylcyclotransferase	ICDOIP_23640		JANPHL_23665
+Peptidase-M78 domain-containing protein	Peptidase-M78 domain-containing protein	ICDOIP_23645		JANPHL_23670
+group_864	Resolvase	ICDOIP_23650		JANPHL_23675
+PAAR domain-containing protein	PAAR domain-containing protein	ICDOIP_23655		JANPHL_23680
+CPBP family intramembrane metalloprotease	CPBP family intramembrane metalloprotease	ICDOIP_23660		JANPHL_23685
+group_867	hypothetical protein	ICDOIP_23665		JANPHL_23690
+DNA (cytosine-5-)-methyltransferase	DNA (cytosine-5-)-methyltransferase	ICDOIP_23670		JANPHL_23695
+type II restriction endonuclease	type II restriction endonuclease	ICDOIP_23675		JANPHL_23700
+group_870	Resolvase	ICDOIP_23680		JANPHL_23705
+CRISPR associated protein Cas2	CRISPR associated protein Cas2	ICDOIP_23685		JANPHL_23710
+Small, acid-soluble spore protein N	Small, acid-soluble spore protein N	ICDOIP_23690		JANPHL_23715
+group_873	hypothetical protein	ICDOIP_23695		JANPHL_23720
+DUF2188 domain-containing protein	DUF2188 domain-containing protein	ICDOIP_23700		JANPHL_23725
+group_875	helix-turn-helix domain-containing protein	ICDOIP_23705		JANPHL_23730
+ImmA/IrrE family metallo-endopeptidase	ImmA/IrrE family metallo-endopeptidase	ICDOIP_23710		JANPHL_23735
+DUF4097 domain-containing protein	DUF4097 domain-containing protein	ICDOIP_23715		JANPHL_23740
+DUF4379 domain-containing protein	DUF4379 domain-containing protein	ICDOIP_23720		JANPHL_23745
+ANR family transcriptional regulator	ANR family transcriptional regulator	ICDOIP_23725		JANPHL_23750
+DinI-like family protein	DinI-like family protein	ICDOIP_23730		JANPHL_23755
+group_881	hypothetical protein	ICDOIP_23735		JANPHL_23760
+group_882	Type II toxin-antitoxin system RelE/ParE family toxin	ICDOIP_23740		JANPHL_23765
+group_883	DUF2913 domain-containing protein	ICDOIP_23745		JANPHL_23770
+FH2 domain-containing protein	FH2 domain-containing protein	ICDOIP_23750		JANPHL_23775
+Type I restriction endonuclease subunit M	Type I restriction endonuclease subunit M	ICDOIP_23755		JANPHL_23780
+Helix-turn-helix transcriptional regulator	Helix-turn-helix transcriptional regulator	ICDOIP_23760		JANPHL_23575
+group_887	Integrase	ICDOIP_23765		JANPHL_23580
+group_888	hypothetical protein	ICDOIP_23770		JANPHL_23585
+Spore protein	Spore protein	ICDOIP_23775		JANPHL_23590
+group_890	hypothetical protein	ICDOIP_23780		JANPHL_23595
+group_891	hypothetical protein	ICDOIP_23815		JANPHL_23915
+group_892	hypothetical protein	ICDOIP_23820		JANPHL_23910
+group_893	GNAT family N-acetyltransferase	ICDOIP_23830		JANPHL_23900
+SMI1-KNR4 domain-containing protein	SMI1-KNR4 domain-containing protein	ICDOIP_23835		JANPHL_23895
+group_895	DUF4065 domain-containing protein	ICDOIP_23840		JANPHL_23890
+group_896	Protein N-acetyltransferase, RimJ/RimL family	ICDOIP_23845		JANPHL_23885
+group_897	Lipoprotein	ICDOIP_23850		JANPHL_23880
+group_898	GNAT family N-acetyltransferase	ICDOIP_23855		JANPHL_23875
+group_899	hypothetical protein	ICDOIP_23860		JANPHL_23870
+group_9	DUF87 domain-containing protein	ICDOIP_24015		JANPHL_23920
+RING-type E3 ubiquitin transferase	RING-type E3 ubiquitin transferase	ICDOIP_23865		JANPHL_23865
+group_901	hypothetical protein	ICDOIP_23870		JANPHL_23860
+group_902	hypothetical protein	ICDOIP_23875		JANPHL_23855
+group_903	hypothetical protein	ICDOIP_23880		JANPHL_23850
+group_904	Antitoxin component YafN of the YafNO toxin-antitoxin module, PHD/YefM family	ICDOIP_23885		JANPHL_23845
+group_905	Type II toxin-antitoxin system RelE/ParE family toxin	ICDOIP_23890		JANPHL_23840
+DUF1616 domain-containing protein	DUF1616 domain-containing protein	ICDOIP_23895		JANPHL_23835
+group_907	Histidine kinase	ICDOIP_23900		JANPHL_23830
+group_908	hypothetical protein	ICDOIP_23905		JANPHL_23825
+relE	mRNA-degrading endonuclease RelE, toxin component of the RelBE toxin-antitoxin system	ICDOIP_23910		JANPHL_23820
+stbD	Antitoxin component YafN of the YafNO toxin-antitoxin module, PHD/YefM family	ICDOIP_23915		JANPHL_23815
+Four helix bundle protein	Four helix bundle protein	ICDOIP_23920		JANPHL_23810
+group_912	hypothetical protein	ICDOIP_23925		JANPHL_23805
+group_913	hypothetical protein	ICDOIP_23930		JANPHL_23800
+group_914	Orphan protein	ICDOIP_23935		JANPHL_23795
+group_915	Recombinase domain-containing protein	ICDOIP_23940		JANPHL_23790
+DHC-N1 domain-containing protein	DHC-N1 domain-containing protein	ICDOIP_23945		JANPHL_23785
+group_917	Flp pilus assembly complex ATPase component TadA	ICDOIP_23950		JANPHL_23985
+group_918	Type IV pilus biogenesis protein PilP	ICDOIP_23955		JANPHL_23980
+group_919	Fimbrial assembly protein	ICDOIP_23960		JANPHL_23975
+group_920	Type II and III secretion system protein	ICDOIP_23965		JANPHL_23970
+group_921	Type IV pilus biogenesis protein PilM	ICDOIP_23970		JANPHL_23965
+group_922	Conjugal transfer protein TrbI	ICDOIP_23975		JANPHL_23960
+group_923	Conjugal transfer protein TrbH	ICDOIP_23980		JANPHL_23955
+group_924	P-type conjugative transfer protein TrbG	ICDOIP_23985		JANPHL_23950
+group_925	Conjugal transfer protein	ICDOIP_23990		JANPHL_23945
+DUF1292 domain-containing protein	DUF1292 domain-containing protein	ICDOIP_23995		JANPHL_23940
+group_927	P-type conjugative transfer protein TrbL	ICDOIP_24000		JANPHL_23935
+group_928	P-type conjugative transfer ATPase TrbB	ICDOIP_24005		JANPHL_23930
+group_929	P-type conjugative transfer protein TrbJ	ICDOIP_24010		JANPHL_23925
+DUF4062 domain-containing protein	DUF4062 domain-containing protein	ICDOIP_24020		JANPHL_24335
+RES domain-containing protein	RES domain-containing protein	ICDOIP_24025		JANPHL_24330
+group_932	MFS transporter	ICDOIP_24030		JANPHL_24325
+HDc domain-containing protein	HDc domain-containing protein	ICDOIP_24040		JANPHL_24315
+antibiotic biosynthesis monooxygenase	antibiotic biosynthesis monooxygenase	ICDOIP_24050		JANPHL_24575
+group_935	DUF1508 domain-containing protein	ICDOIP_24055		JANPHL_24570
+DUF4231 domain-containing protein	DUF4231 domain-containing protein	ICDOIP_24060		JANPHL_24565
+ATP-grasp domain-containing protein	ATP-grasp domain-containing protein	ICDOIP_24065		JANPHL_24560
+DUF3278 domain-containing protein	DUF3278 domain-containing protein	ICDOIP_24070		JANPHL_24555
+Regulator	Regulator	ICDOIP_24125		JANPHL_24110
+rloB	RloB domain-containing protein	ICDOIP_24130		JANPHL_24115
+group_941	ATP-binding protein	ICDOIP_24135		JANPHL_24120
+group_942	hypothetical protein	ICDOIP_24140		JANPHL_24125
+zot	Zona occludens toxin, putative ATPase	ICDOIP_24145		JANPHL_24130
+group_944	DUF2523 domain-containing protein	ICDOIP_24150		JANPHL_24135
+Minor capsid protein	Minor capsid protein	ICDOIP_24155		JANPHL_24140
+group_946	Major coat protein	ICDOIP_24160		JANPHL_24145
+group_947	Phage protein	ICDOIP_24165		JANPHL_24150
+DUF3693 domain-containing protein	DUF3693 domain-containing protein	ICDOIP_24185		JANPHL_24170
+group_949	hypothetical protein	ICDOIP_24190		JANPHL_24210
+FRG domain-containing protein	FRG domain-containing protein	ICDOIP_24195		JANPHL_24205
+DNA topoisomerase (ATP-hydrolyzing)	DNA topoisomerase (ATP-hydrolyzing)	ICDOIP_24200		JANPHL_24200
+group_952	N-acetyltransferase domain-containing protein	ICDOIP_24205		JANPHL_24195
+AAA family ATPase	AAA family ATPase	ICDOIP_24210		JANPHL_24190
+group_954	Phage protein	ICDOIP_24215		JANPHL_24185
+group_955	hypothetical protein	ICDOIP_24220		JANPHL_24180
+putative DNA primase	putative DNA primase	ICDOIP_24225		JANPHL_24175
+ybjN	YbjN domain-containing protein	ICDOIP_24235		JANPHL_24220
+group_958	Lipoprotein	ICDOIP_24240		JANPHL_24225
+group_959	Site-specific DNA recombinase SpoIVCA/DNA invertase PinE	ICDOIP_24245		JANPHL_24230
+group_960	Lipoprotein	ICDOIP_24250		JANPHL_24235
+tetR	TetR family transcriptional regulator	ICDOIP_24255		JANPHL_24240
+group_962	Integrase	ICDOIP_24260		JANPHL_24245
+group_963	Integrase	ICDOIP_24265		JANPHL_24250
+group_964	Integrase	ICDOIP_24270		JANPHL_24255
+Holin-like protein	Holin-like protein	ICDOIP_24280		JANPHL_24305
+DUF4760 domain-containing protein	DUF4760 domain-containing protein	ICDOIP_24285		JANPHL_24300
+group_967	hypothetical protein	ICDOIP_24290		JANPHL_24295
+HNH endonuclease	HNH endonuclease	ICDOIP_24300		JANPHL_24285
+Phosphinothricin N-acetyltransferase	Phosphinothricin N-acetyltransferase	ICDOIP_24305		JANPHL_24280
+Phage related protein	Phage related protein	ICDOIP_24310		JANPHL_24275
+helix-turn-helix domain-containing protein	helix-turn-helix domain-containing protein	ICDOIP_24315		JANPHL_24270
+group_972	Phage protein	ICDOIP_24320		JANPHL_24265
+Phosphotransferase	Phosphotransferase	ICDOIP_24325		JANPHL_24385
+HNH-5 domain-containing protein	HNH-5 domain-containing protein	ICDOIP_24330		JANPHL_24380
+group_975	Type II secretion system protein	ICDOIP_24340		JANPHL_24370
+group_976	LprI domain-containing protein	ICDOIP_24345		JANPHL_24365
+ArAE-2-N domain-containing protein	ArAE-2-N domain-containing protein	ICDOIP_24350		JANPHL_24360
+DUF234 domain-containing protein	DUF234 domain-containing protein	ICDOIP_24355		JANPHL_24355
+DUF4823 domain-containing protein	DUF4823 domain-containing protein	ICDOIP_24360		JANPHL_24350
+Uncharacterized phage protein	Uncharacterized phage protein	ICDOIP_24365		JANPHL_24345
+DUF2185 domain-containing protein	DUF2185 domain-containing protein	ICDOIP_24370		JANPHL_24340
+group_982	Periplasmic protein TonB, links inner and outer membranes	ICDOIP_24375		JANPHL_24390
+group_983	Transmembrane protein	ICDOIP_24380		JANPHL_24395
+group_984	hypothetical protein	ICDOIP_24385		JANPHL_24400
+Streptothricin hydrolase	Streptothricin hydrolase	ICDOIP_24390		JANPHL_24405
+DUF2721 domain-containing protein	DUF2721 domain-containing protein	ICDOIP_24395		JANPHL_24410
+yopX	YopX domain-containing protein	ICDOIP_24400		JANPHL_24415
+Lipase	Lipase	ICDOIP_24405		JANPHL_24420
+ABC transmembrane type-1 domain-containing protein	ABC transmembrane type-1 domain-containing protein	ICDOIP_24410		JANPHL_24425
+3-phosphoglycerate dehydrogenase	3-phosphoglycerate dehydrogenase	ICDOIP_24415		JANPHL_24430
+P63C domain-containing protein	P63C domain-containing protein	ICDOIP_24420		JANPHL_24435
+DUF3955 domain-containing protein	DUF3955 domain-containing protein	ICDOIP_24425		JANPHL_24440
+group_993	hypothetical protein	ICDOIP_24430		JANPHL_24445
+HU family DNA-binding protein	HU family DNA-binding protein	ICDOIP_24435		JANPHL_24450
+DUF1206 domain-containing protein	DUF1206 domain-containing protein	ICDOIP_24440		JANPHL_24455
+group_996	DUF4145 domain-containing protein	ICDOIP_24445		JANPHL_24460
+DUF5668 domain-containing protein	DUF5668 domain-containing protein	ICDOIP_24450		JANPHL_24465
+Glyoxalase/bleomycin resistance/extradiol dioxygenase family protein	Glyoxalase/bleomycin resistance/extradiol dioxygenase family protein	ICDOIP_24455		JANPHL_24470
+Amino acid permease	Amino acid permease	ICDOIP_24460		JANPHL_24475

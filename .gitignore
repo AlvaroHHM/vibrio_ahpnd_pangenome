@@ -1,0 +1,64 @@
+# Genomas y anotaciones (están en NCBI)
+*.fna
+*.fa
+*.faa
+*.ffn
+*.gff
+*.gff3
+*.gbk
+*.gbff
+
+# Alineamientos (regenerables)
+*.aln
+*.phy
+core_alignment.fasta
+pangenome_alignment.fasta
+*.filtered_polymorphic_sites.fasta
+
+# PIRATE (regenerable)
+feature_sequences/
+pangenome_iterations/
+*.temp/
+*.log
+pangenome.gfa
+pangenome.edges
+pangenome.connected_blocks.tsv
+pangenome.syntenic_blocks.tsv
+pangenome.order.tsv
+PIRATE.log
+pangenome.reversed.tsv
+
+# BLAST DBs
+*.pdb
+*.phr
+*.pin
+*.psq
+*.pjs
+*.pot
+*.ptf
+*.pto
+DB/
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+*~
+
+# Excepciones: SÍ queremos estos
+!input_data/pirate/PIRATE.gene_families.ordered.tsv
+!input_data/pirAB_references/*.faa
+!outputs/**/*.pdf
+!outputs/**/*.png
+!outputs/**/*.svg

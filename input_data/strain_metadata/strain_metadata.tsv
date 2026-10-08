@@ -1,0 +1,20 @@
+strain	AHPND	host	origin	year	total_genes	reference	accession
+15_CESAIBC	Yes	L. vannamei	Mexico	2018	4647	This study	PRJNA1499939; SAMN61897767; JCBNTU000000000
+R13	No	L. vannamei	Pacific Ocean	2016	4726	The University of Arizona (2018)	GCA_003119375.1
+CGVP22	Yes	L. vannamei (post-larvae)	South Korea	2015	4836	Gunasekara et al. (2026)	PRJNA631449
+L2171	Yes	L. vannamei (hatchery tanks)	Ecuador: Santa Elena	2021	4986	ESPOL (2024)	PRJNA1195888
+L2181	Yes (likely)	L. vannamei (hatchery tanks)	Ecuador: Santa Elena	2021	4720	ESPOL (2024)	PRJNA1195907
+T13P	Yes	L. vannamei	Mexico (CIBNOR)	2024	5003	NCBI	GCF_032970425.1
+11_VM	No	L. vannamei	Mexico	2018	4758	This study	PRJNA1499920; SAMN61896695; JCBNAQ000000000
+6_VM	No	L. vannamei	Mexico	2018	4760	This study	PRJNA1499907; SAMN61896394; JCBNPX000000000
+FORC_023	No	H. sapiens (patient)	South Korea: Pusan	2014	4394	Kim et al. (2018)	PRJNA284329
+NT9	No	Shrimp pond water	Vietnam	2023	4835	Ngo et al. (2026)	JBTORD000000000
+vp18	No	Shrimp pond water	Vietnam	2023	4856	Ngo et al. (2026)	JBWWOB000000000
+FORC_022	No	Crab marinated in soy sauce	South Korea	-	4690	Kim et al. (2016)	PRJNA301198
+GXBH_23JK21	No	Diseased shrimp	China	2026	4787	Wang T. (2026)	JBTWEA00000000.1
+13028_A3	Yes	L. vannamei (stomach)	Vietnam	2013	4658	Tang et al. (2014)	JOKE000000000
+CGVP3	Yes	P. monodon (hepatopancreas)	South Korea: Shinan	2015	4736	Gunasekara et al. (2020)	PRJNA631568
+CGVP8	Yes	P. monodon (hepatopancreas)	South Korea: Shinan	2015	4729	Gunasekara et al. (2020)	PRJNA631568
+ASM19609v1	No	Human (gastroenteritis)	Japan	2004	4495	University of Maryland (2018)	GCA_000196095.1
+AG1	No	P. vannamei (hatchery water)	Indonesia	2024	4939	The University of Arizona (2025)	GCA_048914355.1
+vp_HL_202005	No	Shrimp farm water	China: Fujian	2020	5218	Third Institute of Oceanography (2022)	GCA_026970915.1

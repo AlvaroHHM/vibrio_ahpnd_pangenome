@@ -1,0 +1,16 @@
+gene_family	present_AHPND_pos	absent_AHPND_pos	present_AHPND_neg	absent_AHPND_neg	odds_ratio	p_value	FDR	PIRATE_product	Description	Preferred_name	COG_category	PFAMs
+g05909	8	0	0	10	Inf	2.28529640294346e-05	0.0145588616176851	hypothetical protein	NA	NA	NA	NA
+g05919	8	0	0	10	Inf	2.28529640294346e-05	0.0145588616176851	PirB	delta endotoxin, N-terminal domain	-	S	Endotoxin_N
+g06476	8	0	0	10	Inf	2.28529640294346e-05	0.0145588616176851	tyrosine--tRNA ligase	NA	NA	NA	NA
+g06523	8	0	0	10	Inf	2.28529640294346e-05	0.0145588616176851	hypothetical protein	N-6 DNA Methylase	-	L	N6_Mtase
+g06662	8	0	0	10	Inf	2.28529640294346e-05	0.0145588616176851	hypothetical protein	NA	NA	NA	NA
+g07221	8	0	0	10	Inf	2.28529640294346e-05	0.0145588616176851	hypothetical protein	NA	NA	NA	NA
+g07515	8	0	0	10	Inf	2.28529640294346e-05	0.0145588616176851	alpha-helical coiled coil protein	nuclear chromosome segregation	-	D	-
+g07679	8	0	0	10	Inf	2.28529640294346e-05	0.0145588616176851	PirA	-	-	-	-
+g07720	8	0	0	10	Inf	2.28529640294346e-05	0.0145588616176851	hypothetical protein	NA	NA	NA	NA
+g07762	8	0	0	10	Inf	2.28529640294346e-05	0.0145588616176851	cold-shock protein	Cold shock	-	K	CSD,DUF3825,TPR_19
+g08047	8	0	0	10	Inf	2.28529640294346e-05	0.0145588616176851	ABC-three component system middle component 1	-	-	-	-
+g08513	8	0	0	10	Inf	2.28529640294346e-05	0.0145588616176851	phosphatidylinositol kinase	-	coiA	-	CoiA
+g09055	8	0	0	10	Inf	2.28529640294346e-05	0.0145588616176851	chromosome partitioning protein ParA	VirC1 protein	-	D	AAA_31
+g09134	8	0	0	10	Inf	2.28529640294346e-05	0.0145588616176851	ABC-three component system protein	-	-	-	-
+g09492	8	0	0	10	Inf	2.28529640294346e-05	0.0145588616176851	recombinase RecF	AAA domain	-	L	AAA_23

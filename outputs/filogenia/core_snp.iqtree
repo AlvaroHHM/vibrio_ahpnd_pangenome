@@ -1,0 +1,212 @@
+IQ-TREE 3.1.3 built Jul 26 2026
+
+Input file name: gubbins_out.filtered_polymorphic_sites.fasta
+Type of analysis: tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 452133
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Piyumal Demotte, Hector Banos,
+Andrew J. Roger, Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman,
+Matthew W. Hahn, Mario dos Reis, Le Sy Vinh, Gavin Huttley, Robert Lanfear, Bui Quang Minh (2026)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Molecular Biology and Evolution, msag117.
+https://doi.org/10.1093/molbev/msag117
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+NOTE: Alignment sequence type is auto-detected. If in doubt, specify it via -st option.
+Input data: 19 sequences with 147985 nucleotide sites
+Number of constant sites: 0 (= 0% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 0 (= 0% of all sites)
+Number of parsimony informative sites: 103131
+Number of distinct site patterns: 30106
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+I+G4
+
+Rate parameter R:
+
+  A-C: 0.9195
+  A-G: 5.5232
+  A-T: 1.3615
+  C-G: 0.1619
+  C-T: 5.2162
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.2108
+  pi(C) = 0.3042
+  pi(G) = 0.2483
+  pi(T) = 0.2366
+
+Rate matrix Q:
+
+  A    -1.144    0.1621    0.7951    0.1868
+  C    0.1124   -0.8512   0.02331    0.7155
+  G     0.675   0.02855   -0.8408    0.1372
+  T    0.1664    0.9198     0.144     -1.23
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0
+Gamma shape alpha: 15.72
+
+ Category  Relative_rate  Proportion
+  1         0.7001         0.25
+  2         0.901          0.25
+  3         1.063          0.25
+  4         1.336          0.25
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -1253138.4025 (s.e. 1396.9549)
+Unconstrained log-likelihood (without tree): -1201209.9122
+Number of free parameters (#branches + #model parameters): 45
+Akaike information criterion (AIC) score: 2506366.8049
+Corrected Akaike information criterion (AICc) score: 2506366.8329
+Bayesian information criterion (BIC) score: 2506812.5239
+
+Total tree length (sum of branch lengths): 2.5262
+Sum of internal branch lengths: 0.7330 (29.0160% of tree length)
+
+WARNING: 1 near-zero internal branches (<0.0000) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon '11_VM' is drawn at root
+Numbers in parentheses are SH-aLRT support (%) / ultrafast bootstrap support (%)
+
++--11_VM
+|
+|                                                                +**13028_A3
+|                                        +-----------------------| (100/100)
+|                                        |                       |  +**CGVP3
+|                                        |                       +**| (0/45)
+|                                        |                          +**CGVP8
+|                                     +--| (100/97)
+|                                     |  |                      +--L2171
+|                                     |  +----------------------| (100/100)
+|                                     |                         +--L2181
+|                                  +--| (56.5/75)
+|                                  |  |     +-----------------------15_CESAIBC
+|                                  |  |  +--| (60.4/70)
+|                                  |  |  |  +-----------------------R13
+|                                  |  +--| (100/99)
+|                                  |     |                         +**NT9
+|                                  |     +-------------------------| (100/100)
+|                                  |                               +**vp18
+|                               +--| (54.7/33)
+|                               |  |  +-----------------------ASM19609v1
+|                               |  +--| (100/56)
+|                               |     +-----------------------GXBH_23JK21
+|                            +--| (42.2/28)
+|                            |  |                          +--AG1
+|                            |  |  +-----------------------| (100/100)
+|                            |  |  |                       +--vp_HL_202005
+|                            |  +--| (100/89)
+|                            |     +-----------------------FORC_022
+|                         +--| (81.5/50)
+|                         |  +-------------------------CGVP22
+|  +----------------------| (100/100)
+|  |                      +------------------------FORC_023
++--| (99.9/100)
+|  +--T13P
+|
++--6_VM
+
+Tree in newick format:
+
+(11_VM:0.0000279743,((((((((13028_A3:0.0000006757,(CGVP3:0.0000006757,CGVP8:0.0000006757)0/45:0.0000006757)100/100:0.1947531950,(L2171:0.0001486948,L2181:0.0000366187)100/100:0.1891327697)100/97:0.0236213069,((15_CESAIBC:0.1942214268,R13:0.1967198003)60.4/70:0.0228807614,(NT9:0.0000006757,vp18:0.0000006757)100/100:0.2107505139)100/99:0.0150287086)56.5/75:0.0101564628,(ASM19609v1:0.1934111218,GXBH_23JK21:0.1961538114)100/56:0.0246494238)54.7/33:0.0102321088,((AG1:0.0003054676,vp_HL_202005:0.0001634232)100/100:0.1933734278,FORC_022:0.1943199978)100/89:0.0251342310)42.2/28:0.0103190732,CGVP22:0.2130006374)81.5/50:0.0197572925,FORC_023:0.1989691817)100/100:0.1884828269,T13P:0.0001696188)99.9/100:0.0002228686,6_VM:0.0000135631);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -1253139.10428137
+Robinson-Foulds distance between ML tree and consensus tree: 0
+
+Branches with support >0.00000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--11_VM
+|
+|                                                                +**13028_A3
+|                                        +-----------------------| (100)
+|                                        |                       |  +**CGVP3
+|                                        |                       +**| (45)
+|                                        |                          +**CGVP8
+|                                     +--| (97)
+|                                     |  |                      +--L2171
+|                                     |  +----------------------| (100)
+|                                     |                         +--L2181
+|                                  +--| (75)
+|                                  |  |     +-----------------------15_CESAIBC
+|                                  |  |  +--| (70)
+|                                  |  |  |  +-----------------------R13
+|                                  |  +--| (99)
+|                                  |     |                         +**NT9
+|                                  |     +-------------------------| (100)
+|                                  |                               +**vp18
+|                               +--| (33)
+|                               |  |  +-----------------------ASM19609v1
+|                               |  +--| (56)
+|                               |     +-----------------------GXBH_23JK21
+|                            +--| (28)
+|                            |  |                          +--AG1
+|                            |  |  +-----------------------| (100)
+|                            |  |  |                       +--vp_HL_202005
+|                            |  +--| (89)
+|                            |     +-----------------------FORC_022
+|                         +--| (50)
+|                         |  +-------------------------CGVP22
+|  +----------------------| (100)
+|  |                      +------------------------FORC_023
++--| (100)
+|  +--T13P
+|
++--6_VM
+
+
+Consensus tree in newick format: 
+
+(11_VM:0.0000279274,((((((((13028_A3:0.0000014360,(CGVP3:0.0000014360,CGVP8:0.0000014360)45:0.0000018084)100:0.1947522811,(L2171:0.0001488658,L2181:0.0000362123)100:0.1891319510)97:0.0236211879,((15_CESAIBC:0.1942204249,R13:0.1967182514)70:0.0228830713,(NT9:0.0000014360,vp18:0.0000014360)100:0.2107494214)99:0.0150300697)75:0.0101562727,(ASM19609v1:0.1934097824,GXBH_23JK21:0.1961525091)56:0.0246518317)33:0.0102328468,((AG1:0.0003053985,vp_HL_202005:0.0001635723)100:0.1933728154,FORC_022:0.1943195219)89:0.0251364437)28:0.0103202854,CGVP22:0.2130006036)50:0.0197592850,FORC_023:0.1989687898)100:0.1884819596,T13P:0.0001690780)100:0.0002232776,6_VM:0.0000135150);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t iqtree_out/core_snp.treefile -m "GTR{0.91954,5.52321,1.36149,0.161931,5.21616}+F{0.21084,0.304192,0.248333,0.236635}+I{0}+G4{15.7174}" --length 147985
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s gubbins_out.filtered_polymorphic_sites.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s gubbins_out.filtered_polymorphic_sites.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Wed Aug 26 15:41:48 2026
+Total CPU time used: 1266.80598 seconds (0h:21m:6s)
+Total wall-clock time used: 431.0510218 seconds (0h:7m:11s)
+

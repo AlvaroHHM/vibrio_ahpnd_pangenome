@@ -1,0 +1,15 @@
+gene	annotation	Set	11_VM	15_CESAIBC	6_VM
+group_1169	Multidrug resistance efflux pump EmrA	Exclusive_15	0	1	0
+group_1184	Restriction endonuclease subunit S	Exclusive_15	0	1	0
+group_1185	site-specific DNA-methyltransferase (adenine-specific)	Exclusive_15	0	1	0
+group_1294	HNH endonuclease	Exclusive_15	0	1	0
+group_1295	hypothetical protein	Exclusive_15	0	1	0
+group_1322	restriction endonuclease subunit S	Exclusive_15	0	1	0
+group_1325	HNH endonuclease	Exclusive_15	0	1	0
+hlyD	HlyD family secretion protein	Exclusive_15	0	1	0
+group_1357	Restriction endonuclease subunit S	Exclusive_15	0	1	0
+group_1358	type I restriction-modification system subunit M	Exclusive_15	0	1	0
+group_1472	Endonuclease	Exclusive_15	0	1	0
+group_588	Restriction endonuclease subunit S	Absent_15	1	0	1
+group_781	AAA family ATPase	Absent_15	1	0	1
+group_812	Multidrug resistance efflux pump EmrA	Absent_15	1	0	1

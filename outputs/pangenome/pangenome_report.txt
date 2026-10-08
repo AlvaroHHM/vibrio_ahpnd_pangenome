@@ -1,0 +1,40 @@
+PANGENOME ANALYSIS REPORT
+=========================
+
+Number of genomes analyzed: 19
+Total gene families (pangenome size): 9556
+Core genome size (≥99% strains): 3851
+Soft-core genome size (95-99%): 0
+Shell genome size (15-95%): 1801
+Cloud genome size (<15%): 3904
+
+Interpretation:
+- The pangenome accumulation curve is approaching a plateau, suggesting a closed pangenome.
+- The core genome comprises 3851 genes (40.3% of the total).
+- The accessory genome (shell + cloud) comprises 5705 genes (59.7%).
+
+Per-genome statistics:
+  FORC_022: 4689 genes
+  GXBH_23JK21: 4788 genes
+  13028_A3: 4658 genes
+  CGVP3: 4736 genes
+  CGVP8: 4729 genes
+  FORC_023: 4393 genes
+  NT9: 4834 genes
+  vp18: 4855 genes
+  ASM19609v1: 4491 genes
+  AG1: 4938 genes
+  vp_HL_202005: 5217 genes
+  T13P: 4928 genes
+  11_VM: 4756 genes
+  6_VM: 4758 genes
+  15_CESAIBC: 4647 genes
+  R13: 4725 genes
+  CGVP22: 4835 genes
+  L2171: 4984 genes
+  L2181: 4720 genes
+
+Recommendations:
+- Consider adding more genomes to better characterise the pangenome openness.
+- Investigate the functional annotation of shell and cloud genes; many may be associated with mobile genetic elements.
+- If you have phenotypic data, perform a pan-GWAS to link specific genes to traits.
