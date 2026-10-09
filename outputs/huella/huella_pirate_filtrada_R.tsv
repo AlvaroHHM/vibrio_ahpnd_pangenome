@@ -1,51 +1,51 @@
 	11_VM	15_CESAIBC	6_VM	CGVP22	L2181	13028_A3	CGVP3	CGVP8	FORC_022	FORC_023	L2171	AG1	ASM19609v1	GXBH_23JK21	NT9	R13	vp18	vp_HL_202005	T13P	Set	annotation	score
-group_1485|IDEAL domain-containing protein	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	0	0	0	1	Exclusive_15		100
-group_1486|Lipoprotein	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	0	0	0	1	Exclusive_15		100
-group_1487|Secreted protein	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	0	0	0	1	Exclusive_15		100
-pirA|PirA	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	0	0	0	1	Exclusive_15		100
-group_1401|Site-specific DNA-methyltransferase (adenine-specific)	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15		90.9090909090909
-group_1444|Chromosome partitioning protein ParA	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15		90.9090909090909
-group_1445|CopG family transcriptional regulator	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15		90.9090909090909
-Alpha-helical coiled coil protein|Alpha-helical coiled coil protein	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15		90.9090909090909
-Cold-shock protein|Cold-shock protein	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15		90.9090909090909
-group_1448|Phosphatidylinositol kinase	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15		90.9090909090909
-group_1449|Recombinase RecF	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15		90.9090909090909
-Type II restriction endonuclease|Type II restriction endonuclease	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15		90.9090909090909
-CTD1 domain-containing protein|CTD1 domain-containing protein	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15		90.9090909090909
-pirB|PirB	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15		90.9090909090909
-DDE-Tnp-1-7 domain-containing protein|DDE-Tnp-1-7 domain-containing protein	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15		90.9090909090909
-group_1399|MSHA biogenesis protein MshP	0	1	0	1	1	1	1	1	0	0	1	0	0	1	0	1	0	0	1	Exclusive_15		81.8181818181818
-group_1400|Type IV pilin	0	1	0	1	1	1	1	1	1	0	1	0	0	1	0	1	0	0	1	Exclusive_15		72.7272727272727
-traY|Relaxosome protein TraY	1	0	1	0	0	0	0	0	1	0	0	0	1	1	1	1	1	0	0	Absent_15		-72.7272727272727
-group_542|Transposase	1	0	1	0	0	0	0	0	1	0	0	1	1	0	1	0	1	1	1	Absent_15		-60.2272727272727
-group_851|Phage protein	1	0	1	0	0	0	0	0	1	0	0	1	1	0	1	0	1	1	1	Absent_15		-60.2272727272727
-fliT|Flagella biosynthesis chaperone FliT	1	0	1	0	0	0	0	0	1	0	0	1	1	0	1	0	1	1	1	Absent_15		-60.2272727272727
-group_854|ribonuclease R	1	0	1	0	0	0	0	0	1	0	0	1	1	0	1	0	1	1	1	Absent_15		-60.2272727272727
-priX|PriX domain-containing protein	1	0	1	0	0	0	0	0	0	0	0	1	0	1	1	0	1	1	1	Absent_15		-51.1363636363636
-Type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein|Type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein	1	0	1	0	0	0	0	0	1	0	0	0	0	1	1	1	1	0	1	Absent_15		-51.1363636363636
-group_904|Antitoxin component YafN of the YafNO toxin-antitoxin module, PHD/YefM family	1	0	1	0	0	0	0	0	0	0	0	1	0	1	1	0	1	1	1	Absent_15		-51.1363636363636
-group_905|Type II toxin-antitoxin system RelE/ParE family toxin	1	0	1	0	0	0	0	0	0	0	0	1	0	1	1	0	1	1	1	Absent_15		-51.1363636363636
-Helix-turn-helix domain protein|Helix-turn-helix domain protein	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	Exclusive_15		50
-group_1206|AAA family ATPase	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	Exclusive_15		50
-group_1207|hypothetical protein	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	Exclusive_15		50
-group_1208|hypothetical protein	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	Exclusive_15		50
-Vpf380|Vpf380	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	Exclusive_15		50
-Minor coat protein|Minor coat protein	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	Exclusive_15		50
-group_1257|Minor capsid protein	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	Exclusive_15		50
-Phage coat protein|Phage coat protein	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	Exclusive_15		50
-group_1259|Single-stranded DNA-binding protein	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	Exclusive_15		50
-group_1398|hypothetical protein	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	Exclusive_15		50
-group_586|AlpA family phage regulatory protein	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	Absent_15		-45.4545454545455
-group_595|Site-specific DNA recombinase SpoIVCA/DNA invertase PinE	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	Absent_15		-45.4545454545455
-Ser/Thr protein phosphatase family protein|Ser/Thr protein phosphatase family protein	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	Absent_15		-45.4545454545455
-XRE family transcriptional regulator|XRE family transcriptional regulator	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	Absent_15		-45.4545454545455
-TackOD1 domain-containing protein|TackOD1 domain-containing protein	0	1	0	1	1	1	1	1	0	0	1	1	1	1	0	1	0	1	0	Exclusive_15		42.0454545454545
-group_1168|Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	0	1	0	1	1	1	1	1	0	0	1	1	1	1	0	1	0	1	0	Exclusive_15		42.0454545454545
-group_1169|Multidrug resistance efflux pump EmrA	0	1	0	1	1	1	1	1	0	0	1	1	1	1	0	1	0	1	0	Exclusive_15		42.0454545454545
-group_1453|N-acetyltransferase domain-containing protein	0	1	0	1	1	1	1	1	0	0	1	1	1	0	1	0	1	1	0	Exclusive_15		42.0454545454545
-group_446|NTP pyrophosphatase, house-cleaning of non-canonical NTPs	0	1	0	1	1	1	1	1	0	1	1	0	1	1	1	0	1	0	0	Exclusive_15		42.0454545454545
-group_447|NTP pyrophosphatase, house-cleaning of non-canonical NTPs	0	1	0	1	1	1	1	1	0	1	1	0	1	1	1	0	1	0	0	Exclusive_15		42.0454545454545
-Glycoside hydrolase family 92 protein|Glycoside hydrolase family 92 protein	0	1	0	0	0	0	0	0	0	0	0	1	0	1	1	1	1	1	0	Exclusive_15		-42.0454545454545
-group_1160|Alpha-mannosidase	0	1	0	0	0	0	0	0	0	0	0	1	0	1	1	1	1	1	0	Exclusive_15		-42.0454545454545
-Alpha-1,2-mannosidase|Alpha-1,2-mannosidase	0	1	0	0	0	0	0	0	0	0	0	1	0	1	1	1	1	1	0	Exclusive_15		-42.0454545454545
-group_1162|Alpha-mannosidase	0	1	0	0	0	0	0	0	0	0	0	1	0	1	1	1	1	1	0	Exclusive_15		-42.0454545454545
+group_1485	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	0	0	0	1	Exclusive_15	group_1485|IDEAL domain-containing protein	100
+group_1486	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	0	0	0	1	Exclusive_15	group_1486|Lipoprotein	100
+group_1487	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	0	0	0	1	Exclusive_15	group_1487|Secreted protein	100
+pirA	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	0	0	0	1	Exclusive_15	pirA|PirA	100
+Type	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15	Type II restriction endonuclease|Type II restriction endonuclease	90.9090909090909
+group_1401	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15	group_1401|Site-specific DNA-methyltransferase (adenine-specific)	90.9090909090909
+group_1444	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15	group_1444|Chromosome partitioning protein ParA	90.9090909090909
+group_1445	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15	group_1445|CopG family transcriptional regulator	90.9090909090909
+Alpha-helical	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15	Alpha-helical coiled coil protein|Alpha-helical coiled coil protein	90.9090909090909
+Cold-shock	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15	Cold-shock protein|Cold-shock protein	90.9090909090909
+group_1448	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15	group_1448|Phosphatidylinositol kinase	90.9090909090909
+group_1449	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15	group_1449|Recombinase RecF	90.9090909090909
+CTD1	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15	CTD1 domain-containing protein|CTD1 domain-containing protein	90.9090909090909
+pirB	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15	pirB|PirB	90.9090909090909
+DDE-Tnp-1-7	0	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	0	0	1	Exclusive_15	DDE-Tnp-1-7 domain-containing protein|DDE-Tnp-1-7 domain-containing protein	90.9090909090909
+group_1399	0	1	0	1	1	1	1	1	0	0	1	0	0	1	0	1	0	0	1	Exclusive_15	group_1399|MSHA biogenesis protein MshP	81.8181818181818
+group_1400	0	1	0	1	1	1	1	1	1	0	1	0	0	1	0	1	0	0	1	Exclusive_15	group_1400|Type IV pilin	72.7272727272727
+traY	1	0	1	0	0	0	0	0	1	0	0	0	1	1	1	1	1	0	0	Absent_15	traY|Relaxosome protein TraY	-72.7272727272727
+group_542	1	0	1	0	0	0	0	0	1	0	0	1	1	0	1	0	1	1	1	Absent_15	group_542|Transposase	-60.2272727272727
+group_851	1	0	1	0	0	0	0	0	1	0	0	1	1	0	1	0	1	1	1	Absent_15	group_851|Phage protein	-60.2272727272727
+fliT	1	0	1	0	0	0	0	0	1	0	0	1	1	0	1	0	1	1	1	Absent_15	fliT|Flagella biosynthesis chaperone FliT	-60.2272727272727
+group_854	1	0	1	0	0	0	0	0	1	0	0	1	1	0	1	0	1	1	1	Absent_15	group_854|ribonuclease R	-60.2272727272727
+priX	1	0	1	0	0	0	0	0	0	0	0	1	0	1	1	0	1	1	1	Absent_15	priX|PriX domain-containing protein	-51.1363636363636
+group_904	1	0	1	0	0	0	0	0	0	0	0	1	0	1	1	0	1	1	1	Absent_15	group_904|Antitoxin component YafN of the YafNO toxin-antitoxin module, PHD/YefM family	-51.1363636363636
+group_905	1	0	1	0	0	0	0	0	0	0	0	1	0	1	1	0	1	1	1	Absent_15	group_905|Type II toxin-antitoxin system RelE/ParE family toxin	-51.1363636363636
+Helix-turn-helix	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	Exclusive_15	Helix-turn-helix domain protein|Helix-turn-helix domain protein	50
+group_1206	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	Exclusive_15	group_1206|AAA family ATPase	50
+group_1207	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	Exclusive_15	group_1207|hypothetical protein	50
+group_1208	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	Exclusive_15	group_1208|hypothetical protein	50
+Vpf380	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	Exclusive_15	Vpf380|Vpf380	50
+Minor	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	Exclusive_15	Minor coat protein|Minor coat protein	50
+group_1257	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	Exclusive_15	group_1257|Minor capsid protein	50
+Phage	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	Exclusive_15	Phage coat protein|Phage coat protein	50
+group_1259	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	Exclusive_15	group_1259|Single-stranded DNA-binding protein	50
+group_1398	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	Exclusive_15	group_1398|hypothetical protein	50
+group_586	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	Absent_15	group_586|AlpA family phage regulatory protein	-45.4545454545455
+group_595	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	Absent_15	group_595|Site-specific DNA recombinase SpoIVCA/DNA invertase PinE	-45.4545454545455
+Ser/Thr	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	Absent_15	Ser/Thr protein phosphatase family protein|Ser/Thr protein phosphatase family protein	-45.4545454545455
+XRE	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	Absent_15	XRE family transcriptional regulator|XRE family transcriptional regulator	-45.4545454545455
+TackOD1	0	1	0	1	1	1	1	1	0	0	1	1	1	1	0	1	0	1	0	Exclusive_15	TackOD1 domain-containing protein|TackOD1 domain-containing protein	42.0454545454545
+group_1168	0	1	0	1	1	1	1	1	0	0	1	1	1	1	0	1	0	1	0	Exclusive_15	group_1168|Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	42.0454545454545
+group_1169	0	1	0	1	1	1	1	1	0	0	1	1	1	1	0	1	0	1	0	Exclusive_15	group_1169|Multidrug resistance efflux pump EmrA	42.0454545454545
+group_1453	0	1	0	1	1	1	1	1	0	0	1	1	1	0	1	0	1	1	0	Exclusive_15	group_1453|N-acetyltransferase domain-containing protein	42.0454545454545
+group_446	0	1	0	1	1	1	1	1	0	1	1	0	1	1	1	0	1	0	0	Exclusive_15	group_446|NTP pyrophosphatase, house-cleaning of non-canonical NTPs	42.0454545454545
+group_447	0	1	0	1	1	1	1	1	0	1	1	0	1	1	1	0	1	0	0	Exclusive_15	group_447|NTP pyrophosphatase, house-cleaning of non-canonical NTPs	42.0454545454545
+Glycoside	0	1	0	0	0	0	0	0	0	0	0	1	0	1	1	1	1	1	0	Exclusive_15	Glycoside hydrolase family 92 protein|Glycoside hydrolase family 92 protein	-42.0454545454545
+group_1160	0	1	0	0	0	0	0	0	0	0	0	1	0	1	1	1	1	1	0	Exclusive_15	group_1160|Alpha-mannosidase	-42.0454545454545
+Alpha-1,2-mannosidase	0	1	0	0	0	0	0	0	0	0	0	1	0	1	1	1	1	1	0	Exclusive_15	Alpha-1,2-mannosidase|Alpha-1,2-mannosidase	-42.0454545454545
+group_1162	0	1	0	0	0	0	0	0	0	0	0	1	0	1	1	1	1	1	0	Exclusive_15	group_1162|Alpha-mannosidase	-42.0454545454545
+Alpha-mannosidase	0	1	0	0	0	0	0	0	0	0	0	1	0	1	1	1	1	1	0	Exclusive_15	Alpha-mannosidase|Alpha-mannosidase	-42.0454545454545

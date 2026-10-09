@@ -81,3 +81,10 @@ input_data/pangenome/roary_3mexicanas/*.fna
 input_data/pangenome/roary_3mexicanas/*.png
 input_data/pangenome/roary_3mexicanas/*.svg
 input_data/pangenome/roary_3mexicanas/temp_blast/
+
+# PIRATE BLAST intermediates (large, regenerable)
+outputs/huella/pirate_families.faa
+outputs/huella/pirate_fam_db.*
+
+# Exceptions: keep Roary probe sequences (needed for Figure S4)
+!input_data/pangenome/*.faa
