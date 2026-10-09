@@ -1,4 +1,4 @@
-# Vibrio parahaemolyticus AHPND pangenome
+# *Vibrio parahaemolyticus* AHPND pangenome
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23225902.svg)](https://doi.org/10.5281/zenodo.23225902)
 
@@ -6,16 +6,30 @@ Reproducible analysis code and key data for:
 
 **"Comparative genomics and experimental virulence of Mexican *Vibrio parahaemolyticus* isolates identify candidate gene-content differences associated with AHPND"**
 
-Hernández-Montiel ÁH, Mata-Torres F, Millán-Aguiñaga N, Torres-Beltrán M, Giffard-Mena I.
+Á. H. Hernández-Montiel¹\*, F. Mata-Torres¹, N. Millán-Aguiñaga², M. Torres-Beltrán²,³, I. Rocha-Mendoza¹, and I. Giffard-Mena¹\*
+
+¹ Facultad de Ciencias Marinas, Universidad Autónoma de Baja California (UABC), Ensenada, Baja California, México.
+² Centro de Investigación en Sustentabilidad y Gestión Estratégica de Recursos, Facultad de Ingeniería, Universidad del Desarrollo, Santiago, Chile.
+³ SENTINET: Surveillance, Epidemiology, and New Technologies for Infectious Emerging Threats, Santiago, Chile.
+
+\*Corresponding authors: a334571@uabc.edu.mx (Á. H. Hernández-Montiel); igiffard@uabc.edu.mx (I. Giffard-Mena)
+
+### ORCID identifiers
+
+- Álvaro H. Hernández-Montiel: [0000-0001-6125-0087](https://orcid.org/0000-0001-6125-0087)
+- Natalie Millán-Aguiñaga: [0000-0002-9373-5377](https://orcid.org/0000-0002-9373-5377)
+- Mónica Torres-Beltrán: [0000-0002-1293-8114](https://orcid.org/0000-0002-1293-8114)
+- Israel Rocha-Mendoza: [0000-0002-2693-6304](https://orcid.org/0000-0002-2693-6304)
+- Ivone Giffard-Mena: [0000-0003-1688-0703](https://orcid.org/0000-0003-1688-0703)
 
 ## Overview
 
-Comparative genomic analysis of 19 *Vibrio parahaemolyticus* strains:
+Comparative genomic analysis of **19 *Vibrio parahaemolyticus* strains**:
 
-- 3 Mexican isolates sequenced in this study (11_VM, 15_CESAIBC, 6_VM)
+- 3 Mexican isolates sequenced in this study (**11_VM**, **15_CESAIBC**, **6_VM**)
 - 16 public reference genomes from Asia and America
 
-Focus: gene-content differences associated with AHPND (Acute Hepatopancreatic Necrosis Disease), driven by the acquisition of a pVA1-like plasmid encoding PirAB toxins.
+**Focus:** gene-content differences associated with AHPND (Acute Hepatopancreatic Necrosis Disease), driven by the acquisition of a pVA1-like plasmid encoding PirAB toxins.
 
 ## Repository structure
 
@@ -25,41 +39,79 @@ Focus: gene-content differences associated with AHPND (Acute Hepatopancreatic Ne
 ├── LICENSE
 ├── scripts/
 │   ├── 01_pangenome_fisher/     # Pangenome + Fisher exact test + COG
-│   ├── 02_huella_digital/       # Gene fingerprint (Roary → PIRATE)
-│   ├── 03_filogenia/            # Core-SNP phylogeny, ancestral state
-│   ├── 04_bioensayo/            # Survival analysis (Kaplan-Meier)
+│   │   ├── 01_fisher_main.R
+│   │   ├── 02_heaps_alpha.R
+│   │   ├── 03_table_S3_candidates.R
+│   │   ├── 04_tables_2_S4_S5.R
+│   │   ├── 05_table_S4_L2181.R
+│   │   ├── 06_table_S5_R13.R
+│   │   ├── 07_figure_1_pangenome.py
+│   │   ├── fasta2csv_gene_presence_absence.py
+│   │   ├── generar_tabla_superficie.py
+│   │   └── integrar_anotaciones_eggnog.py
+│   ├── 02_huella_digital/       # Gene fingerprint (Figure S1, S4)
+│   │   ├── 01_figure_S4_top50_heatmap.R
+│   │   └── 02_figure_S1_COG_V_heatmap.py
+│   ├── 03_filogenia/            # Core-SNP phylogeny, ancestral state, colocalization
+│   │   ├── 01_core_snp_phylogeny.sh
+│   │   ├── 02_figure_2_phylogeny.R
+│   │   ├── 03_ancestral_reconstruction.R
+│   │   ├── 04_figure_S2_panel_ancestral.R
+│   │   ├── 05_accumulation_curves.R
+│   │   ├── 06_extract_colocalization_contigs.R
+│   │   ├── 07_prepare_gggenomes_data.R
+│   │   └── 08_figure_S3_colocalization.R
+│   ├── 04_bioensayo/            # Survival analysis (Figure 3)
+│   │   └── 05_kaplan_meier.R
 │   └── 05_pipeline/             # Genome download/annotation scripts
+│
 ├── input_data/
 │   ├── bioensayo/               # Raw survival data (360 individuals)
 │   ├── eggnog/                  # eggNOG annotations of differential genes
-│   ├── pangenome/               # Exclusive/absent gene lists
+│   ├── pangenome/               # Exclusive/absent gene lists + binary matrix
+│   │   └── roary_3mexicanas/    # Roary inputs for the 3 Mexican strains
 │   ├── phylogeny/               # Core-SNP treefile
 │   ├── pirAB_references/        # pirA / pirB reference sequences
 │   ├── pirate/                  # PIRATE presence/absence matrix
 │   └── strain_metadata/         # phenotype.csv + metadata of 19 strains
+│
 └── outputs/
-    ├── bioensayo/               # Kaplan-Meier PDF + summary tables
-    ├── cog/                     # COG enrichment + barplot
-    ├── colocalization/          # Co-localization of pirAB + neighbors
-    ├── figures/                 # Supplementary Figures S1-S4
-    ├── filogenia/               # Core-SNP tree, ancestral reconstruction
+    ├── bioensayo/               # KM summary tables (CSV)
+    ├── colocalization/          # Co-localization raw data (TSV)
+    ├── figures/                 # Main figures 1-3 (PDF + PNG)
+    ├── filogenia/               # Core-SNP tree + ancestral stats
     ├── fisher/                  # Fisher results, FDR, sensitivity analyses
-    ├── huella/                  # Top 50 fingerprint + heatmaps
+    ├── huella/                  # Top-50 fingerprint + COG-V data
     ├── pangenome/               # PIRATE summary, alpha Heaps, accession tree
-    └── tables/                  # Supplementary Tables S1-S5
+    ├── supplementary_figures/   # Supplementary figures S1-S4 (PDF + PNG)
+    └── tables/                  # Supplementary tables S1-S5 (TSV)
 ```
+
+## Figures generated by this repository
+
+| Figure | Content | Script |
+|---|---|---|
+| **Figure 1** | Gene-content diversity (pangenome, accumulation curves, accessory matrix) | `scripts/01_pangenome_fisher/07_figure_1_pangenome.py` |
+| **Figure 2** | Recombination-filtered core-SNP phylogeny (IQ-TREE + Gubbins) | `scripts/03_filogenia/02_figure_2_phylogeny.R` |
+| **Figure 3** | Kaplan–Meier survival curves (bioassay) | `scripts/04_bioensayo/05_kaplan_meier.R` |
+| **Figure S1** | COG category V (defence) heatmap | `scripts/02_huella_digital/02_figure_S1_COG_V_heatmap.py` |
+| **Figure S2** | Ancestral state reconstruction of the 4 AHPND+ markers | `scripts/03_filogenia/04_figure_S2_panel_ancestral.R` |
+| **Figure S3** | Co-localization of pVA1-borne genes (gggenomes) | `scripts/03_filogenia/08_figure_S3_colocalization.R` |
+| **Figure S4** | Top-50 candidate gene fingerprint | `scripts/02_huella_digital/01_figure_S4_top50_heatmap.R` |
 
 ## Requirements
 
+### Software
+
 | Software | Version |
 |----------|---------|
-| Prokka | 1.14.6 |
-| PIRATE | 1.0.4 |
-| Gubbins | 2.4.1 |
-| IQ-TREE | 3.1.3 |
-| MAFFT | 7.310 |
-| R | 4.3.3 |
-| Python | 3.7.12 |
+| Prokka   | 1.14.6  |
+| PIRATE   | 1.0.4   |
+| Gubbins  | 2.4.1   |
+| IQ-TREE  | 3.1.3   |
+| MAFFT    | 7.310   |
+| R        | 4.3.3   |
+| Python   | 3.7.12  |
 
 ### R packages
 
@@ -68,29 +120,45 @@ Focus: gene-content differences associated with AHPND (Acute Hepatopancreatic Ne
 - treeio 1.37.0.1
 - survival
 - rstatix
+- pheatmap
+- gggenomes 1.2.0
+- ggplot2
+- cowplot
+- survminer
+- dplyr
+- readr
 
-### Python
+### Python packages
 
 - Biopython 1.81
 - SciPy
 - pandas
+- numpy
 - matplotlib
-- seaborn
+- Pillow (PIL)
+- gggenomes is R-based
 
 ## Execution order
 
 1. `scripts/05_pipeline/download_genomes.sh` — Download reference genomes from NCBI
 2. `scripts/05_pipeline/process_genomes.sh` — Prokka annotation
 3. `scripts/05_pipeline/run_pirate_all.sh` — Build PIRATE pangenome
-4. `scripts/01_pangenome_fisher/fisher_from_pirate.py` — Fisher's exact test
-5. `scripts/01_pangenome_fisher/process_fisher.sh` — FDR correction + candidate annotation
-6. `scripts/01_pangenome_fisher/02_cog_analysis_roary.R` — COG enrichment
-7. `scripts/02_huella_digital/04_huella_pirate_filtrada.R` — Gene fingerprint
-8. `scripts/03_filogenia/05_core_snp_phylogeny.sh` — Recombination-filtered core-SNP phylogeny
-9. `scripts/03_filogenia/07_ancestral_reconstruction.R` — Ancestral state reconstruction
-10. `scripts/03_filogenia/08_panel_ancestral.R` — Panel of ancestral trees
-11. `scripts/03_filogenia/10_curvas_acumulacion.R` — Randomized accumulation curves
-12. `scripts/04_bioensayo/05_kaplan_meier.R` — Survival analysis
+4. `scripts/01_pangenome_fisher/01_fisher_main.R` — Fisher's exact test
+5. `scripts/01_pangenome_fisher/02_heaps_alpha.R` — Heaps' law α estimation
+6. `scripts/01_pangenome_fisher/03_table_S3_candidates.R` — Table S3 (113 extreme genes)
+7. `scripts/01_pangenome_fisher/04_tables_2_S4_S5.R` — Tables 2, S4, S5
+8. `scripts/01_pangenome_fisher/07_figure_1_pangenome.py` — Figure 1
+9. `scripts/02_huella_digital/02_figure_S1_COG_V_heatmap.py` — Figure S1
+10. `scripts/02_huella_digital/01_figure_S4_top50_heatmap.R` — Figure S4
+11. `scripts/03_filogenia/01_core_snp_phylogeny.sh` — Gubbins + IQ-TREE
+12. `scripts/03_filogenia/02_figure_2_phylogeny.R` — Figure 2
+13. `scripts/03_filogenia/04_figure_S2_panel_ancestral.R` — Figure S2
+14. `scripts/03_filogenia/06_extract_colocalization_contigs.R` — Extract GFF coordinates
+15. `scripts/03_filogenia/07_prepare_gggenomes_data.R` — Prepare gggenomes inputs
+16. `scripts/03_filogenia/08_figure_S3_colocalization.R` — Figure S3
+17. `scripts/04_bioensayo/05_kaplan_meier.R` — Figure 3
+
+Run all scripts from the repo root. Scripts use paths relative to the repository.
 
 ## Data availability
 
@@ -98,11 +166,11 @@ Focus: gene-content differences associated with AHPND (Acute Hepatopancreatic Ne
 
 | Strain | BioProject | BioSample | GenBank assembly |
 |---|---|---|---|
-| 11_VM | PRJNA1499920 | SAMN61896695 | JCBNQA000000000 |
-| 15_CESAIBC | PRJNA1499939 | SAMN61897767 | JCBNTU000000000 |
-| 6_VM | PRJNA1499907 | SAMN61896394 | JCBNPX000000000 |
+| **11_VM** | PRJNA1499920 | SAMN61896695 | **GCA_059981795.1** |
+| **15_CESAIBC** | PRJNA1499939 | SAMN61897767 | **GCA_059981755.1** |
+| **6_VM** | PRJNA1499907 | SAMN61896394 | **GCA_059981815.1** |
 
-Reference genome accessions are listed in `input_data/strain_metadata/phenotype.csv`.
+Reference genome accessions are listed in `input_data/strain_metadata/phenotype.csv` and Table 2 of the manuscript.
 
 ### Archived version
 
@@ -110,17 +178,32 @@ This repository is archived on Zenodo: [10.5281/zenodo.23225902](https://doi.org
 
 ## Citation
 
-If you use this code, please cite the manuscript above and the Zenodo release:
+If you use this code or data, please cite the manuscript and the Zenodo release:
 
 ```
-Hernández-Montiel ÁH, Mata-Torres F, Millán-Aguiñaga N, Torres-Beltrán M, Giffard-Mena I.
-Comparative genomics and experimental virulence of Mexican Vibrio parahaemolyticus isolates
-identify candidate gene-content differences associated with AHPND.
+Hernández-Montiel ÁH, Mata-Torres F, Millán-Aguiñaga N, Torres-Beltrán M,
+Rocha-Mendoza I, Giffard-Mena I.
+Comparative genomics and experimental virulence of Mexican Vibrio parahaemolyticus
+isolates identify candidate gene-content differences associated with AHPND.
 [Journal TBD], [Year]. DOI: [pending]
 
 Code and data: https://doi.org/10.5281/zenodo.23225902
 ```
 
+### Key software citations
+
+- **PIRATE** — Bayliss et al. (2019), *GigaScience* 8(10):giz119. https://doi.org/10.1093/gigascience/giz119
+- **Prokka** — Seemann (2014), *Bioinformatics* 30(14):2068–2069. https://doi.org/10.1093/bioinformatics/btu153
+- **Gubbins** — Croucher et al. (2015), *Nucleic Acids Research* 43(15):e15. https://doi.org/10.1093/nar/gkv684
+- **IQ-TREE** — Nguyen et al. (2015), *Molecular Biology and Evolution* 32(1):268–274. https://doi.org/10.1093/molbev/msu300
+- **gggenomes** — Hackl et al. (2024), *arXiv*. https://doi.org/10.48550/arXiv.2411.13556
+- **Heaps' law analysis** — Heaps (1978); Tettelin et al. (2008), *Current Opinion in Microbiology* 11(5):472–477. https://doi.org/10.1016/j.mib.2008.09.006
+
 ## License
 
 MIT — see `LICENSE`.
+
+## Contact
+
+- Álvaro H. Hernández-Montiel — a334571@uabc.edu.mx
+- Ivone Giffard-Mena — igiffard@uabc.edu.mx
